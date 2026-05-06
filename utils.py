@@ -11,6 +11,97 @@ import fitz  # PyMuPDF
 import pandas as pd
 from PIL import Image
 
+
+# ---------------------------------------------------------------------------
+# Detecção de texto tachado (strikethrough)
+# ---------------------------------------------------------------------------
+def get_strikethrough_rects(page: fitz.Page) -> list[fitz.Rect]:
+    """
+    Detecta todas as regiões de texto tachado (strikethrough) em uma página,
+    coletando informações tanto de anotações quanto de desenhos vetoriais (line art).
+
+    Método 1 — Anotações: busca anotações do tipo PDF_ANNOT_STRIKE_OUT.
+    Método 2 — Line art: busca linhas horizontais finas que cruzam o meio
+               vertical de blocos de texto (traçado vetorial desenhado
+               diretamente no content stream).
+
+    Returns:
+        Lista de fitz.Rect representando as áreas tachadas.
+    """
+    rects: list[fitz.Rect] = []
+
+    # ── 1. Anotações de Strikethrough ──────────────────────────────────
+    annots = page.annots()
+    if annots:
+        for annot in annots:
+            if annot.type[0] == fitz.PDF_ANNOT_STRIKE_OUT:
+                rects.append(annot.rect)
+
+    # ── 2. Line art (linhas vetoriais horizontais finas) ───────────────
+    try:
+        drawings = page.get_drawings()
+    except Exception:
+        drawings = []
+
+    for drawing in drawings:
+        for item in drawing.get("items", []):
+            # item é uma tupla: ("l", ponto_inicio, ponto_fim) para linhas
+            if item[0] != "l":
+                continue
+
+            p1, p2 = fitz.Point(item[1]), fitz.Point(item[2])
+
+            # Deve ser horizontal (variação vertical < 2pt)
+            if abs(p1.y - p2.y) > 2:
+                continue
+
+            # Comprimento mínimo para ser considerada um traço de tachado
+            line_length = abs(p2.x - p1.x)
+            if line_length < 20:
+                continue
+
+            # Cria um retângulo fino ao redor da linha para interseção
+            y_center = (p1.y + p2.y) / 2
+            x0 = min(p1.x, p2.x)
+            x1 = max(p1.x, p2.x)
+            line_rect = fitz.Rect(x0, y_center - 4, x1, y_center + 4)
+            rects.append(line_rect)
+
+    return rects
+
+
+def is_span_strikethrough(span_rect: fitz.Rect, strikethrough_rects: list[fitz.Rect]) -> bool:
+    """
+    Verifica se um span de texto está dentro de uma região tachada.
+
+    A interseção é considerada positiva quando a linha de tachado cruza
+    significativamente (≥ 50% da largura do span) a área do span.
+
+    Args:
+        span_rect:            Retângulo (bbox) do span de texto.
+        strikethrough_rects:  Lista de retângulos de regiões tachadas.
+
+    Returns:
+        True se o span estiver coberto por tachado.
+    """
+    if not strikethrough_rects:
+        return False
+
+    for st_rect in strikethrough_rects:
+        intersection = span_rect & st_rect  # interseção de retângulos
+        if intersection.is_empty:
+            continue
+
+        # Verifica se a linha de tachado cobre pelo menos 50% da largura do span
+        span_width = span_rect.width
+        if span_width <= 0:
+            continue
+        coverage = intersection.width / span_width
+        if coverage >= 0.50:
+            return True
+
+    return False
+
 # ---------------------------------------------------------------------------
 # Parâmetros de detecção de título
 # ---------------------------------------------------------------------------

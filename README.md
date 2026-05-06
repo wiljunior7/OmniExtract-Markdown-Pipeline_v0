@@ -17,6 +17,7 @@ Este projeto foi projetado para ser ideal para a preparação de documentos, cri
   - Preserva e converte tabelas para o formato GitHub-Flavored Markdown.
   - Extrai imagens embutidas, salvando-as localmente e referenciando-as no arquivo Markdown gerado.
   - Suporte a fallback de OCR para PDFs digitalizados (escaneados).
+  - **Remove automaticamente texto tachado (strikethrough)**, detectando tanto anotações PDF quanto traços vetoriais (line art) desenhados sobre o texto.
 - **Extração de Imagens**:
   - Processa imagens avulsas (`.png`, `.jpg`, `.jpeg`, etc.) utilizando OCR para converter o texto detectado em Markdown.
 - **Extração de Excel**:
@@ -58,6 +59,9 @@ python pipeline.py documento.pdf
 # PDF escaneado (forçando OCR via Tesseract)
 python pipeline.py documento.pdf --ocr
 
+# PDF mantendo texto tachado (por padrão, texto tachado é removido)
+python pipeline.py documento.pdf --keep-strikethrough
+
 # Planilha Excel (transforma todas as abas em tabelas Markdown)
 python pipeline.py relatorios.xlsx
 
@@ -95,6 +99,7 @@ This project is designed to be ideal for document preparation, knowledge base cr
   - Preserves and converts tables to GitHub-Flavored Markdown format.
   - Extracts embedded images, saving them locally and referencing them in the generated Markdown.
   - OCR fallback support for scanned PDFs.
+  - **Automatically removes strikethrough text**, detecting both PDF annotations and vector line art drawn over text.
 - **Image Extraction**:
   - Processes single images (`.png`, `.jpg`, `.jpeg`, etc.) using OCR to convert the detected text into Markdown.
 - **Excel Extraction**:
@@ -136,6 +141,9 @@ python pipeline.py document.pdf
 # Scanned PDF (forcing OCR)
 python pipeline.py document.pdf --ocr
 
+# PDF keeping strikethrough text (by default, strikethrough text is removed)
+python pipeline.py document.pdf --keep-strikethrough
+
 # Excel Spreadsheet (all sheets to Markdown)
 python pipeline.py reports.xlsx
 
@@ -173,6 +181,7 @@ Este proyecto ha sido diseñado para ser ideal en la preparación de documentos,
   - Preserva y convierte tablas al formato GitHub-Flavored Markdown.
   - Extrae opciones de imágenes integradas, guardándolas localmente y referenciándolas en el código Markdown generado.
   - Soporte de respaldo OCR para PDFs escaneados.
+  - **Elimina automáticamente el texto tachado (strikethrough)**, detectando tanto anotaciones PDF como trazos vectoriales dibujados sobre el texto.
 - **Extracción de Imágenes**:
   - Procesa imágenes independientes (`.png`, `.jpg`, `.jpeg`, etc.) usando OCR para convertir el texto detectado en Markdown.
 - **Extracción de Excel**:
@@ -214,6 +223,9 @@ python pipeline.py documento.pdf
 # PDF escaneado (OCR forzado)
 python pipeline.py documento.pdf --ocr
 
+# PDF manteniendo texto tachado (por defecto, el texto tachado se elimina)
+python pipeline.py documento.pdf --keep-strikethrough
+
 # Excel (todas las hojas unidas al Markdown)
 python pipeline.py informes.xlsx
 
@@ -251,6 +263,7 @@ excel.save("datos.md")
   - 保留并将表格转换为 GitHub-Flavored Markdown 表格格式。
   - 提取文件内容直接内置的图像、将它们保存在本地文件夹中及于生成的Markdown文件中调用本地图像呈现。
   - OCR用于扫描PDF文件的识别检测。
+  - **自动移除删除线文本（strikethrough）**，同时检测PDF注释和绘制在文本上的矢量线条。
 - **图片提取**:
   - 充分利用 OCR 从单独独立图片（`.png`, `.jpg`, `.jpeg` 等等 ) 能够获取并处理所检测和被翻译为 Markdown 的文字。
 - **Excel数据提取**:
@@ -291,6 +304,9 @@ python pipeline.py document.pdf
 
 # 受限且封锁式文本不可达之材料扫描类型版PDF (支持开启OCR模块模式运作)
 python pipeline.py document.pdf --ocr
+
+# PDF保留删除线文本（默认情况下，删除线文本会被移除）
+python pipeline.py document.pdf --keep-strikethrough
 
 # 试算数据表格 Excel (.xlsx) (默认会提取里头存放的所有的 Sheet的内容到最终Markdown中)
 python pipeline.py document.xlsx

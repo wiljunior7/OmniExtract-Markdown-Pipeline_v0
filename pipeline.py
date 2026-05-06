@@ -10,6 +10,7 @@ Funcionalidades:
   ✔ Preserva tabelas (GitHub-Flavored Markdown)
   ✔ Extrai imagens e gera referências no Markdown
   ✔ Suporta OCR para PDF escaneado (via pytesseract)
+  ✔ Remove automaticamente texto tachado (strikethrough)
   ✔ Gera Markdown estruturado e limpo
 
 Uso:
@@ -35,6 +36,8 @@ from utils import (
     dataframe_to_markdown_table,
     detect_title_level,
     ocr_image_file,
+    get_strikethrough_rects,
+    is_span_strikethrough,
 )
 
 # ---------------------------------------------------------------------------
@@ -68,10 +71,12 @@ IMAGE_MIN_HEIGHT = 50
 class PDFProcessor:
     """Processa um PDF e gera Markdown estruturado."""
 
-    def __init__(self, pdf_path: str, images_dir: str = "output_images", use_ocr: bool = False):
+    def __init__(self, pdf_path: str, images_dir: str = "output_images", use_ocr: bool = False,
+                 remove_strikethrough: bool = True):
         self.pdf_path = Path(pdf_path)
         self.images_dir = Path(images_dir)
         self.use_ocr = use_ocr
+        self.remove_strikethrough = remove_strikethrough
         self.images_dir.mkdir(parents=True, exist_ok=True)
 
         # Abre com PyMuPDF (visual) e pdfplumber (dados)
@@ -82,6 +87,8 @@ class PDFProcessor:
         self.header_footer_texts: set[str] = set()
 
         log.info(f"PDF carregado: {self.pdf_path.name} ({self.total_pages} páginas)")
+        if self.remove_strikethrough:
+            log.info("  → Remoção de texto tachado (strikethrough) ATIVADA")
 
     # ------------------------------------------------------------------
     # Detecção de Header / Footer
@@ -217,10 +224,18 @@ class PDFProcessor:
         """
         Extrai blocos de texto, detecta títulos e filtra header/footer.
         Blocos sobrepostos com tabelas são ignorados.
+        Spans com texto tachado (strikethrough) são removidos quando habilitado.
         """
         page = self.fitz_doc[page_index]
         h = page.rect.height
         margin = h * HEADER_FOOTER_THRESHOLD
+
+        # Detecta regiões de texto tachado na página
+        st_rects: list[fitz.Rect] = []
+        if self.remove_strikethrough:
+            st_rects = get_strikethrough_rects(page)
+            if st_rects:
+                log.debug(f"  Página {page_index + 1}: {len(st_rects)} regiões de tachado detectadas")
 
         blocks = page.get_text("dict", flags=fitz.TEXT_PRESERVE_WHITESPACE)["blocks"]
         text_parts = []
@@ -251,11 +266,26 @@ class PDFProcessor:
                 line_text = ""
                 max_size = 0
                 is_bold = False
+                all_strikethrough = True  # assume tachado até provar contrário
+                has_any_span = False
 
                 for span in line.get("spans", []):
                     span_text = span.get("text", "").strip()
                     if not span_text:
                         continue
+
+                    has_any_span = True
+
+                    # Verifica se o span está tachado
+                    if self.remove_strikethrough and st_rects:
+                        span_rect = fitz.Rect(span.get("bbox", (0, 0, 0, 0)))
+                        if is_span_strikethrough(span_rect, st_rects):
+                            continue  # pula span tachado
+                        else:
+                            all_strikethrough = False
+                    else:
+                        all_strikethrough = False
+
                     size = span.get("size", 12)
                     flags = span.get("flags", 0)
                     bold = bool(flags & 2**4)  # bit 4 = bold
@@ -265,6 +295,10 @@ class PDFProcessor:
                     if bold:
                         is_bold = True
                     line_text += span_text + " "
+
+                # Se todos os spans da linha eram tachados, pula a linha inteira
+                if has_any_span and all_strikethrough and self.remove_strikethrough:
+                    continue
 
                 line_text = clean_text(line_text)
                 if not line_text:
@@ -445,6 +479,8 @@ def main():
     parser.add_argument("output", nargs="?", help="Caminho de saída (.md). Padrão: mesmo nome do arquivo")
     parser.add_argument("--ocr", action="store_true", help="Ativa OCR como fallback para páginas escaneadas")
     parser.add_argument("--images-dir", default="output_images", help="Diretório para salvar imagens extraídas")
+    parser.add_argument("--keep-strikethrough", action="store_true",
+                        help="Mantém texto tachado (por padrão, texto tachado é removido)")
     parser.add_argument("--verbose", "-v", action="store_true", help="Logging detalhado")
 
     args = parser.parse_args()
@@ -467,6 +503,7 @@ def main():
             pdf_path=str(input_path),
             images_dir=args.images_dir,
             use_ocr=args.ocr,
+            remove_strikethrough=not args.keep_strikethrough,
         )
     elif ext in [".png", ".jpg", ".jpeg", ".bmp", ".tiff"]:
         processor = ImageProcessor(image_path=str(input_path))

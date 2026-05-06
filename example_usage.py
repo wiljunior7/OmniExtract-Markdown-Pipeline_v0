@@ -13,8 +13,16 @@ processor = PDFProcessor(
     pdf_path="seu_documento.pdf",  # ← altere aqui
     images_dir="output_images",    # pasta para salvar imagens extraídas
     use_ocr=False,                  # True para PDFs escaneados
+    remove_strikethrough=True,      # Remove texto tachado (padrão: True)
 )
 processor.save("output_pdf.md")
+
+# Exemplo PDF — mantendo texto tachado
+processor_with_strikethrough = PDFProcessor(
+    pdf_path="seu_documento.pdf",
+    remove_strikethrough=False,     # Mantém texto tachado na saída
+)
+processor_with_strikethrough.save("output_pdf_com_tachado.md")
 
 # Exemplo Excel
 excel_processor = ExcelProcessor(
@@ -36,8 +44,11 @@ image_processor.save("output_image.md")
 #
 # O tipo é detectado automaticamente pela extensão:
 #
-# PDF normal:
+# PDF normal (texto tachado é removido automaticamente):
 #   python pipeline.py documento.pdf
+#
+# PDF mantendo texto tachado:
+#   python pipeline.py documento.pdf --keep-strikethrough
 #
 # Excel:
 #   python pipeline.py planilha.xlsx
@@ -50,3 +61,4 @@ image_processor.save("output_image.md")
 #
 # Especificar saída manual:
 #   python pipeline.py imagem.jpg saida.md
+
