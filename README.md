@@ -7,7 +7,7 @@
 
 Um pipeline profissional em Python para extração de dados e conversão de **PDFs, Imagens e Planilhas Excel** para o formato Markdown limpo e estruturado.
 
-Este projeto foi projetado para ser ideal para a preparação de documentos, criação de bases de conhecimento, pipelines de Ingestão de Dados (RAG - *Retrieval-Augmented Generation*) e uso por Large Language Models (LLMs).
+Este projeto foi desenvolvido para ser ideal na preparação de documentos, criação de bases de conhecimento, pipelines de Ingestão de Dados (RAG - *Retrieval-Augmented Generation*) e uso por Large Language Models (LLMs).
 
 ## 🚀 Funcionalidades
 
