@@ -1,5 +1,6 @@
 # SUMÁRIO
 
+
 TÍTULO I - DOS PRINCÍPIOS FUNDAMENTAIS..................................................24
 TÍTULO II - DA PARTICIPAÇÃO POPULAR...........................................................25
 TÍTULO III - DA ORGANIZAÇÃO ESTADUAL........................................................27
@@ -84,6 +85,8 @@ CAPÍTULO XI - DA POLÍTICA AGRÍCOLA E FUNDIÁRIA...........................128
 CAPÍTULO XII - DA PREVIDÊNCIA E ASSISTÊNCIA SOCIAIS...................133
 ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS....................134
 
+---
+
 #### TÍTULO I
 
 DOS PRINCÍPIOS FUNDAMENTAIS
@@ -108,6 +111,7 @@ auxiliado pelos Secretários de Estado.
 § 3º O Poder Judiciário é exercido pelo Tribunal de Justiça e pelos
 juízes estaduais.
 
+
 Art. 4º O território cearense, para os fins das políticas governa-
 mentais de estímulo e desenvolvimento, será constituído por
 conformações regionais resultantes da aglutinação de municípios
@@ -126,6 +130,7 @@ a) regiões metropolitanas;
 b) microrregiões; e
 
 c) aglomerações urbanas.
+
 
 #### TÍTULO II
 DA PARTICIPAÇÃO POPULAR
@@ -158,6 +163,8 @@ Art. 7º Todos os órgãos e instituições dos poderes estadual e muni-
 cipal são acessíveis ao indivíduo, por petição ou representação, em
 defesa do direito ou em salvaguarda cívica do interesse coletivo
 e do meio ambiente.
+
+---
 
 § 1º A autoridade, a quem for dirigida a petição ou representação,
 deverá oficializar o seu ingresso, assegurando-lhe tramitação
@@ -201,6 +208,7 @@ de membro do Ministério Público.
 Art.10. É direito de todos o ensino de 1º e 2º graus, devendo o Estado
 e os Municípios dar condições ao setor educacional para o alcance
 desse objetivo.
+
 Art. 11. Qualquer cidadão, partido político, associação ou sindi-
 cato de classe é parte legítima para denunciar irregularidades ou
 ilegalidades perante o Tribunal de Contas do Estado, exigir-lhes
@@ -209,15 +217,19 @@ responsáveis, ficando a autoridade que receber a denúncia ou
 requerimento de providências, obrigada a manifestar-se sobre
 a matéria.
 
+---
+
 § 1º A denúncia deverá ser instruída com documentos que revelem
 indícios suficientes à apuração dos fatos.
 § 2º Assiste ao cidadão legitimidade para postular, perante os
 órgãos públicos estaduais ou municipais, a apuração de respon-
 sabilidade, em caso de danos ao meio ambiente, conforme o
 disposto em lei.
+
 Art. 13. A criação de associações e, na forma da lei, a de coopera-
 tivas, independem de autorização, sendo vedada a interferência
 estatal em seu funcionamento.
+
 Parágrafo único . As associações só poderão ser compulsoriamente
 dissolvidas ou ter suas atividades suspensas por decisão judicial,
 exigindo-se, no primeiro caso, o trânsito em julgado.
@@ -229,6 +241,7 @@ DA ORGANIZAÇÃO ESTADUAL
 #### CAPÍTULO I
 
 DISPOSIÇÕES GERAIS
+
 Art. 14. O Estado do Ceará, pessoa jurídica de direito público interno,
 exerce em seu território as competências que, explícita ou impli-
 citamente, não lhe sejam vedadas pela Constituição Federal,
@@ -242,10 +255,8 @@ nação em razão de nacionalidade, condição e local de nascimento,
 raça, cor, religião, origem étnica, convicção política ou filosófica,
 deficiência física ou mental, doença, idade, atividade profissional,
 estado civil, classe social, sexo e orientação sexual;
-
 IV – respeito à legalidade, impessoalidade, à moralidade, à publi-
 cidade, à eficiência e à probidade administrativa;
-
 V – colaboração e cooperação com os demais entes que integram
 a Federação, visando ao desenvolvimento econômico e social de
 todas as regiões do país e de toda a sociedade brasileira;
@@ -257,7 +268,6 @@ IX – desenvolvimento dos serviços sociais e programas destinados
 à garantia de habitação digna, com adequada infraestrutura,
 de educação gratuita em todos os níveis, bem como compatível
 atendimento na área de saúde pública;
-
 X – prestação de assistência social aos necessitados e à defesa
 dos direitos humanos;
 XI – promoção do livre acesso a fontes culturais e o incentivo ao
@@ -270,6 +280,12 @@ XIV – respeito à autonomia dos Municípios;
 XV – contribuição para a política de integração nacional e de
 redução das desigualdades socioeconômicas regionais do Brasil
 e internamente em seu próprio território;
+XVI – elaboração e execução de planos estaduais de ordenação do território e
+desenvolvimento econômico e social, ajustando os delineamentos nacionais
+às peculiaridades do ambiente estadual;
+                    
+---
+
 XVI – elaboração e execução de planos estaduais de ordenação
 do território e desenvolvimento socioeconômico, socioambiental
 e socioespacial, ajustando os delineamentos nacionais às pecu-
@@ -292,6 +308,7 @@ que comprovarem insuficiência de recursos.
 XXI – garantia progressiva do direito à internet segura e livre como
 ferramenta de acesso à informação, educação e participação
 cívico-democrática.
+
 Art. 15. São competências do Estado, exercidas em comum com a
 União, o Distrito Federal e os Municípios:
 
@@ -322,6 +339,7 @@ rança do trânsito.
 Parágrafo único . O sistema de cooperação entre as entidades
 políticas para aplicação das normas previstas neste artigo far-se-á
 em conformidade com lei complementar federal.
+Art. 16. O Estado participará, em caráter concorrente, da legislação sobre:
 Art. 16. O Estado legislará concorrentemente, nos termos do art.
 24 da Constituição da República, sobre:
 
@@ -341,6 +359,8 @@ a bens e direitos de valor artístico, estético, histórico, turístico e
 paisagístico;
 IX – educação, cultura, ensino e desporto;
 
+---
+
 XI – procedimentos em matérias processuais;
 XII – previdência social, proteção e defesa da saúde;
 XIII – assistência jurídica e defensoria pública;
@@ -351,6 +371,7 @@ XVI – organização, garantias, direitos e deveres das polícias civis.
 § 1º A competência da União, em caráter concorrente, limitar-se-á
 a estabelecer as normas gerais e, à sua falta, não ficará o Estado
 impedido de exercer atividade legislativa plena.
+
 § 2º A competência da União para legislar sobre normas gerais não
 exclui a competência suplementar dos Estados.
 
@@ -359,6 +380,7 @@ a eficácia da Lei Estadual, no que lhe for contrário.
 
 Art. 17. A cidade de Fortaleza é a capital do Estado do Ceará e a
 sede do Governo.
+
 Parágrafo único . Em caso de eventual mudança do Executivo ou
 Judiciário, deverá esta ser precedida de comunicação à Assembleia
 Legislativa e consequente publicação no Diário Oficial.
@@ -367,8 +389,7 @@ Art. 18. São símbolos estaduais a bandeira, o hino e as armas do
 Ceará.
 Parágrafo único . O dia 25 de março fica estabelecido como data
 magna do Estado do Ceará.
-Os Juizados de Pequenas Causas, atualmente, têm sua nomenclatura como Juizados Especiais, podendo ser cíveis, criminais ou da
-Fazenda Pública, além do Juizado Móvel, que trabalha em casos de acidentes de trânsito.
+
 
 #### CAPÍTULO II
 
@@ -382,6 +403,20 @@ didas entre os bens da União;
 IV – a dívida ativa proveniente de receita não arrecadada;
 V – os que tenham sido ou venham a ser, a qualquer título, incor-
 porados ao seu patrimônio.
+§ 1º A alienação de bens imóveis do Estado dependerá, em cada caso, de prévia
+autorização legislativa; nas alienações onerosas, salvo os casos especialmente
+previstos em lei, observar-se-á o princípio da licitação, desde que o adquirente
+não seja pessoa jurídica de direito público interno, empresa pública, sociedade
+de economia mista ou fundação pública; a lei disporá sobre as concessões e
+permissões de uso de bens móveis e imóveis do Estado.
+§ 1º Exceto nas hipóteses previstas nas letras b e c, do inciso V do art. 316, a
+alienação de bens imóveis do Estado dependerá, em cada caso, de prévia
+autorização legislativa; nas alienações onerosas, salvo os casos especialmente
+previstos em lei, observar-se-á o princípio da licitação, desde que o adquirente
+não seja pessoa jurídica de direito público interno, empresa pública, sociedade
+de economia mista ou fundação pública; a lei disporá sobre as concessões e
+permissões de uso de bens móveis e imóveis do Estado. (Redação dada pela
+Emenda Constitucional nº 26, de0 06 de agosto de 1996).
 § 1º Exceto nas hipóteses previstas nas alíneas “b” e “c” do inciso
 V do art. 316, a alienação de bens imóveis do Estado dependerá
 de prévia autorização legislativa. Nas alienações onerosas, salvo
@@ -390,6 +425,7 @@ da licitação, desde que o adquirente não seja pessoa jurídica de
 direito público interno, empresa pública, sociedade de economia
 mista ou fundação pública. A lei disporá sobre as concessões e
 permissões de uso de bens móveis e imóveis do Estado.
+(Redação dada Emenda Constitucional nº 119, de 01 de dezembro de 2022).
 § 2º Os bens públicos estaduais são impenhoráveis, não podendo,
 ainda, ser objeto de arresto ou qualquer medida de apreensão
 judicial, ressalvada a hipótese de que trata o §2º, do art. 100 da
@@ -398,13 +434,18 @@ Constituição da República.
 ser considerados, sempre que possível, como ativos públicos, no
 intuito de promover a geração, a otimização e o melhor retorno
 
+---
+
 possível, respeitando os riscos e o perfil do Estado pela aplicação
 e gestão eficiente desses ativos.
+(Inserido pela Emenda Constitucional nº 119, de 01 de dezembro de 2022).
 § 4º São ativos públicos do Estado do Ceará aqueles declarados
 como tal por órgão colegiado, que será presidido pelo Governador
 do Estado e composto por Secretários de Governo como membros
 titulares, e que, entre suas competências, deliberará acerca da ges-
 tão de ativos públicos do Estado, nos termos de Lei Complementar.
+(Inserido pela Emenda Constitucional nº 119, de 01 de dezembro de 2022).
+Art. 20. É vedado ao Estado e aos Municípios:
 Art. 20. É vedado ao Estado:
 
 I – recusar fé aos documentos públicos;
@@ -428,13 +469,22 @@ ser punidos os autores, especialmente se ocorrer pratica de ato,
 fiscalizatório ou não, que venha a interferir de forma a impedir
 ou perturbar a realização de momentos de oração, celebração,
 cultos e liturgias.
+(Inserido pela Emenda Constitucional nº 83, de 2 de julho de 2015) (Suspenso
 por medida cautelar no TJ-CE, em 22/06/2017, aguardando julgamento de
 mérito, nº do processo (0622098-92.2017.8.06.0000). 8
+Art. 21. Ao Estado do Ceará cabe explorar diretamente, mediante empresa
+estadual, com exclusividade de distribuição, os serviços locais de gás canalizado.
+7
+Arguida a inconstitucionalidade na ADI nº 307-1, julgada improcedente. DJE 01/07/2009.
+8
+Suspenso por medida cautelar do Tribunal de Justiça do Ceará, em 22/06/2017, até o julgamento da
+Ação Direta de Inconstitucionalidade, nº do processo no TJ-CE: 0622098-92.2017.8.06.0000. Ver ADI no Anexo I
 Art. 21. Ao Estado do Ceará cabe explorar diretamente, ou mediante
 concessão, na forma da lei, os serviços de gás canalizado em seu
 território, incluído o fornecimento direto a partir de gasodutos
 de transporte, de maneira a atender às necessidades dos setores
 industrial, domiciliar, comercial, automotivo e outros.
+(Redação dada pela Emenda Constitucional nº 32, de 14 de outubro de 1997).
 Parágrafo único . Os serviços de transporte coletivo devem utilizar,
 preferencialmente, o gás canalizado, referido no caput deste artigo.
 Art. 22. É assegurada, nos termos da lei, ao Estado e aos Municípios,
@@ -467,15 +517,23 @@ das da faixa de material detrítico, tal como areias, cascalhos, seixos
 e pedregulhos, até o limite onde se inicie a vegetação natural ou
 outro ecossistema, ficando garantida uma faixa livre, com largura
 
+---
+
 mínima de trinta e três metros, entre a linha da maré máxima local
 e o primeiro logradouro público ou imóvel particular decorrente de
 loteamento aprovado pelo Poder Executivo Municipal e registrado
 no Registro de Imóveis do respectivo Município, nos termos da lei.
+Art. 24. Incumbe ao Estado e aos seus Municípios costeiros manter, cada um em
+sua esfera organizacional, órgão especializado, sintonizado com as diretrizes
+federais, promovendo a elaboração de plano, a ser convertido em lei, e velar
+por sua execução.
 Art. 24. O Estado, respeitada a Lei Federal, e seus Municípios costei-
 ros, respeitadas as Leis Federal e Estadual, deverão elaborar planos,
 convertidos em leis, que definirão as diretrizes de gerenciamento
 costeiro e de meio ambiente, velando por sua execução.
 
+§ 1º O plano definirá as diretrizes de gerenciamento costeiro e defesa do
+ambiente, compreendendo:
 § 1º Os planos compreenderão as seguintes matérias:
 
 I – urbanização;
@@ -499,8 +557,14 @@ DO MUNICÍPIO
 #### CAPÍTULO I
 
 DISPOSIÇÕES GERAIS
+Art. 25. A estrutura organizacional do Estado do Ceará é constituída por Muni-
+cípios, politicamente autônomos, nas latitudes previstas na Constituição da
+República e nesta Constituição.
 Art. 25. O Estado do Ceará se constitui de Municípios, politicamente
 autônomos, nos termos previstos na Constituição da República.
+Art. 26. O Município reger-se-á por sua própria Lei Orgânica e leis ordinárias
+que adotar, respeitados os princípios estabelecidos nesta Constituição e na
+Constituição Federal.
 Art. 26. O Município reger-se-á por Lei Orgânica, votada em dois
 turnos, com interstício mínimo de dez dias, e aprovada por dois
 terços dos membros da Câmara Municipal, que a promulgará,
@@ -537,11 +601,15 @@ observada a legislação e a ação fiscalizadora federal e estadual;
 X – dar ampla publicidade a leis, decretos, editais e demais atos
 administrativos, através dos meios de que dispuser.
 
+---
+
 XI – o direito de liberdade de decisão quanto à associação ou não
 à Associação de Municípios, em nível estadual e em nível federal,
 inclusive com pagamento de contribuição, prevista em lei.
+(Inserido pela Emenda Constitucional nº 79 de 5 de dezembro de 2013).
 XII - garantir a liberação de crença, não dificultando o funciona-
 mento de cultos religiosos ou igrejas.
+(Inserido pela Emenda Constitucional nº 83, de 2 de julho de 2015).
 § 1º Entende-se por dificultar o funcionamento previsto no inciso
 XII deste artigo, quaisquer atos de agentes públicos que venham
 impedir, ameaçar ou embaraçar o livre funcionamento dos templos
@@ -551,50 +619,98 @@ para seu regular funcionamento, devendo ser punidos os autores,
 especialmente se ocorrer prática de ato, fiscalizatório ou não, que
 venha a interferir de forma a impedir ou perturbar a realização de
 momentos de oração, celebração, cultos e liturgias.
+(Inserido pela Emenda Constitucional nº 83, de 02 de julho de 2015).
 § 2º Os preços dos serviços, de que trata o inciso IV, do art. 28, serão
 fixados por uma comissão municipal, encarregada da política de
 tarifas e qualidades dos serviços prestados pelo transporte coletivo
 urbano, que será composta por representantes:
+(Inserido pela Emenda Constitucional nº 13, de 07 de abril de 1994).
 (Renumerado pela Emenda Constitucional nº 83, de 28 de maio de 2015)
 - Concessionários ou Permissionários;
+(Inserido pela Emenda Constitucional nº 13, de 07 de abril de 1994).
 - Trabalhadores;
+(Inserido pela Emenda Constitucional nº 13, de 07 de abril de 1994).
 - Estudantes;
+(Inserido pela Emenda Constitucional nº 13, de 07 de abril de 1994).
 - Câmara Municipal;
+(Inserido pela Emenda Constitucional nº 13, de 07 de abril de 1994).
 - Secretário de Transporte Coletivo.
+(Inserido pela Emenda Constitucional nº 13, de 07 de abril de 1994).
+Art. 29. As divulgações oficiais devem ficar circunscritas a matérias de significação
+relevante para conhecimento coletivo, com caráter educativo, informativo ou de
+orientação social, vedada a promoção pessoal de autoridades ou servidores públicos.
 Art. 29. As divulgações oficiais, pelos Municípios, para conheci-
 mento coletivo, devem ficar circunscritas a matérias de caráter
 educativo, informativo ou de orientação social, vedada a promoção
 pessoal de autoridades ou servidores públicos.
 
+9
 Ver ADI nº 307-1 no Anexo II.
 rural para a sede do Município, ou para o Distrito mais próximo, alunos carentes,
 matriculados a partir da 5ª série do 1º grau.
 Art. 30. (Declarado inconstitucional, em controle concentrado,
 pelo Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 307-1, no dia 13 de fevereiro de 2008, publicada
 no dia 24 de agosto de 2009, no DJE). 9
+Art. 31. Nenhum Município será criado sem a verificação da existência na res-
+pectiva área territorial dos seguintes requisitos:
 I – população superior a cinco mil habitantes;
 II – eleitorado não inferior a vinte por cento de sua população;
 III – centro urbano já constituído, com número de prédios superior a cento e
 cinquenta, possuindo infraestrutura mínima, como seja, eletrificação na sede,
 grupo escolar e condições para instalação da Prefeitura e Câmara Municipal;
 IV – distrito devidamente constituído perante a lei.
+Art. 31. Nenhum Município será criado sem a verificação da existência na res-
+pectiva área territorial dos requisitos relacionados com a população, densidade
+eleitoral, infraestrutura, renda, ou potencial econômico e demais critérios
+estabelecidos em Lei Complementar. (Redação dada pela Emenda Constitucional
+nº 3, de 15 de agosto de 1991).
 Art. 31. A criação, a incorporação, a fusão e o desmembramento
 de Municípios, far-se-ão por lei estadual e dependerão de con-
 sulta prévia, mediante plebiscito, às populações dos Municípios
 envolvidos, após divulgação dos Estudos de Viabilidade Municipal,
 apresentados e publicados na forma da lei.
 
+Art. 32. O Estado e os Municípios atuarão conjuntamente, nas microrregiões,
+na região metropolitana e nas aglomerações urbanas, para ordenar as ações
+governamentais, assim configuradas:
 Art. 32. O Estado e os Municípios atuarão conjuntamente nas
 microrregiões, nas aglomerações urbanas e nas regiões metro-
 politanas visando integrar, articular e compatibilizar as ações
 governamentais, com base:
+(Redação dada pela Emenda Constitucional nº 62, de 22 de abril de 2009).
+I – planejamento e disciplinamento urbano físico e social;
 I – no planejamento e na gestão do desenvolvimento urbano,
 local e regional sustentável e participativo;
+(Redação dada pela Emenda Constitucional nº 62, de 22 de abril de 2009).
 II – compatibilização de planos, programas e projetos;
 III – articulação do sistema viário em que se inserem os Municípios.
+Art. 33. Os subsídios dos Vereadores às Câmaras Municipais do interior do Estado,
+abrangendo a representação parlamentar não podem exceder a trinta por cento
+da remuneração dos respectivos Prefeitos municipais.
+
+---
+
+do Ceará, será fixada pelas próprias Câmaras Municipais, em cada Legislatura,
+para a subsequente, podendo ser com base na remuneração do Prefeito ou na
+receita orçamentária efetivamente arrecadada, não podendo exceder, para
+cada Vereador, 30% (trinta por cento) do que perceber o Prefeito Municipal, e/
+ou ultrapassar para todos os Vereadores do Município a 4% (quatro por cento)
+de sua receita orçamentária, em nenhum dos casos ultrapassará a 25% (vinte
+e cinco por cento) do que perceber a qualquer título o Deputado Estadual.
+(Redação dada pela Emenda Constitucional nº 06, de 13 de dezembro de 1991).
 Art. 33. O número de Vereadores será proporcional à população
 do Município, observados os limites estabelecidos na Constitui-
 ção Federal.
+
+§ 1º Aos Vereadores fica assegurada a faculdade de contribuírem para o órgão de
+previdência estadual, na mesma base percentual dos seus servidores públicos;
+§ 1º (Revogado).
+(Revogado pela Emenda Constitucional nº 16, de 13 de abril de 1994).
+§ 2º Lei complementar estadual regulamentará a concessão de aposentadoria
+ou pensão aos Vereadores.
+§ 2º (Revogado).
+(Revogado pela Emenda Constitucional nº 16, de 13 de abril de 1994).
 
 #### CAPÍTULO II
 
@@ -612,6 +728,7 @@ V – representar contra irregularidades administrativas;
 VI – exercer controle político da administração;
 VII – dar curso à iniciativa popular que seja regularmente for-
 mulada, relativa às cidades e aos aglomerados urbanos e rurais;
+10
 Ver ADI nº 307-1 no Anexo II.
 IX – convocar autoridades municipais para prestarem
 esclarecimentos;
@@ -643,9 +760,14 @@ em sua aplicação.
 anuais das Câmaras Municipais todos os procedimentos e disposi-
 tivos previstos para matérias correspondentes relacionadas com
 o Poder Executivo Municipal.
+§ 3º As Câmaras Municipais funcionarão em prédio próprio ou público, inde-
+pendente da sede do Poder Executivo.
 § 3º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 307-1, no dia 13 de fevereiro de 2008, publicada
 no dia 24 de agosto de 2009, no DJE). 10
+
+---
 
 ao Tribunal de Contas dos Municípios que adotará as providências cabíveis em
 caso de suspeita de enriquecimento ilícito ou outras irregularidades. (Inserido
@@ -655,12 +777,14 @@ seus bens, dos bens de seus cônjuges e dos descendentes até o
 primeiro grau ou por adoção, ao Tribunal de Contas do Estado do
 Ceará, que adotará as providências cabíveis em caso de suspeita
 de enriquecimento ilícito ou outras irregularidades.
+(Substituída a expressão “Tribunal de Contas dos Municípios” por “Tribunal
 de Contas do Estado do Ceará” pela Emenda constitucional nº 92, de 16 de
 agosto de 2017).
 § 5º As declarações de bens a que se refere o parágrafo anterior
 deverão ser publicadas no Diário Oficial do Estado e postas à
 disposição de qualquer interessado, mediante requerimento
 devidamente justificado.
+(Inserido pela Emenda Constitucional nº 49, de 04 de abril de 2002).
 Art. 36. Os Vereadores, na circunscrição de seus Municípios, gozam
 de inviolabilidade por suas opiniões, palavras e votos no exercício
 do mandato.
@@ -682,34 +806,65 @@ função na administração pública direta ou indireta, ressalvada a
 investidura decorrente de concurso público, observado o disposto
 no art. 38, I, IV e V da Constituição da República.
 § 5º O Prefeito será julgado perante o Tribunal de Justiça.
+11
 Ver ADI nº 307-1 no Anexo II.
+12
 Ver ADI nº 307-1 no Anexo II.
+13
 Ver ADI nº 307-1 no Anexo II.
+14
 Ver ADI nº 307-1 no Anexo II.
+§ 6º A remuneração do Prefeito é composta de subsídio e representação, fixada
+pela Câmara Municipal, cujo total não poderá exceder a um quinto, um terço,
+dois quintos, metade e quatro quintos da remuneração do Governador para
+Municípios com população, respectivamente, igual ou inferior a quinze mil,
+quarenta mil, setenta mil, quinhentos mil e acima de quinhentos mil habitantes,
+observados os dados populacionais mais recentes fornecidos pela Fundação
+Instituto Brasileiro de Geografia e Estatística.
 § 6º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 307-1, no dia 13 de fevereiro de 2008, publicada
 no dia 24 de agosto de 2009, no DJE). 11
+§ 7º Os valores dos subsídios e da representação do Prefeito, a serem fixados
+pela Câmara Municipal, serão reajustados na data e na razão dos aumentos
+concedidos ao Governador do Estado.
 § 7º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 307-1, no dia 13 de fevereiro de 2008, publicada
 no dia 24 de agosto de 2009, no DJE). 12
+§ 8º Se a Câmara Municipal não fixar os valores do subsídio e representação do
+Prefeito, prevalecerão os limites previstos no parágrafo anterior.
 § 8º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 307-1, no dia 13 de fevereiro de 2008, publicada
 no dia 24 de agosto de 2009, no DJE). 13
+§ 9º O Prefeito não pode ausentar-se do Município, por tempo superior a dez dias,
+sem prévia licença da Câmara Municipal, sujeito à perda do cargo.
 § 9º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 307-1, no dia 13 de fevereiro de 2008, publicada
 no dia 24 de agosto de 2009, no DJE). 14
+§ 10 . Os Prefeitos e Vice-Prefeitos deverão enviar anualmente declaração de
+seus bens, dos bens de seus cônjuges e dos descendentes até o primeiro grau ou
+por adoção, ao Tribunal de Contas dos Municípios que adotará as providências
+cabíveis em caso de suspeita de enriquecimento ilícito ou outras irregularidades.
+(Inserido pela Emenda Constitucional nº 49, de 04 de abril de 2002).
 § 10 . Os prefeitos e vice-prefeitos deverão enviar anualmente
 declaração de seus bens, dos bens de seus cônjuges e dos descen-
 dentes até o primeiro grau ou por adoção, ao Tribunal de Contas
 do Estado do Ceará, que adotará as providências cabíveis em caso
 de suspeita de enriquecimento ilícito ou outras irregularidades.
 
+---
+
+(Substituída a expressão “Tribunal de Contas dos Municípios” por “Tribunal
 de Contas do Estado do Ceará” pela Emenda constitucional nº 92, de 16 de
 agosto de 2017).
 § 11 . As declarações de bens a que se refere o parágrafo anterior
 deverão ser publicadas no Diário Oficial do Estado e postas à
 disposição de qualquer interessado, mediante requerimento
 devidamente justificado.
+(Inserido pela Emenda Constitucional nº 49, de 04 de abril de 2002).
 Art. 38. As competências dos Prefeitos devem constar da Lei Orgâ-
 nica do Município, incluídas, dentre outras, as seguintes:
 I – representar o Município;
@@ -731,8 +886,28 @@ o Município. 15
 suceder-lhe em caso de vaga, representar o Município e exercer
 outras atividades por delegação do Prefeito, auxiliando-o em
 diferentes misteres político-administrativos.
+§ 2º O Vice-Prefeito, ocupante de cargo ou emprego no Estado ou Município,
+ficará, automaticamente, à disposição da respectiva municipalidade, enquanto
+perdurar a condição de Vice-Prefeito, sem prejuízo dos salários e demais van-
+tagens junto à sua instituição de origem.
+§ 2º (Revogado).
+
+15
+Ver Lei Complementar n° 18 de 29 de dezembro de 1999 D.O.E. 29/12/1999, alterada pela Lei Complementar n° 34,
+de 21 de maio de 2003 no Banco Eletrônico de Leis Temáticas (Belt) da Alece.
+16
+Ver ADI nº 307-1 no Anexo II.
+§ 3º Ao Vice-Prefeito será assegurado vencimento não superior a dois terços do
+atribuído ao Prefeito, cabendo-lhe quando no exercício deste cargo, por mais
+de quinze dias, o vencimento integral assegurado ao titular efetivo do cargo.
+§ 3º Ao Vice-Prefeito será assegurado representação equivalente a dois terços
+da remuneração atribuída ao Prefeito, cabendo-lhe, quando no exercício
+deste cargo, por mais de quinze dias, a remuneração integral assegurada ao
+titular efetivo do cargo. (Redação dada pela Emenda Constitucional nº 14, de
+07 de abril de 1994) .
 § 3º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 307-1, no dia 13 de fevereiro de 2008, publicada
 no dia 24 de agosto de 2009, no DJE). 16
 
 #### CAPÍTULO IV
@@ -747,13 +922,30 @@ na manutenção e desenvolvimento do ensino;
 IV – o Tribunal de Justiça der provimento a representação para asse-
 gurar a observância de princípios indicados na Constituição Estadual
 ou para prover a execução de lei, ordem ou decisão judicial.
+Art. 40. A intervenção far-se-á mediante decreto do Governador, submetido
+ao referendo da Assembleia Legislativa, por maioria absoluta de votos em
+escrutínio secreto.
 Art. 40. A intervenção far-se-á mediante decreto do Governador,
 sujeito a referendo da Assembleia Legislativa.
+(Redação dada pela Emenda Constitucional nº 118, de 23 de novembro
 de 2022).
+§ 1º O pedido de intervenção encaminhado pelo Conselho de Contas dos Municípios
+ou mediante solicitação da Câmara Municipal, aprovada pelo voto da maioria
+absoluta de seus membros será feito conforme representação fundamentada, ao
+Governador do Estado.
+§ 1º O pedido de intervenção encaminhado pelo Tribunal de Contas dos
+Municípios ou mediante solicitação da Câmara Municipal, aprovada pelo
+voto da maioria absoluta de seus membros, será feito conforme representação
+fundamentada ao Governador do Estado. (Redação dada pela Emenda Consti-
+tucional nº 9, de 16 de dezembro de 1992).
+
+---
+
 § 1º O pedido de intervenção encaminhado pelo Tribunal de Contas
 do Estado ou mediante solicitação da Câmara Municipal, aprovada
 pelo voto da maioria absoluta de seus membros, será feito con-
 forme representação fundamentada ao Governador do Estado.
+(Substituída a expressão “Tribunal de Contas dos Municípios” por “Tribunal
 de Contas do Estado do Ceará” pela Emenda constitucional n 92, de 16 de
 agosto de 2017).
 § 2º O decreto de intervenção, que especificará a amplitude, o
@@ -778,27 +970,68 @@ salvo impedimento legal.
 #### CAPÍTULO V
 
 DA FISCALIZAÇÃO FINANCEIRA
+Art. 41. A fiscalização financeira e orçamentária dos Municípios será exercida
+pela Câmara e pelos sistemas de controle interno do Executivo Municipal, na
+forma da lei.
+Art. 41. A fiscalização contábil, financeira, orçamentária, operacional e patrimo-
+nial do Município e das entidades da administração direta e indireta, quanto à
+legitimidade, legalidade, economicidade, aplicação das subvenções e renúncias
+de receitas, será exercida pela Câmara Municipal, na forma da Lei, e pelo sistema
+de controle interno de poder. (Redação dada pela Emenda Constitucional nº
+36, de 30 de junho de 1998).
 Art. 41. A fiscalização contábil, financeira, orçamentária e patri-
 monial dos Municípios far-se-á na forma disciplinada por suas
 respectivas Leis Orgânicas e os princípios desta Constituição.
 
+17
 Arguida a inconstitucionalidade na ADI nº 143-4, a qual foi julgada extinta pelo STF. Ver ADI n° 143-4 no Anexo II.
+§ 1º O controle externo da Câmara de Vereadores será exercido com auxílio do
+Tribunal de Contas dos Municípios. (Renumerado pela Emenda Constitucional
+nº 36, de 30 de junho de 1998).
 § 1º O controle externo da Câmara de Vereadores será exercido com
 auxílio do Tribunal de Contas do Estado.
+(Substituída a expressão “Tribunal de Contas dos Municípios” por “Tribunal
 de Contas do Estado do Ceará” pela Emenda constitucional n 92, de 16 de
 agosto de 2017).
 § 2º A fiscalização, de que trata o parágrafo anterior, será reali-
 zada mediante tomada ou prestação de contas de governo, de
 responsabilidade do Chefe do Executivo e de gestão, a cargo dos
 ordenadores de despesa.
+(Inserido pela Emenda Constitucional nº 36, de 30 de junho de 1998).
+§ 3º O controle interno relativo aos atos e fatos administrativos da gestão
+orçamentária, financeira e patrimonial, e a formalização do processo de
+prestação de contas de governo e de gestão será regulamentado por lei
+municipal. (Inserido pela Emenda Constitucional nº 36, de 30 de junho de 1998).
 § 3º O controle interno relativo aos atos e fatos da gestão orçamentá-
 ria, financeira e patrimonial, será regulamentada por lei municipal.
+(Redação dada pela Emenda Constitucional nº 47, de 13 de dezembro de 2001).
 § 4º Prestará contas qualquer pessoa física ou jurídica, pública ou
 privada, inclusive fundos e instituições civis sem fins lucrativos, que
 utilize, arrecade, guarde, gerencie ou administre dinheiro, bens
 e valores públicos ou pelos quais os Municípios respondam, ou
 que, em nome destes, assuma obrigações de natureza pecuniária.
 
+Art. 42. Os Prefeitos Municipais são obrigados a enviar as respectivas Câmaras
+e ao Conselho de Contas dos Municípios, até o dia quinze do mês subsequente,
+prestação de contas relativa à aplicação dos recursos, acompanhada da docu-
+mentação alusiva à matéria que ficará à disposição dos Vereadores para exame.
+Art. 42. Os Prefeitos municipais são obrigados a enviar às respectivas Câmaras
+Municipais e ao Tribunal de Contas dos Municípios, até o dia 30 do mês subse-
+quente, os balancetes mensais relativos à aplicação dos recursos recebidos
+e arrecadados por todas as Unidades Gestoras da Administração Municipal,
+acompanhadas da documentação comprobatória das receitas e das despesas
+e dos créditos adicionais. (Redação dada pela Emenda Constitucional nº 09, de
+16 de dezembro de 1992).
+Art. 42. Os Prefeitos Municipais são obrigados a enviar às respectivas Câmaras
+e ao Tribunal de Contas dos Municípios, até o dia 30 do mês subsequente, as
+prestações de contas mensais relativas à aplicação dos recursos recebidos
+e arrecadados por todas as Unidades Gestoras da administração municipal,
+mediante Sistema Informatizado, e de acordo com os critérios estabelecidos
+
+---
+
+despesas e dos créditos adicionais. (Redação dada pela Emenda Constitucional
+nº 47, de 13 de dezembro de 2001).
 Art. 42. Os Prefeitos Municipais são obrigados a enviar às respec-
 tivas Câmaras e ao Tribunal de Contas do Estado do Ceará, até
 o dia 30 do mês subsequente, as prestações de contas mensais
@@ -808,8 +1041,105 @@ Sistema Informatizado, e de acordo com os critérios estabelecidos
 pelo Tribunal de Contas do Estado do Ceará, e composta, ainda,
 dos balancetes demonstrativos e da respectiva documentação
 comprobatória das receitas e despesas e dos créditos adicionais.
+(Substituída a expressão “Tribunal de Contas dos Municípios” por “Tribunal
 de Contas do Estado do Ceará” pela Emenda constitucional nº 92, de 16 de
 agosto de 2017).
+§ 1º A não-observância do disposto neste artigo, constitui crime de
+responsabilidade.
+§ 1º A inobservância do disposto neste artigo, implicará a proibição para realizar
+novos convênios e contratos com o Governo Estadual e na suspensão das
+transferências de receitas voluntárias do Estado para os municípios infratores,
+sem prejuízo das demais sanções previstas na legislação vigente. (Redação dada
+pela Emenda Constitucional nº 47 de 13 de dezembro de 2001).
+§ 1º A inobservância do disposto neste artigo, implicará a proibição
+para realizar novos convênios e contratos com o Governo Estadual
+e na suspensão das transferências de receitas voluntárias do
+Estado para os municípios infratores, sem prejuízo das demais
+sanções previstas na legislação vigente, ressalvada a hipótese
+do §1º H deste artigo.
+(Redação dada pela Emenda Constitucional n° 64, de 15 de julho de 2009).
+§ 1º A. Os agentes responsáveis por dinheiro, bens e valores públicos
+da Administração Municipal Indireta, incluídas as Fundações e Socie-
+dades instituídas pelo poder público, bem como os Presidentes das
+Câmaras Municipais, deverão, também no prazo definido no caput
+deste artigo, remeter prestações de contas mensais, de acordo com
+os critérios estabelecidos no mesmo dispositivo.
+(Inserido pela Emenda Constitucional nº 47, de 13 de dezembro de 2001).
+§ 1º B. As prestações de Contas mensais relativas à aplicação
+dos recursos destinados aos Fundos Especiais bem como as suas
+respectivas Prestações de Contas anuais, deverão ser enviadas,
+separadamente, das demais Unidades Gestoras, respeitadas as
+disposições do Inciso II do art. 71 da Constituição Federal e inciso
+II, do art. 78, da Constituição Estadual.
+(Inserido pela Emenda Constitucional nº 47, de 13 de dezembro de 2001).
+§ 1º C. As Prestações de Contas referidas no parágrafo anterior, no que diz
+respeito ao FUNDEF, deverão ser enviadas, também, dentro do mesmo prazo,
+ao respectivo Conselho Municipal de Acompanhamento Social. (Inserido pela
+Emenda Constitucional nº 47, de 13 de dezembro de 2001).
+§ 1º C. As Prestações de Contas referentes ao FUNDEB, deverão ser
+enviadas, também, dentro do mesmo prazo, ao respectivo Conselho
+Municipal de acompanhamento da aplicação dos recursos do FUNDEB.
+
+§ 1º D. O Conselho Municipal de Acompanhamento Social do FUNDEF, ao detectar
+irregularidades na aplicação dos recursos do Fundo, deverá comunicar o fato
+ao Tribunal de Contas dos Municípios e este adotará as providências cabíveis.
+(Inserido pela Emenda Constitucional nº 47, de 13 de dezembro de 2001).
+§ 1º D. O Conselho Municipal de Acompanhamento Social do FUNDEB, ao detectar
+irregularidades na aplicação dos recursos do Fundo, deverá comunicar o fato
+ao Tribunal de Contas dos Municípios e este adotará as providências cabíveis.
+
+§ 1º D. O Conselho Municipal de Acompanhamento Social do FUN-
+DEB, ao detectar irregularidades na aplicação dos recursos do
+Fundo, deverá comunicar o fato ao Tribunal de Contas do Estado
+do Ceará e este adotará as providências cabíveis.
+(Substituída a expressão “Tribunal de Contas dos Municípios” por “Tribunal de
+Contas do Estado” pela Emenda constitucional n 92, de 16 de agosto de 2017).
+§ 1º E. O Tribunal de Contas dos Municípios poderá, a qualquer tempo, solicitar às
+Prefeituras e Câmaras Municipais, suas Unidades Gestoras e aos demais Órgãos e
+entidades da Administração Direta e Indireta, incluídas as Fundações e Sociedades
+instituídas e mantidas pelo poder público municipal, quaisquer documentos e
+demonstrativos contábeis relativos à aplicação dos recursos recebidos e arrecadados.
+(Inserido pela Emenda Constitucional nº 47, de 13 de dezembro de 2001).
+§ 1º E. O Tribunal de Contas dos Municípios poderá, a qualquer tempo, requisitar
+das Prefeituras, das Câmaras, suas unidades gestoras e aos demais órgãos
+e entidades da administração direta e indireta, incluídas as fundações e
+sociedades instituídas e mantidas pelo poder público municipal, quaisquer
+documentos e demonstrativos contábeis relativos à aplicação dos recursos
+recebidos e arrecadados. (Redação dada pela Emenda Constitucional nº 65,
+de 16 de setembro de 2009).
+§ 1º E. O Tribunal de Contas do Estado do Ceará poderá, a qual-
+quer tempo, requisitar das prefeituras, das câmaras, suas unida-
+des gestoras e aos demais órgãos e entidades da administração
+direta e indireta, incluídas as fundações e sociedades instituídas
+e mantidas pelo Poder Público Municipal, quaisquer documentos
+e demonstrativos contábeis relativos à aplicação dos recursos
+recebidos e arrecadados.
+(Substituída a expressão “Tribunal de Contas dos Municípios” por “Tribunal de
+Contas do Estado” pela Emenda constitucional n 92, de 16 de agosto de 2017).
+§ 1º F. As Prefeituras, Câmaras Municipais e demais Órgãos e Entidades da
+Administração Direta, Indireta incluídas as Fundações e Sociedades instituídas e
+mantidas pelo poder público municipal, bem como os Fundos Especiais, terão o
+prazo de 3 (três) meses para se adequarem aos critérios estabelecidos no caput deste
+Artigo. (Inserido pela Emenda Constitucional nº 47, de 13 de dezembro de 2001).
+§ 1º F. (Revogado).
+
+
+---
+
+§ 1º G. Recebida a prestação de contas de que trata o caput deste
+artigo, o TCM emitirá relatórios quadrimestrais, os quais serão
+enviados para os respectivos Gestores e disponibilizados para
+qualquer contribuinte quando solicitados.
+(Inserido pela Emenda Constitucional nº 47, de 13 de dezembro de 2001).
+§ 1° H. A inadimplência de que trata o §1° do art. 42, será suspensa, sem qualquer
+ressalva, e certificada pelo Tribunal de Contas dos Municípios expressamente,
+caso a nova gestão municipal mantiver-se adimplente com todas as suas obriga-
+ções de prestações de contas, relativas às competências de seu mandato, e tiver
+comprovado perante o Tribunal de Contas dos Municípios, o ajuizamento de ação
+para apurar as responsabilidades pelo descumprimento daquelas obrigações
+de prestação de contas devidas por seus antecessores, ressalvando-se os casos
+em que o gestor municipal seja reeleito. (Inserido pela Emenda Constitucional
+n° 64, de 15 de julho de 2009).
 § 1° H. A inadimplência de que trata o § 1º do art.42 será suspensa, sem
 qualquer ressalva, e certificada pelo Tribunal de Contas do Estado
 do Ceará expressamente, caso a nova gestão municipal mantiver-se
@@ -819,24 +1149,104 @@ perante o Tribunal de Contas do Estado, o ajuizamento de ação
 para apurar as responsabilidades pelo descumprimento daquelas
 obrigações de prestação de contas devidas por seus antecessores,
 ressalvando-se os casos em que o gestor municipal seja reeleito.
+(Substituída a expressão “Tribunal de Contas dos Municípios” por “Tribunal
 de Contas do Estado do Ceará” pela Emenda constitucional n 92, de 16 de
 agosto de 2017).
+§ 2º O parecer prévio sobre as contas que a Mesa da Câmara e o Prefeito devem
+prestar anualmente, emitido pelo Conselho de Contas dos Municípios, só deixará
+de prevalecer por decisão de dois terços dos membros da Câmara Municipal.
+§ 2º O parecer prévio sobre as Contas que a Mesa da Câmara e o Prefeito devem
+prestar anualmente, emitido pelo Tribunal de Contas dos Municípios, só deixará
+de prevalecer por decisão de dois terços dos membros da Câmara, e qualquer que
+seja o resultado, dentro do prazo máximo de 10 (dez) dias, após decorrido o limite
+de apreciação e julgamento do processo, comunicar ao Tribunal de Contas dos
+Municípios para adoção de medidas necessárias; (Redação dada pela Emenda
+Constitucional nº 15, de 07 de abril de 1994).
+§ 2º O parecer prévio do Tribunal de Contas dos Municípios sobre as contas que
+o Prefeito deve prestar anualmente, só deixará de prevalecer por decisão de
+dois terços dos membros da Câmara Municipal, a qual, no prazo máximo de dez
+dias após o julgamento, comunicará o resultado ao TCM. (Redação dada pela
+Emenda Constitucional nº 29, de 30 de abril de 1997).
+§ 2º O parecer prévio do Tribunal de Contas dos Municípios sobre as contas que
+o Prefeito deve prestar anualmente, só deixará de prevalecer por decisão de
+dois terços dos membros da Câmara Municipal, a qual, no prazo máximo de dez
+dias após o julgamento, comunicará o resultado ao TCM. (Redação dada pela
+Emenda Constitucional nº 47, de 13 de dezembro de 2001).
+§ 2º O parecer prévio do Tribunal de Contas do Estado do Ceará
+sobre as contas que o Prefeito deve prestar anualmente, só dei-
+xará de prevalecer por decisão de 2/3 (dois terços) dos membros
+da Câmara Municipal, a qual, no prazo máximo de 10 (dez) dias
+após o julgamento, comunicará o resultado ao TCE.
 § 2º A. A Câmara Municipal disciplinará sobre os prazos para apre-
 sentação de defesa quanto ao julgamento das prestações de contas
 do Executivo Municipal.
+(Inserido pela Emenda Constitucional nº 47, de 13 de dezembro de 2001).
+§ 3º A apreciação das contas da Mesa da Câmara e do Prefeito se dará no prazo
+de trinta dias após o recebimento do parecer prévio do Conselho ou, estando
+a Câmara em recesso, durante o primeiro mês da sessão legislativa imediata,
+observados os seguintes preceitos:
+§ 3º A apreciação das contas do Prefeito se dará no prazo de trinta dias após o
+recebimento do parecer prévio do Tribunal de Contas ou, estando a câmara em
+recesso, durante o primeiro mês da sessão legislativa imediata. (Redação dada
+pela Emenda Constitucional nº 29, de 30 de abril de 1997).
 § 3º A apreciação das contas do Prefeito se dará no prazo de ses-
 senta dias após o recebimento do parecer prévio do Tribunal de
 Contas ou, estando a Câmara em recesso, durante o primeiro mês
 do período legislativo imediato.
+(Redação dada pela Emenda Constitucional nº 47 de 13 de dezembro de 2001).
+I – decorrido o prazo para deliberação, sem que essa tenha sido tomada, as
+contas serão tidas como aprovadas ou rejeitadas conforme a conclusão do
+parecer do Conselho.
+I – desaprovadas as contas anuais pela Câmara, o Presidente desta, no prazo de
+dez dias, sob pena de responsabilidade, remeterá cópia autêntica dos autos ao
+Ministério Público para os fins legais. (Redação dada pela Emenda Constitucional
+nº 29, de 30 de abril de 1997).
 I – desaprovadas as contas anuais pela Câmara, o Presidente desta,
 no prazo de dez dias, sob pena de responsabilidade, remeterá
 cópia autêntica dos autos ao Ministério Público, para os fins legais.
+(Redação dada pela Emenda Constitucional nº 47, de 13 de dezembro de 2001).
+II – rejeitada as contas, com ou sem apreciação da Câmara, serão elas remetidas
+ao Ministério Público para os fins da lei.
+II – No caso de omissão do Presidente da Câmara na remessa da cópia prevista
+no inciso anterior, caberá ao Tribunal de Contas dos Municípios comunicar a
+desaprovação das contas ao Ministério Público. (Redação dada pela Emenda
+Constitucional nº 29, de 30 de abril de 1997).
+II – no caso de omissão do Presidente da Câmara na remessa da cópia prevista
+no inciso anterior, caberá ao Tribunal de Contas dos Municípios comunicar a
+desaprovação das contas ao Ministério Público. (Redação dada pela Emenda
+Constitucional nº 47, de 13 de dezembro de 2001).
 II – no caso de omissão do Presidente da Câmara na remessa da
 cópia prevista no inciso anterior, caberá ao Tribunal de Contas
 do Estado do Ceará comunicar a desaprovação das contas ao
 Ministério Público.
+(Substituída a expressão “Tribunal de Contas dos Municípios” por “Tribunal de
 Contas do Estado” pela Emenda constitucional n 92, de 16 de agosto de 2017).
 
+---
+
+§ 4º As contas anuais do Município, Poderes Executivo e Legislativo, serão apre-
+sentadas à Câmara Municipal até o dia 31 de janeiro do ano subsequente,
+ficando, durante sessenta dias, à disposição de qualquer contribuinte, para
+exame e apreciação, o qual poderá questionar-lhe a legitimidade, nos termos
+da lei e, decorrido este prazo, as contas serão, até o dia dez de abril de cada
+ano, enviadas pela Presidência da Câmara Municipal ao Conselho de Contas
+dos Municípios para que este emita o competente parecer prévio.
+§ 4º As contas anuais do Município, Poderes Executivo e Legislativo, serão
+apresentadas à Câmara Municipal até o dia 31 de janeiro do ano subsequente,
+ficando, durante sessenta dias, à disposição de qualquer contribuinte, para
+exame e apreciação, o qual poderá questionar-lhe a legitimidade, nos termos
+da lei e, decorrido este prazo, as contas serão, até o dia dez de abril de cada
+ano, enviadas pela Presidência da Câmara Municipal ao Tribunal de Contas dos
+Municípios para que este emita o competente parecer prévio. (Redação dada
+pela Emenda Constitucional nº 09, de 16 de dezembro de 1992).
+§ 4º As contas anuais do Município, Poderes Executivo e Legislativo, serão apresen-
+tadas à Câmara Municipal até o dia trinta e um de janeiro do ano subsequente,
+ficando, durante sessenta dias, à disposição de qualquer contribuinte, para
+exame e apreciação, o qual poderá questionar-lhe a legitimidade, nos termos
+da lei e, decorrido este prazo, as contas serão, até o dia dez de abril de cada
+ano, enviadas pela Presidência da Câmara Municipal ao Tribunal de Contas
+dos Municípios para que este emita o competente parecer. (Redação dada pela
+Emenda Constitucional nº 47, de 13 de dezembro de 2001).
 § 4º As contas anuais do Município, Poderes Executivo e Legislativo,
 serão apresentadas à Câmara Municipal até o dia 31 de janeiro do
 ano subsequente, ficando, durante 60 (sessenta) dias, à disposição
@@ -845,19 +1255,54 @@ questionar-lhe a legitimidade, nos termos da lei e, decorrido este
 prazo, as contas serão, até o dia 10 de abril de cada ano, enviadas
 pela Presidência da Câmara Municipal ao Tribunal de Contas do
 Estado para que este emita o competente parecer.
+(Substituída a expressão “Tribunal de Contas dos Municípios” por “Tribunal de
 Contas do Estado” pela Emenda constitucional n 92, de 16 de agosto de 2017).
+§ 5º O projeto de lei orçamentária anual será encaminhado pelo Poder Executivo,
+até o dia primeiro de novembro de cada ano, à Câmara Municipal que apreciará
+a matéria no prazo improrrogável de trinta dias e a lei orçamentária deverá
+ser encaminhada pelo Prefeito ao Conselho de Contas dos Municípios até o
+dia trinta de dezembro.
+§ 5º O projeto de lei orçamentária anual será encaminhado pelo Poder Executivo,
+até o dia primeiro de novembro de cada ano, à Câmara Municipal que apreciará
+a matéria no prazo improrrogável de trinta dias e a lei orçamentária deverá
+ser encaminhada pelo Prefeito ao Tribunal de Contas dos Municípios até o dia
+trinta de dezembro. (Redação dada pela Emenda Constitucional nº 09, de 16
+de dezembro de 1992).
+§ 5º O projeto de lei orçamentária anual será encaminhado pelo Poder Executivo,
+até o dia primeiro de outubro de cada ano, à Câmara Municipal, que apreciará
+a matéria no prazo improrrogável de trinta dias, e a Lei Orçamentária deverá
+ser encaminhada pelo Prefeito ao Tribunal de Contas dos Municípios até o dia
+trinta de dezembro. (Redação dada pela Emenda Constitucional nº 47, de 13
+de dezembro de 2001).
 § 5º O projeto de lei orçamentária anual será encaminhado pelo
 Poder Executivo, até o dia 1º de outubro de cada ano, à Câmara
 Municipal, que apreciará a matéria no prazo improrrogável de 30
 (trinta) dias, e a Lei Orçamentária deverá ser encaminhada pelo
 Prefeito ao Tribunal de Contas do Estado até o dia 30 de dezembro.
+(Substituída a expressão “Tribunal de Contas dos Municípios” por “Tribunal de
 Contas do Estado” pela Emenda constitucional n 92, de 16 de agosto de 2017).
+§ 6º As disponibilidades provenientes de receitas de qualquer natureza terão,
+de acordo com o parágrafo 3º do Artigo 164 da Constituição Federal, que ser
+depositadas em bancos oficiais no próprio Município ou em Municípios vizinhos
+quando não existirem, e a retirada coincidente com o documento de despesa
+para controle e fiscalização do Conselho de Contas dos Municípios. (Inserido
+pela Emenda Constitucional nº 08, de 03 de novembro de 1992).
+§ 6º As disponibilidades provenientes de receitas de qualquer natureza terão,
+de acordo com o § 3º do art. 164, da Constituição Federal, que ser depositadas
+em bancos oficiais no próprio Município ou em Municípios vizinhos quando
+não existirem, e os pagamentos deverão ser realizados mediante cheque
+nominal ao credor. (Redação dada pela Emenda Constitucional nº 47, de 13
+de dezembro de 2001).
 § 6º As disponibilidades provenientes de receitas de qualquer natu-
 reza terão, de acordo com o §3º do art. 164, da Constituição Federal,
 que ser depositadas em bancos oficiais no próprio Município, ou em
 Municípios vizinhos quando não existirem, e os pagamentos deve-
 rão ser realizados mediante ordem bancária nominal ao credor.
 
+§ 7º Entende-se por Unidade Gestoras para fins deste artigo todo órgão ou
+entidade da Administração Municipal autorizado a ordenar despesas públicas,
+incluindo-se neste conceito os Fundos Especiais. (Inserido pela Emenda Cons-
+titucional nº 40, de 29 de junho de 1999).
 § 7º Entende-se por unidade gestora todo órgão ou entidade da
 administração municipal autorizado a ordenar despesas públicas,
 incluindo-se neste conceito os fundos especiais e a Câmara Municipal.
@@ -867,10 +1312,18 @@ correspondente relativos à aplicação de Contas anuais deverão
 ser enviados separadamente das demais Unidades Gestoras,
 respeitados os dispostos no Inciso II do art. 71 da Constituição
 Federal e Inciso II do art. 78 da Constituição Estadual.
+(Inserido pela Emenda Constitucional nº 40, de 29 de junho de 1999).
+§ 9º Os documentos referidos no parágrafo anterior, no que diz respeito ao
+FUNDEF, deverão ser enviados, também, dentro do mesmo prazo, ao Conselho
+Municipal de Acompanhamento Social do FUNDEF. (Inserido pela Emenda
+Constitucional nº 40, de 29 de junho de 1999).
 § 9º Os documentos referidos no parágrafo anterior, no que diz
 respeito ao FUNDEB, deverão ser enviados, também, dentro do
 mesmo prazo, ao Conselho Municipal de Acompanhamento Social
 do FUNDEB.
+
+
+---
 
 de Contas dos Municípios e este deverá adotar as providências cabíveis. (Inserido
 pela Emenda Constitucional nº 40, de 29 de junho de 1999).
@@ -892,9 +1345,12 @@ aos demais órgãos e entidades da administração direta e indireta,
 incluídas as fundações e sociedades instituídas e mantidas pelo
 poder público municipal.
 
+
 #### CAPÍTULO VI
 
 A INTEGRAÇÃO REGIONAL
+Art. 43. A conformação municipalista exprime-se pela convergência de dois
+processos articulados descentralização e integração:
 Art. 43. O desenvolvimento regional se realiza por meio dos processos
 de descentralização, afirmando-se a individualidade política do
 Município, compreendendo a auto-organização, o autogoverno e a
@@ -903,30 +1359,148 @@ por suas afinidades geoambientais, socioespaciais, socioeconômicas
 e socioculturais, visando a utilização dos potenciais locais e das
 regiões, sem prejuízo de ações exógenas, para buscar inibir os fatores
 que provocam desequilíbrios e desigualdades inter e intrarregionais.
+(Redação dada pela Emenda Constitucional nº 62, de 22 de abril de 2009).
+I – pela descentralização, afirma-se a individualidade política do Município,
+compreendendo a auto-organização e autogoverno;
+I – (revogado).
+(Revogado pela Emenda Constitucional nº 62, de 22 de abril de 2009).
+II – pela integração regional, realiza-se a aglutinação de Municípios limítrofes,
+identificados por afinidades geoeconômicas, socioeconômicas e socioculturais,
+para superar os desequilíbrios internos e os efeitos inibitórios do desenvolvi-
+mento harmônico em todo o espaço territorial cearense, com as discriminações
+seguintes:
+II – (revogado).
+(Revogado pela Emenda Constitucional nº 62, de 22 de abril de 2009).
+a) região metropolitana, formada pelos Municípios adjacentes a Fortaleza
+atingidos pelos efeitos da conurbação;
+a) (revogado).
+(Revogado pela Emenda Constitucional nº 62, de 22 de abril de 2009).
+b) microrregiões, integrando os Municípios em comuns peculiaridades fisio-
+gráficas e sócio-culturais;
+b) (revogado).
+(Revogado pela Emenda Constitucional nº 62, de 22 de abril de 2009).
+c) aglomerados urbanos definidos por agrupamentos de Municípios limítrofes
+que possuam função pública de interesse comum.
+c) (revogado).
+(Revogado pela Emenda Constitucional nº 62, de 22 de abril de 2009).
+§ 1º Lei complementar disporá sobre a composição e alterações da Região
+Metropolitana e das microrregiões.
 § 1º Para a realização do desenvolvimento e integração regional,
 os Municípios poderão aglutinar-se nas seguintes conformações:
+(Redação dada pela Emenda Constitucional nº 62, de 22 de abril de 2009).
 I – regiões metropolitanas, formada por Municípios limítrofes, para
 integrar a organização, o planejamento e a execução de funções
 públicas de interesse comum;
+(Inserido pela Emenda Constitucional nº 62, de 22 de abril de 2009).
 II – microrregiões, formadas pelos Municípios com peculiaridades
 fisiográficas, socioeconômicas e socioculturais comuns;
 III – aglomerados urbanos, definidos por agrupamentos de Municí-
 pios limítrofes que possuam função pública de interesse comum.
+(Inserido pela Emenda Constitucional nº 62, de 22 de abril de 2009).
+§ 2º . Cada Município participará, igualitariamente, na composição dos seguintes
+órgãos regionais: Conselho Deliberativo e Conselho Diretor.
+§ 2º Cada Município integrante da Região Metropolitana e das Microrregiões,
+participará, igualitariamente, do órgão regional denominado Conselho Deli-
+berativo, com composição e funções definidas em Lei Complementar. (Redação
+dada pela Emenda Constitucional nº 34, de 30 de junho de 1998).
+I – funções do Conselho Deliberativo:
+I – (revogado).
+(Revogado pela Emenda Constitucional nº 34, de 30 de junho de 1998)
+a) manifestar-se nos assuntos de interesse dos Municípios integrantes do
+complexo microrregional ou metropolitano;
+a) (revogado).
+(Revogado pela Emenda Constitucional nº 34, de 30 de junho de 1998).
+b) formular proposições sobre os planejamentos, programas e definições de
+prioridades nos escalões intermunicipais e estaduais;
+b) (revogado).
+(Revogado pela Emenda Constitucional nº 34, de 30 de junho de 1998).
+
+---
+
+c) transmitir indicações à Assembleia Legislativa sobre os planos plurianuais,
+diretrizes orçamentárias e orçamentos anuais;
+c) (revogado).
+(Revogado pela Emenda Constitucional nº 34, de 30 de junho de 1998).
+d) indicar medidas que abstêm o comprometimento da integridade de espaços
+territoriais que exijam proteção especial do Estado;
+d) (revogado).
+(Revogado pela Emenda Constitucional nº 34, de 30 de junho de 1998).
+e) formular representações sobre os atentados perpetrados aos ecossistemas
+naturais;
+e) (revogado).
+(Revogado pela Emenda Constitucional nº 34, de 30 de junho de 1998).
+f) decidir a realização de empreendimentos comuns sobre questões educacio-
+nais, saúde, defesa ecológica, utilização de recursos hídricos, abastecimento,
+transportes, saneamento básico, observadas as formalizações compatíveis.
+f) (revogado).
+(Revogado pela Emenda Constitucional nº 34, de 30 de junho de 1998).
+II – composição do Conselho Deliberativo:
+II – (revogado).
+(Revogado pela Emenda Constitucional nº 34, de 30 de junho de 1998).
+a) presidentes das Câmaras Municipais e de dois vereadores, sendo um representante
+das correntes majoritárias e o outro, das minoritárias de cada unidade municipal;
+a) (revogado).
+(Revogado pela Emenda Constitucional nº 34, de 30 de junho de 1998).
+b) representante de sindicato dos trabalhadores rurais ou urbanos, respecti-
+vamente para as microrregiões ou região metropolitana;
+b) (revogado).
+(Revogado pela Emenda Constitucional nº 34, de 30 de junho de 1998).
+c) representante de associação dos proprietários rurais ou urbanos, nas mesmas
+circunstâncias da alínea precedente;
+c) (revogado).
+(Revogado pela Emenda Constitucional nº 34, de 30 de junho de 1998).
+d) representante da área médica, por equivalente critério;
+d) (revogado).
+(Revogado pela Emenda Constitucional nº 34, de 30 de junho de 1998).
+e) arquiteto, preferencialmente urbanista;
+e) (revogado).
+(Revogado pela Emenda Constitucional nº 34, de 30 de junho de 1998).
 f) professor do magistério público ou particular, eleito entre os profissionais
 da região;
+18
 Ver Lei Complementar nº 03, de 26 de junho de 1995; Lei Complementar nº 18, de 29 de dezembro de 1999;
 e Lei Complementar n° 34, de 21 de maio de 2003, no Banco Eletrônico de Leis Temáticas (Belt) da Alece.
 (Revogado pela Emenda Constitucional nº 34, de 30 de junho de 1998).
+g) representante da área discente, de preferência da área universitária, quando
+existente no complexo regional;
+g) (revogado).
+(Revogado pela Emenda Constitucional nº 34, de 30 de junho de 1998).
+h) representante escolhido pelos advogados em reunião conjunta de sua
+categoria profissional;
+h) (revogado).
+(Revogado pela Emenda Constitucional nº 34, de 30 de junho de 1998).
+i) deputados que tiverem os mais elevados índices de votação no contexto regional.
+i) (revogado).
+(Revogado pela Emenda Constitucional nº 34, de 30 de junho de 1998).
+III – função do Conselho Diretor: acompanhar a execução das medidas de
+interesse comum dos Municípios regionalmente interligados.
+III – (revogado).
+(Revogado pela Emenda Constitucional nº 34, de 30 de junho de 1998).
+IV - composição do Conselho Diretor: integrado dos respectivos Prefeitos sendo
+substituídos, em seus impedimentos, pelos Vice-Prefeitos ou por quem, even-
+tualmente, estiver no exercício da chefia do Executivo Municipal.
+IV – (revogado).
+(Revogado pela Emenda Constitucional nº 34, de 30 de junho de 1998).
 § 2º Lei Complementar disporá sobre a composição e alterações da
 Região Metropolitana, aglomerados urbanos e das microrregiões. 18
+(Redação dada pela Emenda Constitucional nº 62, de 22 de abril de 2009).
+§ 3º As medidas que acarretarem compromissos das microrregiões ou regiões
+metropolitanas demandam manifestação de assentimento ou rejeição pelo
+Conselho Diretor, somente podendo ser sobrepujado seu ato por manifestação
+plebiscitária por maioria absoluta.
+§ 3º (Revogado).
+(Revogado pela Emenda Constitucional nº 34, de 30 de junho de 1998).
 § 3º Cada Município integrante da Região Metropolitana, das
 aglomerações urbanas e das microrregiões participará, igualita-
 riamente, do órgão regional denominado Conselho Deliberativo,
 com composição e funções definidas em Lei Complementar.
+(Redação dada pela Emenda Constitucional nº 62, de 22 de abril de 2009).
 Art. 44. Os Municípios que compõem a Região Metropolitana
 de Fortaleza deverão, também, ser contemplados em todos os
 programas específicos de desenvolvimento rural, oriundos dos
 Governos Federal e Estadual.
+
+---
 
 #### TÍTULO V
 
@@ -957,38 +1531,80 @@ mentárias, compreendidos os créditos suplementares e especiais,
 serão repassados, obrigatoriamente, até o dia vinte de cada mês,
 com as atualizações decorrentes do excesso na arrecadação, em
 face da previsão orçamentária.
+Art. 47. A Assembleia Legislativa reunir-se-á, anualmente, de quinze de fevereiro
+a trinta de junho e de primeiro de agosto a quinze de dezembro.
 Art. 47. A Assembleia Legislativa reunir-se-á, anualmente, de 2
 de fevereiro a 17 de julho e de 1° de agosto a 22 de dezembro.
+(Redação dada pela Emenda Constitucional n° 57, de 07 de março de 2006).
 § 1º As reuniões marcadas para essas datas serão transferidas para
 o primeiro dia útil subsequente, quando recaírem em sábados,
 domingos ou feriados.
+§ 2º No primeiro ano da legislatura serão realizadas sessões preparatórias,
+a partir de primeiro de fevereiro, para posse dos Deputados diplomados e
+eleição de seu órgão colegiado dirigente, com mandato de dois anos, vedada
+a recondução ao mesmo cargo no período imediato.
+§ 2º No primeiro ano da legislatura, serão realizadas sessões preparatórias,
+a partir de primeiro de fevereiro, para a posse dos Deputados diplomados e
+eleição da Mesa Diretora, com mandato de dois anos, admitida a recondução
+19
+Ver Emenda Constitucional nº 88, de 21 de dezembro de 2016 (Novo Regime Fiscal).
+20
+Havia o questionamento na ADI nº 6715. No entanto, houve a perda do objeto questionado devido à EC nº105/2020 ter modificado o dispositivo impugnado.
+ao mesmo cargo para o período imediato, vedada a reeleição, para mais de um
+mandato, mesmo que na legislatura imediatamente subsequente. (Redação
+dada pela Emenda Constitucional nº 43, de 14 de outubro de 1999).
+§ 2° No primeiro ano da legislatura, serão realizadas sessões preparatórias, no
+dia 1.° de fevereiro, para a posse dos Deputados diplomados e eleição da Mesa
+Diretora, com mandato de dois anos, admitida a recondução ao mesmo cargo
+na eleição subsequente, na mesma legislatura e na seguinte. (Redação dada
+pela Emenda Constitucional n° 57, de 07 de março de 2006). 20
 § 2º No primeiro ano da legislatura, serão realizadas sessões
 preparatórias, no dia 1º. de fevereiro, para posse dos Deputados
 diplomados e eleição da Mesa Diretora, com mandato de 2 (dois)
 anos, vedada a recondução para o mesmo cargo na eleição ime-
 diatamente subsequente.
+(Redação dada pela Emenda Constitucional n° 105, de 22 de dezembro de 2020).
 § 3º A sessão legislativa não será interrompida sem a aprovação
 do projeto de lei de diretrizes orçamentárias.
 § 4º Durante o recesso, haverá comissão representativa da Assembleia
 Legislativa, respeitado o critério da proporcionalidade das repre-
 sentações partidárias, observados os condicionamentos seguintes:
+a) seus membros serão eleitos na última reunião de cada período da sessão
+legislativa ordinária, vedada a recondução para o posterior período de recesso;
 a) seus membros serão eleitos na última reunião de cada Sessão
 Legislativa ordinária, admitida a recondução para o posterior
 período de recesso; e
+(Redação dada pela Emenda Constitucional nº 43, de 14 de outubro de 1999).
 b) suas atribuições serão definidas no regimento interno.
+§ 5º A convocação extraordinária far-se-á por dois terços de seus membros,
+pelo Presidente, em caso de intervenção em Município, pelo Chefe do Poder
+Executivo, quando houver matéria de interesse público relevante e urgente.
 § 5º A convocação extraordinária da Assembleia Legislativa far-se-á:
+(Redação dada pela Emenda Constitucional n° 57, de 07 de março de 2006).
 I – pelo Presidente em caso de intervenção em Município e para com-
 promisso e posse do Governador e Vice-Governador do Estado;
+(Inserido pela Emenda Constitucional n° 57, de 07 de março de 2006).
 II – pelo Governador, pelo seu Presidente, ou a requerimento da
 maioria dos seus membros, em caso de urgência ou de interesse
 público relevante e urgente, em todas as hipóteses deste inciso
 com aprovação da maioria absoluta da Assembleia.
+(Inserido pela Emenda Constitucional n° 57, de 07 de março de 2006).
+§ 6º No período extraordinário, restringir-se-á a Assembleia a deliberar sobre
+a matéria para a qual tenha sido convocada.
+
+---
+
 § 6º No período extraordinário, restringir-se-á a Assembleia a deli-
 berar sobre a matéria para a qual tenha sido convocada, vedado
 o pagamento de parcela indenizatória, em razão da convocação.
+(Redação dada pela Emenda Constitucional n° 57, de 07 de março de 2006).
+Art. 48. Salvo disposição constitucional em contrário, a Assembleia Legislativa
+funcionará em sessões públicas, com a presença da maioria absoluta de seus
+membros e as deliberações serão tomadas por maioria de voto.
 Art. 48. Salvo disposição constitucional em contrário, a Assembleia
 Legislativa funcionará em sessões públicas, e as deliberações
 serão tomadas por maioria de votos.
+(Redação dada pela Emenda Constitucional n° 53, de 22 de dezembro de 2003).
 Parágrafo único . A sessão somente poderá ser secreta por deli-
 beração da maioria absoluta de seus membros, no interesse da
 segurança ou do decoro parlamentar, com voto a descoberto.
@@ -1001,21 +1617,45 @@ I – autorizar referendo e convocar plebiscito de amplitude estadual;
 II – aprovar a intervenção estadual em Município;
 III – aprovar previamente, por voto secreto, após arguição pública,
 a escolha de:
+a) dois sétimos dos membros do Tribunal de Contas do Estado e um terço do
+Tribunal de Contas dos Municípios;
+a) três sétimos dos Conselheiros dos Tribunais de Contas do Estado e dos Municípios;
+(Redação dada pela Emenda Constitucional n° 54, de 22 de dezembro de 2003).
 a) três sétimos dos Conselheiros do Tribunal de Contas do Estado
 do Ceará;
+(Suprimida a expressão “e dos Municípios” pela Emenda constitucional nº
 92, de 16 de agosto de 2017).
 b) interventores do Estado, em Municípios;
+c) presidente e diretores de estabelecimentos de crédito, cujo controle acionário
+pertença ao Estado;
+c) (revogado);
+(Revogada pela Emenda Constitucional n° 61, de 19 de dezembro de 2008).
 d) titulares de outros cargos que a lei determinar.
+IV – escolher cinco sétimos dos membros do Tribunal de Contas do Estado e dois
+terços do Conselho de Contas dos Municípios;
+IV – escolher cinco sétimos dos membros do Tribunal de Contas do Estado e
+dois terços do Tribunal de Contas dos Municípios; (Redação dada pela Emenda
+Constitucional n° 09, de 16 de dezembro de 1992).
+IV – escolher quatro sétimos dos Conselheiros dos Tribunais de Contas do Estado
+e dos Municípios; (Redação dada pela Emenda Constitucional n° 54, de 22 de
+dezembro de 2003).
 IV – escolher quatro sétimos dos Conselheiros do Tribunal de
 Contas do Estado do Ceará;
+(Suprimida a expressão “e dos Municípios” pela Emenda constitucional nº
 92, de 16 de agosto de 2017).
+V – autorizar, previamente, a ausência do Governador e do Vice, quando o
+afastamento for para o Exterior;
 V – autorizar, previamente, o afastamento do Governador e do
 Vice-Governador, para fora do País;
+(Redação dada pela Emenda Constitucional n° 61, de 19 de dezembro de 2008).
 VI – sustar os atos normativos emanados do Poder Executivo que exor-
 bitem do poder regulamentar ou dos limites da delegação legislativa;
 VII – mudar temporariamente a sua sede;
+VIII – fixar a remuneração de seus membros para vigorar na legislatura subse-
+quente, observadas as limitações constitucionais;
 VIII – fixar por lei a remuneração de seus membros, observadas
 as limitações constitucionais;
+(Redação dada pela Emenda Constitucional n° 61, de 19 de dezembro de 2008).
 IX – fixar para cada exercício financeiro a remuneração do Gover-
 nador e do Vice-Governador, observados os disciplinamentos
 constitucionais;
@@ -1027,9 +1667,11 @@ XI – fiscalizar e controlar, diretamente, os atos do Poder Executivo,
 incluídos os da administração indireta;
 XII – velar pela preservação de sua competência legislativa, em
 face da competência normativa dos outros Poderes;
+XIII – aprovar, previamente, a alienação ou concessão de terras públicas;
 XIII – aprovar, previamente, a alienação ou concessão de terras
 públicas, exceto nas hipóteses previstas nas letras b e c do inciso
 V do art. 316;
+(Redação dada pela Emenda Constitucional nº 26/95, de 06 de agosto de 1996).
 XIV – convocar, por sua iniciativa ou de qualquer de suas comis-
 sões, os Secretários de Estado, dirigentes de autarquias, empresa
 pública, sociedade de economia mista e de fundações, para prestar,
@@ -1040,18 +1682,28 @@ escritos de informação aos Secretários de Estado, importando
 crime de responsabilidade a recusa, ou o não atendimento no
 prazo de trinta dias, bem como a prestação de informações falsas;
 
+---
+
 XVI – proceder à tomada de contas do Governador do Estado,
 quando não apresentadas à Assembleia Legislativa dentro de
 sessenta dias após a abertura da sessão legislativa;
 XVII – eleger a Mesa Diretora;
 XVIII – elaborar o regimento interno;
+XIX – dispor sobre sua organização, funcionamento, criação, transformação ou
+extinção de cargos, encargos e funções de seus serviços e fixação da respectiva
+remuneração de seu pessoal, por resolução, observados os parâmetros esta-
+belecidos na lei de diretrizes orçamentárias;
 XIX – dispor sobre sua organização, funcionamento, criação,
 transformação ou extinção de cargos, empregos e funções de
 seus serviços e fixação, por lei, da respectiva remuneração de
 seu pessoal, observados os parâmetros estabelecidos na Lei de
 Diretrizes Orçamentárias;
+(Redação dada pela Emenda Constitucional n° 61, de19 de dezembro de 2008).
+XX – processar e julgar, na forma da lei, o Governador e Secretários de Estado
+nos crimes de responsabilidade;
 XX – (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 4775, no dia 19 de maio de 2017, publicada no
 dia 10 de agosto de 2017, do DJE e no DOU). 21
 XXI – exercer poder de polícia em seus recintos e para assegurar
 o cumprimento de requisições e diligências emanadas de suas
@@ -1059,14 +1711,26 @@ comissões parlamentares de inquérito;
 XXII – aprovar, por maioria absoluta e voto secreto, a exoneração,
 de ofício, do Procurador-Geral da Justiça, antes do término de seu
 mandato;
+XXIII – suspender a execução, no todo ou em parte, de lei ou ato normativo
+estadual ou municipal declarado inconstitucional por decisão definitiva do
+Tribunal de Justiça;
 XXIII – suspender a execução, no todo ou em parte, na medida em
 que se der a declaração judicial de lei ou ato normativo estadual
 ou municipal declarado inconstitucional por decisão definitiva do
 Tribunal de Justiça, na hipótese de controle incidental;
+(Redação dada pela Emenda Constitucional n° 61, de19 de dezembro de 2008).
+XXIV – processar o Procurador-Geral da Justiça, o Procurador-Geral do Estado
+e o Defensor-Geral da Defensoria Pública nos crimes de responsabilidade;
 XXIV – processar o Procurador-Geral de Justiça e o Procurador-Geral
 do Estado;
+(Redação dada pela Emenda Constitucional n° 61, de19 de dezembro de 2008).
+21
 Ver ADI nº 4775, no Anexo II.
+XXV – autorizar o Governador a efetuar ou a contrair empréstimos e a referendar
+convênios e acordos celebrados com entidades públicas ou particulares dos
+quais resultem encargos não previstos no orçamento;
 XXV – autorizar o Governador a efetuar ou a contrair empréstimos;
+(Redação dada pela Emenda Constitucional n° 61, de19 de dezembro de 2008).
 XXVI – ordenar a sustação de contrato impugnado pelo Tribunal
 de Contas;
 XXVII – dispor sobre limites e condições para a concessão de garan-
@@ -1076,32 +1740,54 @@ XXVIII – solicitar a intervenção federal no Estado para garantir o
 livre exercício de suas funções e prerrogativas;
 XXIX – dar posse aos Deputados, receber a renúncia e declarar a
 perda de mandato;
+XXX – conceder licença para processar Deputados;
+XXX – (revogado).
+(Revogado pela Emenda Constitucional n° 61, de19 de dezembro de 2008).
 XXXI – propor, em conjunto com outras Assembleias Legislativas,
 emenda à Constituição Federal;
+XXXII – aprovar previamente, por voto secreto, a escolha do Superintendente
+da Fundação de Teleducação do Estado do Ceará.
+XXXII – (revogado).
+(Revogado pela Emenda Constitucional n° 61, de19 de dezembro de 2008).
+Parágrafo único . A Assembleia Legislativa mantém, para apoio cultural a seus
+desempenhos, o Instituto de Estudos e Pesquisas sobre o Desenvolvimento do
+Estado do Ceará, com programas de participação popular e fortalecimento da
+representação política, fornecendo subsídios, sempre que solicitado, sobre
+elaboração e discussão dos planos plurianuais.
+Parágrafo único . (revogado).
+(Revogado pela Emenda Constitucional n° 61, de19 de dezembro de 2008).
 § 1º A Assembleia Legislativa manterá, como instituição de apoio a
 seu desempenho, o Instituto de Estudos e Pesquisas sobre o Desen-
 volvimento do Estado do Ceará, com programas de participação
 popular e fortalecimento da representação política, fornecendo
 subsídios, sempre que solicitado, sobre elaboração e discussão
 dos planos plurianuais.
+(Inserido pela Emenda Constitucional n° 61, de 19 de dezembro de 2008).
 § 2º A Assembleia Legislativa do Estado do Ceará manterá a Univer-
 sidade do Parlamento Cearense, com o objetivo de aperfeiçoar o
 serviço público, de promover e de manter atividades voltadas para
 formação, qualificação profissional dos servidores públicos em geral
 
+---
+
 e dos cidadãos e notadamente voltada às reivindicações profissionais
 dos parlamentares e agentes políticos vinculados às Assembleias
 Legislativas e às Câmaras Municipais conveniadas.
+(Inserido pela Emenda Constitucional n° 61, de 19 de dezembro de 2008).
 § 3º À Procuradoria da Assembleia Legislativa cabe exercer a asses-
 soria e a consultoria jurídica do Poder Legislativo, na forma da lei,
 observadas as competências da Procuradoria Geral do Estado.
+(Inserido pela Emenda Constitucional n° 61, de19 de dezembro de 2008).
 Art. 50. Cabe à Assembleia Legislativa, com a sanção do Governador
 do Estado, dispor acerca de todas as matérias de competência do
 Estado do Ceará, especialmente sobre:
 I – sistema tributário, arrecadação e distribuição de rendas;
+II – plano plurianual, diretrizes orçamentárias, orçamento anual, operações
+de crédito e dívida pública;
 II – plano estratégico de longo prazo, plano plurianual, diretrizes
 orçamentárias, orçamento anual, operações de crédito e dívida
 pública;
+(Redação dada pela Emenda Constitucional nº 114, de 30 de março de 2022).
 III – fixação e modificação do efetivo da Polícia Militar e do Corpo
 de Bombeiros;
 IV – planos e programas regionais e setoriais de desenvolvimento;
@@ -1125,37 +1811,68 @@ XV – fiscalização das tarifas do serviço público.
 #### Seção III
 
 Dos Deputados
+Art. 51. Os Deputados são invioláveis no exercício do mandato por suas opiniões,
+palavras e votos.
 Art. 51. Os Deputados Estaduais são invioláveis, civil e penalmente,
 por quaisquer de suas opiniões, palavras e votos.
+(Redação dada pela Emenda Constitucional nº 48, de 04 de abril de 2002).
+§ 1º Desde a expedição do diploma, os membros da Assembleia Legislativa não
+poderão ser presos, salvo em flagrante de crime inafiançável, nem processados
+criminalmente, sem prévia licença da Assembleia Legislativa.
 § 1º Os Deputados Estaduais serão, desde a expedição do diploma,
 processados e julgados pelo Tribunal de Justiça.
+(Redação dada pela Emenda Constitucional nº 48, de 04 de abril de 2002).
+§ 2º No caso de crime inafiançável, os autos serão remetidos, dentro de vinte e
+quatro horas, à Assembleia Legislativa, para que, pelo voto secreto da maioria
+de seus membros, resolva sobre a prisão e autorize, ou não, a formação de culpa.
 § 2º Desde a expedição do diploma, os Deputados Estaduais não
 poderão ser presos, salvo em flagrante de crime inafiançável,
 devendo os autos dessa prisão ser remetidos, dentro de vinte e
 quatro horas, à Assembleia Legislativa, para que, pelo voto da
 maioria de seus membros, resolva sobre a prisão.
+(Redação dada pela Emenda Constitucional nº 48, de 04 de abril de 2002).
+§ 3º Os Deputados serão processados e julgados pelo Tribunal de Justiça do
+Estado.
 § 3º Recebida a denúncia, por crime ocorrido após a diplomação, o
 Tribunal dará ciência à Assembleia Legislativa, que, por iniciativa
 de partido político nela representado e pelo voto da maioria de seus
 membros, poderá, até a decisão final, sustar o andamento da ação.
+(Redação dada pela Emenda Constitucional nº 48, de 04 de abril de 2002).
+§ 4º Os Deputados não serão obrigados a testemunhar sobre informações rece-
+bidas ou prestadas em razão do exercício do mandato, nem sobre as pessoas
+que lhes confiaram ou deles receberam informações.
 § 4º O pedido de sustação será apreciado pela Assembleia Legis-
 lativa no prazo improrrogável de quarenta e cinco dias do seu
 recebimento pela Mesa Diretora.
+(Redação dada pela Emenda Constitucional nº 48, de 04 de abril de 2002).
+§ 5º A remuneração dos Deputados será fixada, em cada legislatura para a
+subsequente, pela Assembléia Legislativa, sujeita aos impostos gerais, inclu-
+sive o de renda.
+§ 5º A remuneração dos Deputados Estaduais será fixada em cada legislatura,
+para a subsequente, pela Assembleia Legislativa, observado o que dispõe os Arts.
+150, II, 153, III e 153 § 2º, I, na razão de, no máximo 75% daquela estabelecida
+em espécie para os Deputados Federais. (Redação da Emenda Constitucional
+nº 07, de 26 de junho de 1992).
 § 5º A sustação do processo suspende a prescrição, enquanto durar
 o mandato.
+
+---
 
 § 6º Os Deputados Estaduais não serão obrigados a testemunhar
 sobre informações recebidas ou prestadas em razão do exercício
 do mandato, nem sobre as pessoas que lhes confiaram ou deles
 receberam informações.
+(Inserido pela Emenda Constitucional nº 48, de 04 de abril de 2002).
 § 7º A incorporação às Forças Armadas de Deputados Estaduais,
 embora militares e ainda que em tempo de guerra, dependerá de
 prévia licença da Assembleia Legislativa.
+(Inserido pela Emenda Constitucional nº 48, de 04 de abril de 2002).
 § 8º As imunidades dos Deputados Estaduais subsistirão durante o
 estado de sítio, só podendo ser suspensas mediante o voto de dois
 terços dos membros da Assembleia Legislativa, nos casos de atos,
 praticados fora do recinto da Assembleia, que sejam incompatíveis
 com a execução da medida.
+(Inserido pela Emenda Constitucional nº 48, de 04 de abril de 2002).
 Art. 52. Os Deputados não poderão:
 I – desde a expedição do diploma:
 a) firmar ou manter contrato com pessoa jurídica de direito
@@ -1179,6 +1896,7 @@ d) ser titulares de mais de um cargo ou mandato público eletivo.
 até o primeiro grau ou por adoção, à Mesa Diretora da Assembleia
 Legislativa, que adotará as providências cabíveis em caso de
 suspeita de enriquecimento ilícito ou outras irregularidades.
+(Inserido pela Emenda Constitucional nº 49, de 4 de abril de 2002).
 § 2º As declarações de bens a que se refere o parágrafo anterior
 deverão ser publicadas no Diário Oficial do Estado e postas à
 disposição de qualquer interessado, mediante requerimento
@@ -1207,14 +1925,24 @@ da respectiva Mesa ou de partido político, assegurada ampla defesa.
 mandato será automática e declarada pela Mesa da Assembleia
 Legislativa.
 Art. 54. Não perderá o mandato o Deputado:
+I – investido no cargo de Ministro de Estado, Governador de Território, Secretário
+de Estado, do Distrito Federal, de Território, da Prefeitura da Capital ou Chefe
+de missão diplomática temporária;
 I – investido no cargo de Ministro de Estado, Governador de Ter-
 ritório, Secretário de Estado, do Distrito Federal, de Território, da
 Prefeitura da Capital ou Chefe de Missão Diplomática Temporário,
 ou a eles equiparados.
+(Redação dada pela Emenda Constitucional nº 51, de 16 de dezembro de 2002).
+II – licenciado por motivo de doença ou para tratar, sem remuneração, de
+interesse particular, desde que, nessa hipótese, o afastamento não transponha
+cento e vinte dias por sessão legislativa.
 II – licenciado por motivo de doença, licença-maternidade, ou para
 tratar, sem remuneração, de interesse particular, desde que, nessa
 hipótese, o afastamento não transponha 120 (cento e vinte) dias
 por sessão legislativa.
+(Redação dada pela Emenda Constitucional nº 82, de 28 de maio de 2015).
+
+---
 
 § 1º Far-se-á a convocação do suplente, respeitada a ordem da
 diplomação na respectiva legenda partidária, nos casos de vaga,
@@ -1227,6 +1955,7 @@ o término do mandato.
 neração parlamentar.
 § 4º Será de 120 (cento e vinte) dias o afastamento por licença-ma-
 ternidade, prorrogável por 60 (sessenta) dias.
+(Inserido pela Emenda Constitucional nº 82, de 28 de maio de 2015).
 
 #### Seção IV
 
@@ -1262,6 +1991,12 @@ posta orçamentária, bem como a sua posterior execução;
 VIII – apreciar e acompanhar programas de obras, planos estaduais,
 regionais e setoriais de desenvolvimento e sobre eles emitir parecer;
 IX – solicitar depoimento de qualquer autoridade ou cidadão.
+Art. 56. A Assembleia Legislativa criará comissões parlamentares de inquérito
+para apuração de fato determinado, sempre que o requerer a quarta parte
+dos seus membros, observada na sua composição a proporcionalidade de
+representação partidária, ficando obrigatório, sob pena de sanção definida em
+lei complementar, o comparecimento de autoridades, servidores e quaisquer
+pessoas convocadas.
 Art. 56. As Comissões Parlamentares de Inquérito, que terão pode-
 res de investigação próprios das autoridades judiciais, além de
 outros previstos na lei e no regimento interno da Assembleia Legis-
@@ -1270,10 +2005,14 @@ terço de seus membros, para apuração de fato determinado e por
 prazo certo, sendo suas conclusões, se for o caso, encaminhadas
 ao Ministério Público, para que promova a responsabilidade civil
 ou criminal dos infratores.
+(Redação dada pela Emenda Constitucional nº 133, de 05 de novembro de 2025).
+§ 1º As comissões parlamentares de inquérito terão poderes de investigação pró-
+prios das autoridades judiciais, cumulativamente com os de natureza parlamentar.
 § 1º As comissões parlamentares de inquérito terão poderes de
 investigação próprios das autoridades judiciais, cumulativamente
 com os de natureza parlamentar, podendo inclusive decretar,
 motivadamente, a quebra de sigilo bancário dos investigados.
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
 § 2º As conclusões, se for o caso, serão encaminhadas ao Ministério
 Público, para que promova a responsabilidade civil ou criminal
 dos infratores.
@@ -1291,18 +2030,23 @@ I – emendas à Constituição;
 II – leis complementares;
 III – leis ordinárias;
 
+---
+
 V – decretos legislativos; e
 VI – resoluções.
 § 1º Não cabendo no Processo Legislativo proposição de interesse
 Público, o Deputado poderá sugerir ao Poder Executivo a adoção
 do competente Projeto de Lei, na forma de Indicação.
+(Inserido pela Emenda Constitucional nº 18, de 13 de dezembro de 1994).
 § 2º Uma vez recebida a Indicação, aprovada em Plenário, o Gover-
 nador do Estado, no prazo de 90 (noventa) dias, dará ciência à
 Assembleia Legislativa de sua conveniência ou não.
+(Inserido pela Emenda Constitucional nº 18, de 13 de dezembro de 1994).
 § 3º As entidades da sociedade civil, legalmente constituídas,
 poderão, nos termos do disposto em Resolução da Assembleia
 Legislativa, apresentar projetos de iniciativa compartilhada, os
 quais tramitarão, se acolhidos, como proposição da Mesa Diretora.
+(Inserido pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
 
 #### Subseção I
 
@@ -1314,11 +2058,16 @@ III – de mais da metade das Câmaras Municipais, manifestando-se
 cada uma delas pela maioria relativa de seus membros; e
 IV – de cidadãos, mediante iniciativa popular assinada, no mínimo,
 por um por cento dos eleitores.
+(Inserido pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
 § 1º A Constituição não poderá ser emendada na vigência de inter-
 venção federal, estado de defesa ou estado de sítio.
+§ 2º A proposta será discutida e votada pela Assembleia Legislativa, em dois
+turnos, considerando-se aprovada se obtiver, em ambos, três quintos dos votos
+dos respectivos membros.
 § 2º A proposta será discutida e votada pela Assembleia Legislativa,
 em dois turnos, considerando-se aprovada se obtiver, em ambos,
 três quintos dos votos dos seus membros.
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
 § 3º A emenda à Constituição será promulgada pela Mesa da Assem-
 bleia, com respectivo número de ordem.
 § 4º Não será objeto de deliberação a proposta que vise modifi-
@@ -1337,84 +2086,169 @@ Das Leis
 Art. 60. Cabe a iniciativa de leis:
 I – aos Deputados Estaduais;
 II – ao Governador do Estado;
+III – ao Presidente do Tribunal de Justiça, em matérias de privatividade judiciária,
+indicadas nesta Constituição;
 III – ao Presidente do Tribunal de Justiça, em matérias de sua
 competência privativa, previstas nesta Constituição;
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
+IV – ao cidadão, nos casos e nas formas previstas nesta Constituição.
 IV – aos cidadãos, mediante proposta de projeto de lei à Assembleia
 Legislativa, subscrito por no mínimo um por cento do eleitorado
 estadual;
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
+V – ao Ministério Público e aos Tribunais de Contas, em matérias de sua compe-
+tência privativa, previstas nesta Constituição; e (Inserido pela Emenda Consti-
+tucional nº 61, de 19 de dezembro de 2008).
+V – ao Ministério Público, à Defensoria Pública e aos Tribunais de Contas, em
+matérias de sua competência privativa, previstas nesta Constituição; (Redação
+dada pela Emenda Constitucional nº 80, de 10 de abril de 2014).
 V – ao Ministério Público, à Defensoria Pública e ao Tribunal de
 Contas do Estado do Ceará, em matérias de sua competência
 privativa, previstas nesta Constituição;
+(Substituída a expressão “aos Tribunais de Contas” por “ao Tribunal de
 Contas do Estado do Ceará” pela Emenda constitucional nº 92, de 16 de
 agosto de 2017).
 VI – a entidades da sociedade civil, por meio dos projetos de lei
 de iniciativa compartilhada, nos termos do §3º do art. 58 desta
 Constituição.
+(Inserido pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
+
+---
 
 (Renumerado pela Emenda Constitucional nº 10, de 29 de março de 1994).
 I – nos projetos de iniciativa exclusiva do Governador do Estado;
+II – nos projetos sobre organização dos serviços administrativos da Assembleia
+Legislativa, dos Tribunais Estaduais e do Ministério Público Estadual.
+II – nos projetos sobre organização dos serviços administrativos da Assem-
+bleia Legislativa, do Poder Judiciário, do Ministério Público Estadual e dos
+Tribunais de Contas. (Redação dada pela Emenda Constitucional nº 61, de 19
+de dezembro de 2008).
+II - nos projetos sobre organização dos serviços administrativos da Assembleia
+Legislativa, do Poder Judiciário, do Ministério Público Estadual, da Defensoria
+Pública Estadual e dos Tribunais de Contas. (Redação dada pela Emenda Cons-
+titucional nº 80, de 10 de abril de 2014).
 II - nos projetos sobre organização dos serviços administrativos da
 Assembleia Legislativa, do Poder Judiciário, do Ministério Público
 Estadual, da Defensoria Pública Estadual e do Tribunal de Contas
 do Estado do Ceará.
+(Substituída a expressão “dos Tribunais de Contas” por “do Tribunal de
 Contas do Estado do Ceará” pela Emenda constitucional nº 92, de 16 de
 agosto de 2017).
 § 2º São de iniciativa privativa do Governador do Estado as leis
 que disponham sobre:
+(Inserido pela Emenda Constitucional nº 10, de 29 de março de 1994).
+a) criação de cargos, funções ou empregos públicos na administração direta,
+autárquica e fundacional ou aumento de sua remuneração; (Inserido pela
+Emenda Constitucional nº 10, de 29 de março de 1994).
 a) criação de cargos, funções ou empregos públicos na admi-
 nistração direta, autárquica e fundacional, e de empregos nas
 empresas públicas e sociedades de economia mista prestadoras
 de serviços públicos, ou aumento de sua remuneração;
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
+b) organização administrativa, matéria tributária e orçamentária, serviços
+públicos e pessoal, da administração direta, autárquica e fundacional; (Inserido
+pela Emenda Constitucional nº 10, de 29 de março de 1994).
 b) servidores públicos da administração direta, autárquica e
 fundacional, seu regime jurídico, provimento de cargos, estabi-
 lidade e aposentadoria de civis e militares, seu regime jurídico,
 ingresso, limites de idade, estabilidade, direitos e deveres,
 reforma e transferência de policiais militares e de bombeiros
 militares para a inatividade;
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
+c) servidores públicos da administração direta, autárquica e fundacional, seu
+regime jurídico, provimento de cargos, estabilidade e aposentadoria de civis,
+22
+Ver ADI nº 5768, no Anexo II.
+reforma e transferência de policiais militares e de bombeiros para a inatividade;
+(Inserido pela Emenda Constitucional nº 10, de 29 de março de 1994).
 c) criação, organização, estruturação e competências das Secre-
 tarias de Estado, órgãos e entidades da administração pública
 direta e indireta, concessão, permissão, autorização, delegação
 e outorga de serviços públicos;
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
+d) criação, estruturação e atribuições das Secretarias de Estado e órgãos da
+administração pública. (Inserido pela Emenda Constitucional nº 10, de 29 de
+março de 1994).
+d) concessão de subsídio ou isenção, redução de base de cálculo, concessão de
+crédito presumido, anistia ou remissão, relativos a impostos, taxas e contribuições;
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
 d) (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 5768, no dia 11 de setembro de 2019, publicada
 no dia 14 de outubro de 2019, do DJE e no DOU). 22
+e) matéria orçamentária. (Inserido pela Emenda Constitucional nº 61, de 19
+de dezembro de 2008).
 e) plano estratégico de longo prazo, plano plurianual, diretrizes
 orçamentárias e orçamento anual.
+(Redação dada pela Emenda Constitucional nº 114, de 30 de março de 2022).
 § 3º Ressalvadas as hipóteses previstas no § 2º deste artigo, a ini-
 ciativa de leis que disponham sobre as matérias da competência
 comum e concorrente da União e Estados, previstas na Constituição
 Federal, poderá ser exercida, concorrentemente, pelo Governador
 do Estado e Deputados Estaduais.
+(Inserido pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
 Art. 61. As leis complementares serão aprovadas por maioria abso-
 luta dos votos dos membros da Assembleia Legislativa, observados
 os demais termos de votação das leis ordinárias.
+Art. 62. As propostas de cidadãos serão, inicialmente, submetidas à apreciação
+da Comissão de Constituição e Justiça da Assembleia Legislativa, que deverá
+manifestar-se sobre sua admissibilidade e constitucionalidade.
 Art. 62. As propostas de iniciativa popular serão inicialmente
 submetidas à apreciação da Comissão de Constituição, Justiça
 e Redação da Assembleia Legislativa, que deverá manifestar-se
 sobre sua admissibilidade e constitucionalidade.
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
 Parágrafo único . A proposta, se aprovada pela Comissão, seguirá
 o rito do processo legislativo ordinário.
+Art. 63. O Governador do Estado poderá solicitar que os projetos de lei de sua
+iniciativa sejam apreciados dentro de quarenta e cinco dias pela Assembleia
+Legislativa.
+
+---
+
 Art. 63. O Governador do Estado poderá solicitar que os projetos
 de lei e de lei complementar de sua iniciativa sejam apreciados
 dentro de quarenta e cinco dias pela Assembleia Legislativa, em
 regime de urgência.
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
+§ 1º O pedido de apreciação de projeto de lei, dentro do prazo estabelecido
+neste artigo, deverá ser enviado com a mensagem de seu encaminhamento
+à Assembleia Legislativa.
 § 1º O pedido de apreciação de projeto de lei e de projeto de
 lei complementar dentro do prazo estabelecido neste artigo,
 deverá ser solicitado na mensagem de seu encaminhamento à
 Assembleia Legislativa.
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
+§ 2º Na falta de deliberação dentro do prazo estabelecido neste artigo, o projeto
+será automaticamente incluído na ordem do dia, em regime de urgência, nas
+dez sessões consecutivas; se ao final dessas não for apreciado, considerar-se-á
+definitivamente rejeitado.
 § 2º Na falta de deliberação dentro do prazo estabelecido neste
 artigo, o projeto será automaticamente incluído na ordem do dia,
 em regime de urgência, nas dez sessões consecutivas; se ao final
 dessas não for apreciado, considerar-se-á rejeitado.
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
 § 3º O prazo estabelecido neste artigo não correrá nos períodos de
 recesso da Assembleia Legislativa.
 Art. 64. As leis delegadas serão elaboradas pelo Governador do
 Estado ou por comissão da Assembleia Legislativa.
+§ 1º Não poderão ser objeto de delegação as matérias de competência exclusiva
+da Assembleia Legislativa, nem as de iniciativa do Poder Judiciário.
+§ 1º Não poderão ser objeto de delegação a matéria reservada à Lei Complementar,
+as matérias de competência exclusiva da Assembleia Legislativa, nem as de
+iniciativa do Poder Judiciário, do Ministério Público e dos Tribunais de Contas.
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
+§ 1º Não poderão ser objeto de delegação a matéria reservada à Lei Complemen -
+tar, as matérias de competência exclusiva da Assembleia Legislativa, nem as
+de iniciativa do Poder Judiciário, do Ministério Público, da Defensoria Pública
+e dos Tribunais de Contas. (Redação dada pela Emenda Constitucional nº 80,
+de 10 de abril de 2014).
 § 1º Não poderão ser objeto de delegação a matéria reservada
 à Lei Complementar, as matérias de competência exclusiva da
 Assembleia Legislativa, nem as de iniciativa do Poder Judiciário,
 do Ministério Público, da Defensoria Pública e do Tribunal de
 Contas do Estado do Ceará.
+(Substituída a expressão “dos Tribunais de Contas” por “do Tribunal de
 Contas do Estado do Ceará” pela Emenda constitucional nº 92, de 16 de
 agosto de 2017).
 § 2º No caso de delegação à comissão da Assembleia, que será
@@ -1436,9 +2270,13 @@ ao Presidente da Assembleia, os motivos do veto.
 de parágrafo, de inciso ou de alínea.
 § 3º Decorrido o prazo de quinze dias, o silêncio do Governador
 importará sanção.
+§ 4º O veto será apreciado dentro de trinta dias, a contar do seu recebimento,
+só podendo ser rejeitado pelo voto da maioria absoluta dos Deputados, em
+escrutínio secreto.
 § 4º O veto será apreciado dentro de 30 (trinta) dias, a contar do
 seu recebimento, só podendo ser rejeitado pelo voto da maioria
 absoluta dos deputados.
+(Redação dada pela Emenda Constitucional nº 118, de 23 de novembro de 2022).
 § 5º Se o veto não for mantido, será o projeto enviado ao Governador,
 para promulgação.
 § 6º Esgotado sem deliberação o prazo estabelecido no §4º, o veto
@@ -1453,6 +2291,8 @@ poderá constituir objeto de novo projeto, na mesma sessão legis-
 lativa, mediante proposta da maioria absoluta dos membros da
 Assembleia Legislativa.
 
+---
+
 #### Seção VI
 
 Da Fiscalização Contábil, Financeira e Orçamentária
@@ -1460,6 +2300,8 @@ Da Fiscalização Contábil, Financeira e Orçamentária
 #### Subseção I
 
 Disposições Gerais
+Art. 67. Os Poderes Legislativo, Executivo e Judiciário manterão, de
+forma integrada, sistema de controle interno com a finalidade de:
 I – avaliar o cumprimento das metas previstas no plano plurianual, a execução
 dos programas de governo e dos orçamentos do Estado;
 II – comprovar a legalidade e avaliar os resultados, quanto à eficácia e à eficiên-
@@ -1472,22 +2314,32 @@ IV – apoiar o controle externo no exercício de sua missão institucional.
 Parágrafo único . Os responsáveis pelo controle interno, ao tomarem conheci-
 mento de qualquer irregularidade ou ilegalidade, dela darão ciência ao Tribunal
 de Contas do Estado, sob pena de responsabilidade solidária.
+Art. 67. (Revogado).
+(Revogado pelo art. 3º da Emenda Constitucional nº 75, de 20 de dezembro
+de 2012).
 Art. 68. A fiscalização contábil, financeira, orçamentária, opera -
 cional e patrimonial do Estado e das entidades da administração
 direta e indireta, quanto à legalidade, legitimidade, economi-
 cidade, aplicação das subvenções e renúncia de receitas, será
 exercida pela Assembleia Legislativa, mediante o controle externo,
 e pelo sistema de controle interno de cada Poder. 23
+Parágrafo único . Prestará contas qualquer pessoa física ou entidade pública
+que utilize, arrecade, guarde, gerencie ou administre dinheiro, bens e valores
+públicos, ou pelos quais o Estado responda, ou que, em nome deste, assuma
+obrigações de natureza pecuniária.
 Parágrafo único . Prestará contas qualquer pessoa física ou jurídica,
 de direito público ou de direito privado que utilize, arrecade,
 guarde, gerencie ou administre dinheiro, bens e valores públicos
 ou pelos quais o Estado responda, ou que, em nome deste, assuma
 obrigações de natureza pecuniária.
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
 Art. 69. O controle externo, a cargo da Assembleia Legislativa, será
 exercido com o auxílio do Tribunal de Contas do Estado. 24
 Art. 70. A comissão permanente da Assembleia Legislativa, incum-
 bida de emitir parecer sobre os projetos de lei relativos ao plano
+23
 Ver Lei Complementar n° 26, de 15 de janeiro de 2001, no Banco Eletrônico de Leis Temáticas (Belt) da Alece.
+24
 Ver Lei Complementar n° 26, de 15 de janeiro de 2001, no Banco Eletrônico de Leis Temáticas (Belt) da Alece.
 plurianual, às diretrizes orçamentárias, ao orçamento anual e aos
 créditos adicionais, diante de indícios de despesas não autoriza-
@@ -1505,86 +2357,183 @@ economia pública, proporá à Assembleia Legislativa sua sustação.
 #### Subseção II
 
 Do Tribunal de Contas
+Art. 71. O Tribunal de Contas do Estado, integrado por sete Conselheiros, tem sede
+na capital, quadro próprio de pessoal e jurisdição em todo o território estadual.
 Art. 71. O Tribunal de Contas do Estado, integrado por sete Conse-
 lheiros, tem sede na Capital do Estado, quadro próprio de pessoal
 e jurisdição em todo o território estadual.
+(Redação dada pela Emenda Constitucional n° 54, de 22 de dezembro de 2003).
+§ 1° Os Conselheiros do Tribunal de Contas do Estado serão nomeados dentre
+brasileiros com mais de trinta e cinco e menos de sessenta e cinco anos de idade,
+de idoneidade moral, reputação ilibada e notórios conhecimentos jurídicos,
+contábeis, econômicos, financeiros ou de administração pública, com mais de
+dez anos de exercício de função ou de efetiva atividade profissional que exija
+os conhecimentos mencionados.
 § 1º Os Conselheiros do Tribunal de Contas do Estado serão nomea-
 dos pelo Governador do Estado dentre brasileiros que satisfaçam
 os seguintes requisitos:
+(Redação dada pela Emenda Constitucional n° 54, de 22 de dezembro de 2003).
 I – mais de trinta e cinco e menos de sessenta e cinco anos de idade;
+(Redação dada pela Emenda Constitucional n° 54, de 22 de dezembro de 2003).
 II – idoneidade moral e reputação ilibada;
+(Redação dada pela Emenda Constitucional n° 54, de 22 de dezembro de 2003).
 III – notórios conhecimentos jurídicos, contábeis econômicos e
 financeiros ou de administração pública;
+(Redação dada pela Emenda Constitucional n° 54, de 22 de dezembro de 2003).
 IV – mais de dez anos no exercício de função ou de efetiva ativi-
 dade profissional que exija os conhecimentos mencionados no
 inciso anterior.
 
+---
+
+§ 2º Os Conselheiros do Tribunal de Contas do Estado serão escolhidos:
 § 2º . Os Conselheiros do Tribunal de Contas do Estado serão
 escolhidos : 25
+(Redação dada pele Emenda Constitucional n° 54, de 22 de dezembro de 2003).
+I – dois pelo Governador do Estado, com aprovação da Assembléia Legislativa,
+alternadamente, dentre auditores e membros do Ministério Público junto
+ao tribunal, que satisfaçam os requisitos do parágrafo anterior, segundo os
+critérios de antiguidade e merecimento, apontados, em caso de merecimento,
+em lista tríplice;
+I – dois pelo Governador, com aprovação da Assembleia Legislativa, sendo
+que a primeira vaga ao ocorrer será de sua livre escolha, e a segunda dentre
+auditores ou membros do Ministério Público, alternadamente, e nessa ordem,
+indicados em lista tríplice, segundo os critérios de antiguidade e merecimento;
+(Redação dada pele Emenda Constitucional n° 10, de 29 de março de 1994). 26
 I – três pelo Governador do Estado, com aprovação da Assembleia
 Legislativa, sendo dois alternadamente dentre auditores e mem-
 bros do Ministério Público Especial junto ao Tribunal de Contas do
 Estado, indicados em lista tríplice pelo Tribunal, observando-se
 os critérios de antiguidade e merecimento ;
+(Redação dada pela Emenda Constitucional n° 54, de 22 de dezembro de 2003).
+II – cinco pela Assembleia Legislativa.
 II – quatro pela Assembleia Legislativa.
+(Redação dada pele Emenda Constitucional n° 54, de 22 de dezembro de 2003).
+§ 3º Os Conselheiros terão as mesmas garantias, prerrogativas, impedimentos,
+vencimentos, direitos e vantagens dos desembargadores do Tribunal de Justiça,
+e somente poderão aposentar-se com as vantagens do cargo, quando o tiverem
+exercido efetivamente por mais de cinco anos.
 § 3º O processo de escolha dos Conselheiros do Tribunal de Contas
 do Estado, em caso de vaga ocorrida na vigência desta Constituição,
 atendidos os requisitos previstos no § 1° deste artigo, obedecerá
 aos seguintes critérios:
+(Redação dada pele Emenda Constitucional n° 54, de 22 de dezembro de 2003).
 I – na primeira, na quarta e na sétima vaga, a escolha caberá ao
 Governador do Estado, com aprovação da Assembleia Legislativa,
 sendo que:
+(Redação dada pele Emenda Constitucional n° 54, de 22 de dezembro de 2003).
 a) a primeira vaga será de sua livre escolha; e
+(Redação dada pele Emenda Constitucional n° 54, de 22 de dezembro de 2003).
+b) a quarta e a sétima vaga deverão recair em auditor ou membro do Ministé-
+rio Público Especial junto ao Tribunal de Contas do Estado, alternadamente,
+25
+Regulamentado pela Lei nº 12.509, de 6.12.1995, no Banco Eletrônico de Leis Temáticas (Belt) da Alece.
+26
+Na redação anterior havia duas arguições de inconstitucionalidade de n° 3076-1 e 3078-7, as quais foram julgadas prejudicadas
+em decisão monocrática. Ver ADIs n° 3076-1 e 3078-7 no Anexo II.
+segundo os critérios de antiguidade e merecimento; (Redação dada pele Emenda
+Constitucional n° 54, de 22 de dezembro de 2003).
 b) a quarta vaga recairá em auditor e a sétima vaga recairá
 em membro do Ministério Público Especial junto ao Tribunal
 de Contas do Estado, segundo os critérios de antiguidade e
 merecimento, alternadamente.
+(Redação dada pela Emenda Constitucional nº 67, de 02 de dezembro de 2009).
+II – Os Conselheiros terão as mesmas garantias, prerrogativas, impedimentos,
+vencimentos, direitos e vantagens dos Desembargadores do Tribunal de Justiça,
+e somente poderão aposentar-se com as vantagens do cargo quando o tiverem
+exercido efetivamente por mais de cinco anos.
 II – na segunda, terceira, quinta e sexta vaga, a escolha caberá à
 Assembleia Legislativa do Estado.
+(Redação dada pela Emenda Constitucional n° 54, de 22 de dezembro de 2003).
+§ 4° É vedado aos Conselheiros, sob pena de perda do cargo, ainda que em
+disponibilidade, o exercício de outra função pública, salvo uma de magistério,
+bem como receber, a qualquer título, custas ou participação nos processos ou
+ainda dedicar-se à atividade político-partidária.
 § 4º Os cargos preenchidos na vigência desta Constituição serão
 providos, quando vagarem, por indicação de quem escolheu ori-
 ginalmente os seus ocupantes, sempre com aprovação da Assem-
 bleia Legislativa.
+(Redação dada pela Emenda Constitucional n° 54, de 22 de dezembro de 2003).
+§ 5° Os Conselheiros do Tribunal de Contas do Estado deverão enviar anualmente
+declaração de seus bens, dos bens de seus cônjuges e dos descendentes até o
+primeiro grau ou por adoção, à Mesa Diretora da Assembleia Legislativa, que
+adotará as providências cabíveis em caso de suspeita de enriquecimento ilícito
+ou outras irregularidades.
+§ 5º Os Conselheiros do Tribunal de Contas do Estado terão as mesmas
+garantias, prerrogativas, impedimentos, vencimentos, direitos e vantagens
+dos desembargadores do Tribunal de Justiça e somente poderão aposentar-se
+com as vantagens do cargo quando o tiverem exercido por mais de cinco anos.
+(Redação dada pela Emenda Constitucional n° 54, de 22 de dezembro de 2003).
 § 5º Os Conselheiros do Tribunal de Contas do Estado terão as mes-
 mas garantias, prerrogativas, impedimentos, subsídios, direitos e
 vantagens dos Desembargadores do Tribunal de Justiça Estadual,
 aplicando-se-lhes, quanto à aposentadoria e pensão, as normas
 constantes do art. 40 da Constituição Federal.
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
+§ 6º As declarações de bens a que se refere o parágrafo anterior deverão ser
+publicadas no Diário Oficial do Estado e postas à disposição de qualquer
+interessado, mediante requerimento devidamente justificado. (Inserido pela
+Emenda Constitucional nº 49, de 04 de abril de 2002).
+
+---
+
 § 6º Os Conselheiros do Tribunal de Contas do Estado deverão enviar
 anualmente declaração de seus bens, dos bens de seus cônjuges
 e dos descendentes até o primeiro grau ou por adoção, a Mesa
 Diretora da Assembleia Legislativa, que adotará as providências
 cabíveis em caso de suspeita de enriquecimento ilícito ou outras
 irregularidades.
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
 § 7º As declarações de bens a que se refere o parágrafo anterior
 deverão ser publicadas no Diário Oficial do Estado e postas à
 disposição de qualquer interessado, mediante requerimento
 devidamente justificado.
+(Inserido pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
+Art. 72. Os Auditores, em número de três, serão nomeados pelo Governador
+do Estado, dentre cidadãos que preencham as qualificações exigidas para o
+cargo de Conselheiro, mediante concurso de provas e títulos, promovido pelo
+Tribunal de Contas, observada a ordem de classificação.
 Art. 72. Os Auditores, em número de 6 (seis), serão nomeados
 pelo Governador do Estado, dentre cidadãos que preencham as
 qualificações exigidas para o cargo de Conselheiro, mediante
 concurso de provas e títulos, promovido pelo Tribunal de Contas,
 observada a ordem de classificação.
+(Redação dada pela Emenda constitucional nº 92, de 16 de agosto de 2017).
 § 1º O Auditor, quando em substituição a Conselheiro, terá as mes-
 mas garantias e impedimentos do titular e, quando no exercício
 das demais atribuições da judicatura, as de juiz de direito da mais
 elevada entrância.
+(Inserido pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
 § 2º As atribuições do Auditor, quando não estiver substituindo
 Conselheiro, serão definidas na Lei Orgânica do Tribunal de Contas.
+(Inserido pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
+Art. 73. O Auditor, quando em substituição a Conselheiro, terá as mesmas garan-
+tias e impedimentos do titular e, quando no exercício das demais atribuições
+da judicatura, as de juiz de direito da mais elevada entrância.
+Art. 73. Haverá uma Procuradoria de Contas, junto ao Tribunal de Contas do
+Estado, integrada por Procuradores de Contas, organizados em carreira, nomea-
+dos pelo Governador do Estado, escolhidos mediante concurso público de provas
+e títulos, dentre brasileiros e bacharéis em Direito, com participação da Ordem
+dos Advogados do Brasil. (Redação dada pela Emenda Constitucional nº 61, de
+19 de dezembro de 2008).
 Art. 73. Haverá uma Procuradoria de Contas, em número igual de
 Auditores, junto ao Tribunal de Contas do Estado, integrada por
 Procuradores de Contas, organizados em carreira, nomeados pelo
 Governador do Estado, escolhidos mediante concurso público de
+27
 Ver ADI nº 5117, no Anexo II.
+28
 Ver Emenda Constitucional nº 88, de 21 de dezembro de 2016 (Novo Regime Fiscal),
 no Banco Eletrônico de Leis Temáticas (Belt) da Alece.
 provas e títulos, dentre brasileiros e bacharéis em Direito, com
 participação da Ordem dos Advogados do Brasil. 27
+(Redação dada pela Emenda Constitucional nº 77, de 03 de outubro de 2013).
 (Declarado parcialmente inconstitucional na ADI nº 5117. Data da sessão
 de julgamento: 13 de dezembrlo de 2019).
 § 1º A Procuradoria de Contas será dirigida pelo Procurador-Geral
 de Contas, nomeado dentre os Procuradores de Contas, pelo Pre-
 sidente do Tribunal de Contas do Estado.
+(Inserido pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
 § 2º Aos Procuradores de Contas aplicam-se, subsidiariamente, no
 que couber, as disposições da Lei Orgânica do Ministério Público
 do Estado, pertinentes a direitos, subsídios, garantias, vedações,
@@ -1592,6 +2541,7 @@ regime disciplinar e forma de investidura; aplicando-se ainda,
 quanto à carreira, à competência e às atribuições, o disposto na
 Lei Orgânica do Tribunal de Contas do Estado e na Lei Federal nº
 8.443, de 16 de julho de 1992.
+(Inserido pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
 Art. 74. Ao Tribunal de Contas do Estado, garantida a sua autono-
 mia administrativa e financeira, serão asseguradas as seguintes
 atribuições:
@@ -1608,11 +2558,14 @@ pulados na lei de diretrizes orçamentárias. 28
 Parágrafo único . A assessoria e a consultoria jurídica do Tribunal
 de Contas do Estado serão exercidas por sua Procuradoria Jurídica,
 observada as competências da Procuradoria Geral do Estado.
+(Inserido pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
 Art. 75. Os recursos correspondentes às dotações orçamentárias,
 compreendidos os créditos suplementares e especiais, destinados
 ao Tribunal de Contas, ser-lhe-ão entregues até o dia vinte de cada
 mês, na forma da respectiva lei complementar.
 Art. 76. Compete ao Tribunal de Contas:
+
+---
 
 I – apreciar as contas prestadas anualmente pelo Governador do
 Estado, mediante parecer prévio que deverá ser elaborado em
@@ -1665,43 +2618,90 @@ noventa dias, não efetivar as medidas previstas no parágrafo
 anterior, o Tribunal decidirá a esse respeito.
 § 3º As decisões do Tribunal de que resulte imputação de débito
 ou multa terão eficácia de título executivo.
+§ 4º O tribunal encaminhará a Assembléia Legislativa, trimestral e anualmente,
+relatório de suas atividades.
 § 4º O Tribunal de Contas do Estado prestará suas contas, anual-
 mente, à Assembleia Legislativa, dentro de 60 (sessenta) dias após
 a abertura da Sessão Legislativa, bem como remeterá, trimestral
 e anualmente, relatório de suas atividades.
+(Redação dada pela Emenda Constitucional nº 27, de 04 de dezembro de 1996).
 § 5º O Tribunal de Contas do Estado, no exercício de suas compe-
 tências, observará os institutos da prescrição e da decadência, no
 prazo de cinco anos, nos termos da legislação em vigor.
+(Inserido pela Emenda Constitucional nº 76, de 21 de dezembro de 2012).
 Do Conselho de Contas dos Municípios
 Do Tribunal de Contas dos Municípios
+(Redação dada pela Emenda Constitucional nº 09, de 16 de dezembro de 1992).
 
 #### Subseção III
 
 Da Fiscalização Contábil, Financeira
 e Orçamentária do Município.
+(Redação dada pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+Art. 77. A fiscalização contábil, financeira, orçamentária, operacional e patrimo-
+nial dos Municípios e das entidades da administração direta e indireta, quanto à
+legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia
+de receitas, será exercida pela Câmara Municipal, mediante controle externo,
+e pelo sistema de controle interno dos Poderes Municipais.
 Art. 77. A fiscalização contábil, financeira, orçamentária, operacional
 e patrimonial dos municípios e das entidades da administração
 direta e indireta, quanto à legalidade, legitimidade, moralidade,
 economicidade, aplicação das subvenções e renúncia de receitas, será
 exercida pelas respectivas Câmaras Municipais, mediante controle
 externo, e pelo sistema de controle interno dos Poderes Municipais.
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
 Parágrafo único . Prestará contas qualquer pessoa física ou enti-
 dade pública que utilize, arrecade, guarde, gerencie ou administre
 dinheiro, bens e valores públicos ou pelos quais os Municípios
 respondam, ou que, em nome destes, assuma obrigações de natu-
 reza pecuniária.
 
+---
+
+Art. 78. O controle externo, a cargo da Câmara Municipal, será exercido com o
+auxílio do Tribunal de Contas dos Municípios, ao qual compete: (Redação dada
+pela Emenda Constitucional nº 9, de 16 de dezembro de 1992).
+Art. 78. Compete ao Tribunal de Contas dos Municípios: (Redação dada pela
+Emenda Constitucional nº 61, de 19 de dezembro de 2008).
 Art. 78. Compete ao Tribunal de Contas do Estado do Ceará:
+(Substituída a expressão “Tribunal de Contas dos Municípios” por “Tribunal de
 Contas do Estado” pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+I – apreciar as contas prestadas pelos Prefeitos e Presidentes das Câmaras
+Municipais, mediante parecer prévio;
+I – apreciar as contas prestadas anualmente pelos Prefeitos e Presidentes de
+Câmaras Municipais, mediante parecer prévio que deverá ser elaborado no
+prazo de doze (12) meses, a contar do seu recebimento. (Redação dada pela
+Emenda Constitucional nº 08, de 03 de novembro de 1992).
 I – apreciar as contas prestadas pelos Prefeitos Municipais,
 mediante parecer prévio, que deverá ser elaborado no prazo de
 doze meses, a contar do seu recebimento;
+(Redação dada pela Emenda Constitucional nº 29, de 30 de abril de 1997).
+II – julgar as contas dos administradores e demais responsáveis por dinheiro, bens
+e valores públicos da administração direta e indireta, incluídas as fundações
+e sociedades instituídas e mantidas pelo Poder Público Municipal e as contas
+daqueles que derem causa a perda, extravio ou outra irregularidade de que
+resulte prejuízo ao erário;
+II – julgar as contas dos Administradores, inclusive as das Mesas das Câmaras
+Municipais e demais responsáveis por dinheiro, bens e valores públicos da
+administração direta e indireta, incluídas as fundações e sociedades instituídas
+e mantidas pelo Poder Público Municipal e as contas daqueles que derem causa
+a perda, extravio ou outra irregularidade de que resulte prejuízo ao erário;
+(Redação dada pela Emenda Constitucional nº 29/97, de 30 de abril de 1997).
 II – julgar as contas dos administradores, das Mesas das Câmaras
 Municipais e demais responsáveis por dinheiro, bens e valores
 públicos da administração direta e indireta, incluídas as fundações
 e sociedades instituídas e mantidas pelo Poder Público Municipal
 e as contas daqueles que derem causa a perda, extravio ou outra
 irregularidade de que resulte prejuízo ao Erário;
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
+III – apreciar, para fim de registro, a legalidade dos atos de admissão de pessoal,
+a qualquer título, na administração direta e indireta, incluídas as fundações
+instituídas e mantidas pelo Poder Público Municipal, excetuadas as nomeações
+para cargo de provimento em comissão, e as concessões de aposentadorias,
+reformas e pensões, ressalvadas as melhorias posteriores que não alterem o
+fundamento legal do ato concessório;
+29
+Nesta redação havia a ADI n° 1.780, a qual foi julgada extinta sem julgamento do mérito pelo STF. Ver ADI 1.780 no Anexo II.
 III – apreciar, para fim de registro, a legalidade dos atos de admissão
 de pessoal, a qualquer título, na administração direta e indireta,
 incluídas as fundações instituídas e mantidas pelos municípios,
@@ -1709,6 +2709,7 @@ excetuadas as nomeações para cargo de provimento em comissão,
 e as concessões de aposentadorias, reformas e pensões, ressal-
 vadas as melhorias posteriores que não alterem o fundamento
 legal do ato concessório;
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
 IV – realizar, por iniciativa própria, ou da Câmara Municipal, inspeções e
 auditorias de natureza contábil, financeira, orçamentária, operacional
 e patrimonial, nas unidades administrativas do Poder Legislativo e
@@ -1727,28 +2728,63 @@ VIII – propor à Câmara Municipal a sustação de execução de ato
 impugnado por irregularidade;
 IX – representar ao Poder competente sobre irregularidades ou
 abusos apurados;
+X – comunicar à Câmara Municipal, para fins de direito, a falta de remessa,
+dentro do prazo, das contas anuais e balancetes mensais;
 X – comunicar à Câmara Municipal, para fins de direito, a falta de
 remessa, dentro do prazo, das contas anuais;
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
 XI – examinar as demonstrações contábeis e financeiras cons-
 tantes de balancetes mensais, determinando as regularizações
 necessárias na forma que a lei estabelecer;
 XII – editar atos, instruções normativas e resoluções, no âmbito de
 suas atribuições, para o completo desempenho do controle externo,
 os quais deverão ser observados pelas administrações municipais.
+§ 1º No caso de contrato, o ato de sustação será adotado diretamente pela Câmara
+Municipal, que solicitará, de imediato, ao Poder Executivo as medidas cabíveis.
+
+---
+
 § 1º No caso de contrato, o ato de sustação será expedido pela
 Câmara Municipal, que solicitará, de imediato, ao Poder Executivo,
 as medidas cabíveis.
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
+§ 2º Se a Câmara Municipal ou o Poder Executivo, no prazo de trinta dias, não efetivar
+as medidas previstas no parágrafo anterior, o Conselho de Contas dos Municípios
+adotará as medidas legais cabíveis.
+§ 2º Se a Câmara Municipal ou o Poder Executivo, no prazo de trinta dias, não
+efetivar as medidas previstas no parágrafo anterior, o Tribunal de Contas dos
+Municípios adotará as medidas legais cabíveis.
+(Redação dada pela Emenda Constitucional nº 9, de 16 de dezembro de 1992).
 § 2º Se a Câmara Municipal ou o Poder Executivo, no prazo de 30
 (trinta) dias, não efetivar as medidas previstas no parágrafo anterior,
 o Tribunal de Contas do Estado adotará as medidas legais cabíveis.
+(Substituída a expressão “Tribunal de Contas dos Municípios” por “Tribunal de
 Contas do Estado” pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+§ 3º As decisões do Conselho de Contas dos Municípios de que resulte imputação
+de delito ou multa, terão eficácia de título executivo.
+§ 3º As decisões do Tribunal de Contas dos Municípios, de que resulte imputação
+de delito ou multa, terão eficácia de título executivo, cabendo ao próprio
+Tribunal de Contas dos Municípios exigir a devolução do processo dentro do
+prazo improrrogável de 40 (quarenta) dias para a adoção de medidas cabíveis
+junto à Procuradoria Geral de Justiça, Tribunal de Justiça e Tribunal Regional
+Eleitoral. (Redação dada pela Emenda Constitucional nº 15, de 7 de abril de 1994).
 § 3º As decisões do Tribunal de Contas do Estado, de que resulte
 imputação de delito ou multa, terão eficácia de título executivo,
 cabendo ao próprio Tribunal de Contas exigir a devolução do
 processo dentro do prazo improrrogável de 40 (quarenta) dias
 para a adoção de medidas cabíveis junto à Procuradoria-Geral de
 Justiça, Tribunal de Justiça e Tribunal Regional Eleitoral.
+(Substituída a expressão “Tribunal de Contas dos Municípios” por “Tribunal de
 Contas do Estado” pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+§ 4º O Conselho de Contas dos Municípios encaminhará à Assembleia Legis-
+lativa Estadual, anualmente, até cento e vinte dias após o início do exercício
+financeiro, relatório de suas atividades, prestando informações sempre que
+lhe forem requisitadas.
+§ 4º O Tribunal de Contas dos Municípios encaminhará à Assembleia Legislativa
+Estadual, anualmente, até cento e vinte dias após o início do exercício financeiro,
+relatório de suas atividades, prestando informações, sempre que lhe forem
+requisitadas. (Redação dada pela Emenda Constitucional nº 09, de 16 de
+dezembro de 1992).
 § 4º O Tribunal de Contas do Estado encaminhará à Assembleia
 Legislativa Estadual, anualmente, até 120 (cento e vinte) dias
 após o início do exercício financeiro, relatório das atividades
@@ -1756,18 +2792,240 @@ desenvolvidas no âmbito das competências descritas no art.78
 desta Constituição, prestando informações, sempre que lhe forem
 requisitadas, sem prejuízo das demais obrigações previstas nesta
 Constituição ou em lei.
+§ 5º Qualquer pessoa física ou jurídica é parte legítima para, na forma da lei,
+denunciar irregularidades ou ilegalidades perante o Tribunal de Contas dos
+Municípios. (Inserido pela Emenda Constitucional nº 61, de 19 de dezembro
+de 2008).
 § 5º Qualquer pessoa física ou jurídica é parte legítima para, na
 forma da lei, denunciar irregularidades ou ilegalidades perante
 o Tribunal de Contas do Estado.
+(Substituída a expressão “Tribunal de Contas dos Municípios” por “Tribunal de
 Contas do Estado” pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+§ 6º A assessoria e a consultoria jurídica do Tribunal de Contas dos Municípios
+serão exercidas por sua Procuradoria Jurídica, observada as competências da
+Procuradoria Geral do Estado. (Inserido pela Emenda Constitucional nº 61, de
+19 de dezembro de 2008).
 § 6º A assessoria e a consultoria jurídica do Tribunal de Contas do
 Estado serão exercidas por sua Procuradoria Jurídica, observada
 as competências da Procuradoria-Geral do Estado.
+(Substituída a expressão “Tribunal de Contas dos Municípios” por “Tribunal de
 Contas do Estado” pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+§ 7º O Tribunal de Contas dos Municípios, no exercício de suas competências,
+observará os institutos da prescrição e da decadência, no prazo de cinco anos,
+nos termos da legislação em vigor. (Inserido pela Emenda Constitucional nº 76,
+de 21 de dezembro de 2012).
 § 7º O Tribunal de Contas do Estado, no exercício de suas compe-
 tências, observará os institutos da prescrição e da decadência, no
 prazo de 5 (cinco) anos, nos termos da legislação em vigor.
+(Substituída a expressão “Tribunal de Contas dos Municípios” por “Tribunal de
 Contas do Estado” pela Emenda constitucional n 92, de 16 de agosto de 2017).
+Art. 79. O Conselho de Contas dos Municípios, integrado por nove Conselheiros,
+tem sede na Capital do Estado, quadro próprio de pessoal e jurisdição em todo
+o território estadual.
+Art. 79. O Tribunal de Contas dos Municípios, integrado por sete Conselheiros,
+tem sede na Capital do Estado, quadro próprio de pessoal e jurisdição em todo
+o Território Estadual. (Redação dada pela Emenda Constitucional nº 12, de 29
+de março de 1994).
+Art. 79. (Revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+§ 1º Os Conselheiros do Conselho de Contas dos Municípios serão nomeados pelo
+Governador do Estado dentre brasileiros que satisfaçam os seguintes requisitos:
+§ 1º Os Conselheiros do Tribunal de Contas dos Municípios serão nomeados pelo
+Governador do Estado dentre brasileiros que satisfaçam os seguintes requisitos:
+(Redação dada pela Emenda Constitucional nº 09, de 16 de dezembro de 1992).
+§ 1º (Revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+
+---
+
+anos de exercício de função ou de efetiva atividade que exija os conhecimentos
+referidos no inciso III, deste artigo; e
+I – (revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+II – idoneidade moral e reputação ilibada;
+II – (revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+III – notórios conhecimentos jurídicos, contábeis, econômicos e financeiros e
+de administração pública.
+III – (revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+§ 2º Os Conselheiros do Tribunal de Contas dos Municípios serão escolhidos:
+§ 2º Os Conselheiros do Tribunal de Contas dos Municípios serão escolhidos:
+(Redação dada pela Emenda Constitucional nº 31, de 12 de agosto de 1997).
+§ 2º (Revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+I – três nonos pelo Governador do Estado, com aprovação da Assembléia Legis-
+lativa Estadual;
+I – dois sétimos pelo Governador do Estado, com aprovação da Assembleia
+Legislativa Estadual; (Redação dada pela Emenda Constitucional nº 12, de 29
+de março de 1994).
+I – quatro sétimos pela Assembleia Legislativa, para provimento da primeira, ter-
+ceira, quinta e sexta vaga ocorrida, ou que venha a ocorrer, na vigência da atual
+Constituição do Estado do Ceará; (Redação dada pela Emenda Constitucional nº
+31, de 12 de agosto de 1997).
+I – (revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+II – seis nonos pela Assembléia Legislativa Estadual.
+II – Cinco sétimos pela Assembleia Legislativa Estadual. (Redação dada pela
+Emenda Constitucional nº 12, de 29 de março de 1994).
+II – três sétimos pelo Governador do Estado, com aprovação da Assembleia
+Legislativa, para provimento da segunda, quarta e sétima vaga ocorrida, ou
+que venha a ocorrer, na vigência da atual Constituição do Estado do Ceará,
+observados os seguintes critérios: (Redação dada pela Emenda Constitucional
+nº 31, de 12 de agosto de 1997).
+II – (revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+a) na segunda e na sétima vaga a indicação deverá recair, respectivamente,
+em Procurador de Contas do Ministério Público Especial junto ao Tribunal de
+Contas dos Municípios e em auditor deste Tribunal, indicados em lista tríplice
+30
+Ver ADI nº 3276, no Anexo II.
+cimento; (Inserida pela Emenda Constitucional nº 31, de 12 de agosto de 1997).
+a) (revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+b) na quarta vaga, a indicação será de livre escolha do Governo do Estado;
+(Inserida pela Emenda Constitucional nº 31, de 12 de agosto de 1997).
+b) (revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+c) na falta de Procurador de Contas do Ministério Público Especial junto ao
+Tribunal de Contas do Municípios ou de auditor do tribunal, pela inexistência
+de cargo ou do provimento, o Governador do Estado indicará, também em livre
+escolha, para o provimento da vaga correspondente, quem atenda os requisitos
+estabelecidos no § 1º deste artigo. (Inserida pela Emenda Constitucional nº 31,
+de 12 de agosto de 1997).
+c) (Declarado inconstitucional, em controle concentrado, pelo
+Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 3276, no dia 2 de junho de 2005, publicada no
+dia 18 de fevereiro de 2008, no DJE e no DOU). 30
+c) (revogado).
+(Revogada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
+§ 3º Os Conselheiros do Conselho de Contas dos Municípios terão as mesmas
+garantias, prerrogativas, impedimentos, vencimentos e vantagens dos Desem-
+bargadores do Tribunal de Justiça e somente poderão aposentar-se com as van-
+tagens do cargo quando o tiverem exercido efetivamente por mais de cinco anos.
+§ 3º Os Conselheiros do Tribunal de Contas dos Municípios terão as mesmas
+garantias, prerrogativas, impedimentos, vencimentos e vantagens dos Desem-
+bargadores do Tribunal de Justiça e somente poderão aposentar-se com as van-
+tagens do cargo quando o tiverem exercido efetivamente por mais de cinco anos.
+(Redação dada pela Emenda Constitucional nº 09, de 16 de dezembro de 1992).
+§ 3º Os Conselheiros do Tribunal de Contas dos Municípios terão as mesmas
+garantias, prerrogativas, impedimentos, subsídios, direitos e vantagens
+dos Desembargadores do Tribunal de Justiça, aplicando-se-lhes, quanto à
+aposentadoria e pensão, as normas constantes do art. 40 da Constituição Federal.
+(Redação dada pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
+§ 3º (Revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+§ 4º O Auditor, quando em substituição a Conselheiro, terá as mesmas garantias
+e impedimentos do titular e, quando no exercício das demais atribuições da
+judicatura, as de juiz de entrância especial.
+§ 4º (Revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+§ 5º Os Auditores, em número de três, serão nomeados mediante concurso de
+provas e títulos, promovido pelo Conselho de Contas dos Municípios, sobre assun-
+tos jurídicos, contábeis, econômicos, financeiros e de administração pública.
+
+---
+
+§ 5º Os Auditores, em número de três, serão nomeados mediante concurso
+de provas e títulos, promovido pelo Tribunal de Contas dos Municípios, sobre
+assuntos jurídicos, contábeis, econômicos, financeiros e de administração
+pública. (Redação dada pela Emenda Constitucional nº 09, de 16 de dezembro
+de 1992).
+§ 5º Os Auditores, em número de três, serão nomeados pelo Governador do
+Estado, dentre cidadãos que preencham as qualificações exigidas para o cargo
+de Conselheiro, mediante concurso de provas e títulos, promovido pelo Tribunal
+de Contas, observada a ordem de classificação. (Redação dada pela Emenda
+Constitucional nº 61, de 19 de dezembro de 2008).
+§ 5º (Revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+§ 6º Haverá uma Procuradoria de Contas, junto ao Tribunal de Contas dos
+Municípios, integrada por um Procurador Geral e dois Procuradores, nomeados,
+pelo Governador do Estado, dentre brasileiros, bacharéis em Direito, mediante
+concurso público de provas e títulos. (Inserido pela Emenda Constitucional nº
+12, de 29 de março de 1994).
+§ 6º Haverá uma Procuradoria de Contas, junto ao Tribunal de Contas dos
+Municípios, integrada por Procuradores de Contas, organizados em carreira,
+nomeados pelo Governador do Estado, escolhidos mediante concurso público
+de provas e títulos, dentre brasileiros e bacharéis em Direito, com participação
+da Ordem dos Advogados do Brasil. (Redação dada pela Emenda Constitucional
+nº 61, de 19 de dezembro de 2008).
+§ 6º Haverá uma Procuradoria de Contas, em número igual de Auditores, junto
+ao Tribunal de Contas dos Municípios, integrada por Procuradores de Contas,
+organizados em carreira, nomeados pelo Governador do Estado, escolhidos
+mediante concurso público de provas e títulos, dentre brasileiros e bacharéis
+em Direito, com participação da Ordem dos Advogados do Brasil. (Redação dada
+pela Emenda Constitucional nº 77, de 03 de outubro de 2013).
+§ 6º (Revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+§ 7º O Procurador Geral, de que trata o parágrafo anterior, deverá ser nomeado,
+em comissão, dentre os Procuradores de Contas, pelo Presidente do Tribunal
+de Contas dos Municípios. (Inserido pela Emenda Constitucional nº 12, de 29
+de março de 1994).
+§ 7º A Procuradoria de Contas será dirigida pelo Procurador-Geral de Contas,
+nomeado, dentre os Procuradores de Contas, pelo Presidente do Tribunal de
+Contas dos Municípios (Redação dada pela Emenda Constitucional nº 61, de
+19 de dezembro de 2008).
+§ 7º (Revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+§ 8º Aos Procuradores de Contas junto ao Tribunal de Contas dos Municípios
+aplicam-se, subsidiariamente, no que couber, as disposições da Lei Orgânica
+do Ministério Público do Estado, pertinente a direitos, garantias, vedações,
+regime disciplinar e forma de investidura. A competência e atribuições do
+Procurador Geral e dos Procuradores serão definidas em Lei Ordinária, nos
+moldes preconizados pela Lei Federal nº 8.443, de 16 de julho de 1992. (Inserido
+pela Emenda Constitucional nº 12, de 29 de março de 1994).
+direitos, subsídios, garantias, vedações, regime disciplinar e forma de investidura;
+aplicando-se ainda, quanto à carreira, à competência e às atribuições, o disposto
+na Lei Orgânica do Tribunal de Contas dos Municípios e na Lei Federal nº 8.443,
+de 16 de julho de 1992. (Redação dada pela Emenda Constitucional nº 61, de
+19 de dezembro de 2008).
+§ 8º (Revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+§ 9º Os atuais cargos de Procurador junto ao Tribunal de Contas dos Municípios,
+de que trata o art. 16 das disposições transitórias desta Constituição, serão
+extintos quando vagarem, permanecendo seus atuais ocupantes a funcionar
+junto à Procuradoria de Contas, de que trata este artigo. (Inserido pela Emenda
+Constitucional nº 12, de 29 de março de 1994).
+§ 9º Os cargos de Procurador junto ao Tribunal de Contas dos Municípios, de
+que trata o art. 16 do Ato das Disposições Transitórias desta Constituição, serão
+extintos quando vagarem, permanecendo seus atuais ocupantes a funcionar
+junto à Procuradoria de Contas, de que trata este artigo. (Redação dada pela
+Emenda Constitucional nº 61, de 19 de dezembro de 2008).
+§ 9º (Revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+§ 10 . Os Conselheiros do Tribunal de Contas dos Municípios deverão enviar anual-
+mente declaração de seus bens, dos bens de seus cônjuges e dos descendentes
+até o primeiro grau ou por adoção, à Mesa Diretora da Assembleia Legislativa
+que adotará as providências cabíveis em caso de suspeita de enriquecimento
+ilícito ou outras irregularidades. (Inserido pela Emenda Constitucional nº 49,
+de 04 de abril de 2002).
+§ 10 . (Revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+§ 11 . As declarações de bens a que se refere o parágrafo anterior deverão ser
+publicadas no Diário Oficial do Estado e postas à disposição de qualquer interes-
+sado, mediante requerimento devidamente justificado. (Inserido pela Emenda
+Constitucional nº 49, de 4 de abril de 2002).
+§ 11 . As declarações de bens a que se refere o §10 deverão ser publicadas no
+Diário Oficial do Estado e postas à disposição de qualquer interessado, mediante
+requerimento devidamente justificado. (Redação dada pela Emenda Constitu-
+cional nº 61, de 19 de dezembro de 2008).
+§ 11 . (Revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+§ 12 . O Tribunal de Contas do Estado prestará suas contas, anualmente, à
+Assembleia Legislativa, dentro de sessenta dias após a abertura da Sessão
+Legislativa, bem como remeterá, trimestral e anualmente, relatório de suas
+atividades. (Inserido pela Emenda Constitucional nº 61, de 19 de dezembro
+de 2008).
+§ 12 . (Revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+
+---
+
+§ 13 . Lei disporá sobre um Fundo de Controle Externo Municipal do Estado
+do Ceará, vinculado e administrado pelo Tribunal de Contas dos Municípios.
+(Inserido pela Emenda Constitucional nº 61, de 19 de dezembro de 2008).
+§ 13 . (Revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
 Art. 80. Os Poderes Públicos Municipais manterão de forma inte-
 grada, sistema de controle interno com a finalidade de:
 I – avaliar o cumprimento das metas previstas no plano de Governo
@@ -1780,20 +3038,41 @@ III – exercer o controle das operações de crédito, avais e garantias,
 bem como dos direitos e deveres do Município;
 IV – apoiar o controle externo no exercício de sua missão
 institucional.
+§ 1º Os responsáveis pelo controle interno, para tal fim designados pelo Prefeito
+Municipal, ao tomarem conhecimento de qualquer irregularidade ou ilegali-
+dade, dela darão ciência ao Conselho de Contas dos Municípios, sob pena de
+responsabilidade solidária.
 § 1º Os responsáveis pelo controle interno, para tal fim designados
 pelo Prefeito Municipal, ao tomarem conhecimento de qualquer
 irregularidade ou ilegalidade, dela darão ciência ao Tribunal de
 Contas dos Municípios, sob pena de responsabilidade solidária.
+(Redação dada pela Emenda Constitucional nº 09, de 16 de dezembro de 1992).
+§ 2º Qualquer cidadão, partido político, associação ou sindicato é parte legítima
+para, na forma da lei, denunciar irregularidades ou ilegalidades perante o
+Conselho de Contas dos Municípios.
 § 2º Qualquer cidadão, partido político, associação ou sindicato
 é parte legítima para, na forma da lei, denunciar irregularidades
 ou ilegalidades perante o Tribunal de Contas dos Municípios.
+(Redação dada pela Emenda Constitucional nº 09, de 16 de dezembro de 1992).
+Art. 81. A lei disporá sobre a organização do Conselho de Contas dos Municípios,
+podendo dividi-lo em câmaras e criar delegações para auxiliá-lo no exercício
+de suas funções e na descentralização de seus serviços.
 Art. 81. A lei disporá sobre a organização do Tribunal de Contas dos Municípios,
 podendo dividi-lo em câmaras e criar delegações para auxiliá-lo no exercício
 de suas funções e na descentralização de seus serviços. (Redação dada pela
 Emenda Constitucional nº 9, de 16 de dezembro de 1992).
+31
 O § 2º foi renumerado como § 3º e, em seu lugar, foi inserido um novo § 2º pela Emenda Constitucional nº 65,
 de 16 de setembro de 2009.
 (Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+Parágrafo único . O Conselho de Contas dos Municípios terá quadro próprio de
+pessoal e autonomia administrativa e financeira.
+Parágrafo único . O Tribunal de Contas dos Municípios terá quadro próprio de
+pessoal e autonomia administrativa e financeira. (Redação dada pela Emenda
+Constitucional nº 09, de 16 de dezembro de 1992).
+Parágrafo único . (Revogado).
+(Revogado pela Emenda constitucional nº 92, de 16 de agosto de 2017).
+
 #### CAPÍTULO II
 
 DO PODER EXECUTIVO
@@ -1804,17 +3083,31 @@ Do Governador e do Vice-Governador do Estado
 Art. 82. O Governador do Estado, eleito para um mandato de qua-
 tro anos, por sufrágio direto e secreto, exerce a Chefia do Poder
 Executivo.
+§ 1º A eleição do Governador importará na do Vice-Governador do Estado, com
+ele conjuntamente registrado.
+§ 1º A eleição do Governador e do Vice-Governador realizar-se-á no primeiro
+domingo de outubro, em primeiro turno, e no último domingo de outubro, em
+segundo turno, se houver, do ano anterior ao do término do mandato de seus
+antecessores, e a posse ocorrerá em primeiro de janeiro do ano subsequente.
+
 § 1. º A eleição do Governador e do Vice-Governador do Estado do
 Ceará, para mandato de 4 (quatro) anos, realizar-se-á no primeiro
 domingo de outubro, em primeiro turno, e no último domingo
 de outubro, em segundo turno, se houver, do ano anterior ao do
 término do mandato de seus antecessores, e a posse ocorrerá em
 6 de janeiro do ano subsequente.
+(Redação dada pela Emenda Constitucional nº 117, de 09 de novembro
 de 2022)
+§ 2º São condições de elegibilidade para Governador e Vice-Governador:
 § 2º A eleição do Governador importará na do Vice-Governador do
 Estado, com ele conjuntamente registrado.
 
+§ 3° São condições de elegibilidade para Governador e
+Vice-Governador: 31
+
 I – a nacionalidade brasileira;
+
+---
 
 III – o alistamento eleitoral;
 IV – o domicílio eleitoral na circunscrição;
@@ -1823,18 +3116,35 @@ VI – a idade mínima de trinta anos.
 § 3º Será considerado eleito Governador o candidato que, registrado por partido
 político, obtiver a maioria absoluta de votos, não computados os em branco
 e os nulos.
+§ 4º Será considerado eleito Governador o candidato que, regis-
+trado por partido político, obtiver a maioria absoluta de votos,
+não computados os em branco e os nulos.
+
 § 4º Proceder-se-á a um segundo turno de votação até vinte dias após a procla-
 mação dos resultados, concorrendo apenas os dois candidatos mais votados,
 declarando-se eleito o que obtiver a maioria dos votos válidos.
+§ 5º No segundo turno, se houver, concorrerão os dois candidatos
+mais votados, declarando-se eleito o que obtiver a maioria dos
+votos válidos.
+
 § 5º Se, antes de efetivado o segundo turno, ocorrer morte, renúncia ou impe-
 dimento legal de candidato, convocar-se-á, dentre os remanescentes, o de
 maior votação.
+§ 6º Se, antes de efetivado o segundo turno, ocorrer morte, renúncia
+ou impedimento legal de candidato, convocar-se-á, dentre os
+remanescentes, o de maior votação.
+
 § 6º Havendo em segundo lugar mais de um candidato com equivalente votação,
 qualificar-se-á para a disputa em segundo turno o mais idoso.
 § 7º Havendo em segundo lugar mais de um candidato com equi-
 valente votação, qualificar-se-á para a disputa, em segundo turno,
 o mais idoso.
 
+Art. 83. O Governador e o Vice-Governador do Estado tomam posse em sessão
+da Assembleia Legislativa, prestando compromisso de manter e defender a
+Constituição Estadual, observar as leis, promover o bem geral do povo cea-
+rense, sustentar a autonomia, o respeito aos Municípios, ao Estado de Direito
+e à ordem federativa.
 Art. 83. O Governador e o Vice-Governador do Estado tomam posse
 em sessão da Assembleia Legislativa, prestando compromisso de
 manter e defender a Constituição Federal, a Constituição Estadual,
@@ -1845,42 +3155,71 @@ Democrático de Direito e à ordem federativa.
 § 1º Se, decorridos dez dias da data fixada para a posse, o Gover-
 nador ou o Vice-Governador, salvo comprovado motivo de força
 maior, não tiver assumido o cargo, será este declarado vago.
+§ 2º O Governador e o Vice-Governador deverão, no ato de posse e no término
+do mandato, fazer declaração pública de bens.
 § 2º O Governador e o Vice-Governador deverão, no ato da posse
 e anualmente, fazer declaração pública de seus bens, dos bens
 de seus cônjuges e dos descendentes até o primeiro grau ou por
 adoção, a ser publicada no Diário Oficial do Estado e posta à
 disposição de qualquer interessado, mediante requerimento
 devidamente justificado.
+(Redação dada pela Emenda Constitucional nº 49 de 04 de abril de 2002).
+Art. 84. O Vice-Governador substituirá, automaticamente, o Governador do
+Estado em suas ausências do território estadual e em caso de impedimentos,
+e suceder-lhe-á por vacância.
+Art. 84. O Vice-Governador substituirá o Governador do Estado em suas ausên-
+cias do território estadual superiores a sete dias, do País por qualquer tempo
+e em caso de impedimentos, suceder-lhe-á por vacância. (Redação dada pela
+Emenda Constitucional nº 20, de 23 de novembro de 1995).
 Art. 84. O Vice-Governador substituirá o Governador do Estado em
 suas ausências do território estadual superiores a sete dias, do País
 por qualquer tempo e em caso de impedimentos, sucedendo-lhe
 no caso de vacância.
 
+§ 1º O Vice-Governador, além das atribuições definidas nesta Constituição,
+colaborará com o Chefe do Poder Executivo em missões e atividades especiais
+que lhe sejam por este conferidas.
 § 1º O Vice-Governador, além das atribuições definidas nesta Cons-
 tituição, colaborará com o Chefe do Poder Executivo em missões e
 atividades especiais que lhe sejam por este conferidas.
 
+§ 2º O Vice-Governador perceberá representação equivalente a dois terços da
+remuneração atribuída ao Governador.
 § 2º O Vice-Governador perceberá representação equivalente a
 dois terços da remuneração atribuída ao Governador.
 
+§ 3º Aplica-se aos substitutos, chamados no art. 86 da Carta Estadual, o prazo
+estabelecido no caput deste Artigo. (Inserido pela Emenda Constitucional nº
+20, de 23 de novembro de 1995).
 § 3º Aplica-se aos substitutos, referidos no art. 86 desta Constituição,
 o prazo estabelecido no caput deste artigo.
 
+Art. 85. Aplicam-se ao Governador e ao Vice-Governador, desde a diplomação,
+as proibições e impedimentos estabelecidos para os Deputados Estaduais.
 Art. 85. Aplicam-se ao Governador, desde a diplomação, as proibi-
 ções e impedimentos estabelecidos para os Deputados Estaduais.
+
+---
 
 Art. 86. Em caso de impedimento do Governador e do Vice-Go-
 vernador, ou vacância conjunta dos respectivos cargos, serão
 sucessivamente chamados ao exercício da Governadoria, pela
 ordem, o Presidente da Assembleia Legislativa e o Presidente do
 Tribunal de Justiça.
+§ 1º O Governador e o Vice-Governador, para se ausentarem do Estado por
+prazo superior a quinze dias, ou do País, por qualquer tempo, devem obter
+licença prévia da Assembleia Legislativa, implicando a infração em crime de
+responsabilidade.
 § 1º O Governador e o Vice-Governador do Estado não poderão,
 sem licença da Assembleia Legislativa, ausentar-se do Estado e
 do País, por período superior a quinze dias, implicando a infração
 em crime de responsabilidade.
 
+§ 2º Não podem o Governador e o Vice-Governador, a partir da posse, sob pena
+de perda do cargo:
 § 2º Não pode o Governador, a partir da posse, sob pena de perda
 do cargo:
+(Redação dada pela Emenda Constitucional nº 01, de 09 de abril de 1991).
 a) aceitar mandato ou emprego da União, dos Estados ou dos
 Municípios;
 b) ser proprietário ou sócio de empresa concessionária de serviço
@@ -1895,13 +3234,16 @@ d) patrocinar causas contra a União, Estados ou Municípios ou
 favorecer interesses privados na administração pública em geral.
 § 3º Aplicam-se ao Vice-Governador as vedações contidas nas
 alíneas “a”, “b” e “d”, do parágrafo anterior.
+(Inserido pela Emenda Constitucional nº 01, de 09 de abril de 1991).
 Art. 87. Vagando os cargos de Governador e Vice-Governador do
 Estado, proceder-se-á eleição noventa dias depois de aberta a
 última vaga.
 § 1º Ocorrendo a vacância nos últimos dois anos do período governamental, a
 eleição para ambos os cargos será feita trinta dias depois da última vaga, pela
+32
 Havia uma Ação Direta de Inconstitucionalidade questionando o dispositivo (ADI nº 3728). No entanto, houve a perda do objeto
 questionado devido à EC nº 59/2006 ter revogado o dispositivo impugnado.
+33
 A EC nº 59/2006 assegura a possibilidade de aplicação do disposto no § 2º do art. 87 da Constituição do Estado do Ceará, acrescido
 pela EC nº 50/2002, aos que tenham preenchido os requisitos nele previstos entre a data da publicação da EC nº 50/2002 e a da
 publicação da EC nº 59/2006. No entanto, esse entendimento foi declarado inconstitucional pela ADI nº 5767. Data da sessão de
@@ -1917,6 +3259,22 @@ depois da última vaga, pela Assembleia Legislativa, na forma da
 lei, devendo, em qualquer dos casos, os eleitos completarem o
 período de seus antecessores.
 (Renumerado pela Emenda Constitucional nº 50, de 16 de dezembro de 2002).
+§ 2º Cessada a investidura no cargo de Governador do Estado, quem o tiver exer-
+cido em caráter permanente, fará jus, a título de representação, a um subsídio
+mensal e vitalício igual a remuneração do cargo do Desembargador Presidente
+do Tribunal de Justiça, percebida em espécie a qualquer título. (Inserido pela
+Emenda Constitucional nº 11, de 30 de março de 1994).
+§ 2º (Revogado).
+(Revogado pela Emenda Constitucional nº 20, de 04 de dezembro de 1995).
+§ 2º O Governador e o Vice-Governador eleitos farão jus, desde que tenham
+exercido o cargo de Governador do Estado em caráter permanente e por período
+igual ou superior a seis meses, após cessada a investidura no cargo, a título de
+representação, a um subsídio mensal e vitalício igual à remuneração que for
+atribuída ao cargo de Governador do Estado do Ceará. 32 (Inserido pela Emenda
+Constitucional nº 50, de 16 de dezembro de 2002) .
+§ 2º (Revogado). 33
+(Revogado pela Emenda Constitucional nº 59, de dezembro de 2006).
+
 #### Seção II
 
 Das Atribuições do Governador do Estado
@@ -1927,6 +3285,8 @@ dantes da Policia Militar e do Corpo de Bombeiros, a direção supe-
 rior da administração estadual;
 III – iniciar o processo legislativo, na forma e nos casos previstos
 nesta Constituição;
+
+---
 
 IV – sancionar, promulgar e fazer publicar as leis, bem como expedir
 decretos e regulamentos para a sua fiel execução;
@@ -1941,25 +3301,47 @@ reconhecer consentâneas;
 IX – exercer o comando supremo das organizações militares esta-
 duais Polícia Militar e Corpo de Bombeiros promover seus oficiais
 e nomeá-los para os cargos que lhes são privativos;
+X – nomear, após aprovação da Assembleia Legislativa, o Procurador-Geral da
+Justiça, o Defensor-Geral da Defensoria Pública e o Presidente e Diretores de
+estabelecimentos de crédito, cujo controle acionário pertença ao Estado; 34
 X – nomear, após aprovação da Assembleia Legislativa, o Defen-
 sor-Geral da Defensoria Pública;
 
+XI – nomear, após aprovação da Assembleia Legislativa, o Superintendente da
+Fundação de Teleducação do Estado do Ceará; 35
+XI – (revogado).
+
 XII – nomear os magistrados nos termos desta Constituição;
+XIII – nomear os membros do Tribunal de Contas e do Conselho de Contas dos
+Municípios, observadas, respectivamente, as disposições nos artigos 71, § 2º e
+79, § 2º desta Constituição;
+XIII – nomear os membros do Tribunal de Contas e do Tribunal de Contas dos
+Municípios, observadas, respectivamente, as disposições nos artigos 71, § 2º e
+79, § 2º desta Constituição; (Redação dada pela Emenda Constitucional nº 09,
+de 16 de dezembro de 1992).
 XIII – nomear os membros do Tribunal de Contas, observadas as
 disposições do art.71, § 2º desta Constituição;
+(Redação dada pela Emenda constitucional nº 92, de 16 de agosto de 2017).
 XIV – conferir condecorações e distinções honoríficas;
+34
 Arguida a inconstitucionalidade na ADI nº 143-4 a qual foi julgada extinta pelo STF. Ver ADI n° 143-4, no Anexo II.
+35
 Arguida a inconstitucionalidade na ADI nº 143-4, a qual foi julgada extinta pelo STF. Ver ADI n° 143-4 no Anexo II.
+36
 Ver Emenda Constitucional nº 88, de 21 de dezembro de 2016 (Novo Regime Fiscal), no Banco Eletrônico
 de Leis Temáticas (Belt) da Alece.
 XV – enviar à Assembleia Legislativa os projetos de lei do plano
 estratégico de longo prazo, do plano plurianual, de diretrizes orça-
 mentárias e dos orçamentos anuais previstos nesta Constituição;
+(Redação dada pela Emenda Constitucional nº 114, de 30 de março de 2022).
+XVI – prestar, anualmente, à Assembleia Legislativa, dentro de sessenta dias
+após abertura da sessão legislativa, contas referentes ao exercício anterior;
 XVI – prestar, anualmente, à Assembleia Legislativa, dentro de 60
 (sessenta) dias após abertura da sessão legislativa, contas referen-
 tes ao exercício anterior e, em caso de decretação de calamidade
 pública, este prazo será de até 120 (cento e vinte) dias após abertura
 da sessão legislativa.
+(Redação dada pela Emenda constitucional nº 108, de 30 de março de 2021)
 XVII – prover e extinguir os cargos públicos estaduais, na forma
 da lei;
 XVIII – celebrar ou autorizar convênios, na forma prevista em lei;
@@ -1972,6 +3354,7 @@ Parágrafo único . O Governador do Estado poderá delegar a atri-
 buição mencionada no inciso XVII, primeira parte, aos Secretários
 de Estado, que observarão os limites traçados nas respectivas
 delegações.
+(Inserido pela Emenda Constitucional nº 66, de 18 de novembro de 2009).
 
 #### Seção III
 
@@ -1980,8 +3363,14 @@ e do Vice-Governador do Estado
 Art. 89. São crimes de responsabilidade os atos do Governador
 do Estado que atentem contra a Constituição Estadual e, espe-
 cialmente, contra:
+I – o livre exercício dos Poderes Legislativo, Judiciário, do Ministério Público e
+dos Poderes dos Municípios;
+
+---
+
 I – o livre exercício dos Poderes Legislativo, Judiciário, do Ministério
 Público, da Defensoria Pública e dos Poderes dos Municípios.
+(Redação dada pela Emenda Constitucional nº 80, de 10 de abril de 2014).
 II – o exercício dos direitos políticos, individuais e sociais;
 III – a ordem pública no âmbito estadual;
 IV – a probidade administrativa;
@@ -1996,21 +3385,34 @@ de Justiça, após admitida a acusação por dois terços dos membros
 da Assembleia . 38
 (Declarado parcialmente inconstitucional na ADI nº 4775. Data da sessão
 de julgamento: 19 de maio de 2017).
+§ 1º O Governador será afastado de suas funções:
 § 1º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 4775, no dia 19 de maio de 2017, publicada no
 dia 10 de agosto de 2017, do DJE e no DOU) . 39
+I – nos crimes comuns, após recebida a acusação pelo Superior
+Tribunal de Justiça; e
 I – (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 4775, no dia 19 de maio de 2017, publicada no
 dia 10 de agosto de 2017, do DJE e no DOU).
+II – nos crimes de responsabilidade, após instaurado o processo pela Assembleia,
+acolhida a acusação por dois terços dos seus membros.
 II – (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 4775, no dia 19 de maio de 2017, publicada no
 dia 10 de agosto de 2017, do DJE e no DOU).
+37
 Arguida a inconstitucionalidade na ADI nº 143-4 a qual foi julgada extinta pelo STF. Ver ADI n° 143-4 no Anexo II.
+38
 Ver ADI nº 4775, no Anexo II.
+39
 Ver ADI nº 4775, no Anexo II.
+40
 Ver ADI nº 4775, no Anexo II.
 § 2º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 4775, no dia 19 de maio de 2017, publicada no
 dia 10 de agosto de 2017, do DJE e no DOU) . 40
 § 3º Será assegurada ao acusado ampla defesa, somente preva-
 lecendo a acusação se por ela se pronunciarem dois terços dos
@@ -2027,17 +3429,26 @@ Dos Secretários de Estado
 Art. 91. Os Secretários de Estado são auxiliares de confiança do
 Governador, responsáveis pelos atos que praticarem ou referen-
 darem no exercício do cargo.
+Art. 92. Os Secretários de Estado serão escolhidos dentre brasileiros maiores de
+vinte e um anos de idade e no exercício dos direitos políticos.
 Art. 92. Os Secretários de Estado serão escolhidos dentre brasileiros
 maiores de vinte e um anos de idade, no exercício dos direitos
 políticos, sendo vedada a nomeação daqueles considerados ine-
 legíveis em razão de atos ilícitos, nos termos da Lei Complementar
 de que trata o § 9º do art.14 da Constituição Federal.
+(Redação dada pela Emenda Constitucional nº 74, de 19 de abril de 2012).
+Parágrafo único . Ao assumirem, os Secretários são obrigados a fazer declaração
+pública de bens, inserida no termo de posse e ao término do exercício do cargo,
+sendo-lhes aplicáveis, enquanto permanecerem em suas funções, os impedi-
+mentos previstos nesta Constituição para os Deputados.
 Parágrafo único . Os Secretários de Estado deverão, no ato da posse e anualmente,
 fazer declaração pública de seus bens, dos bens de seus cônjuges e dos descen-
 dentes até o primeiro grau ou por adoção, a ser publicada no Diário Oficial do
 Estado e posta à disposição de qualquer interessado, mediante requerimento
 devidamente justificado. (Redação dada pela Emenda Constitucional nº 49, de
 04 de abril de 2002).
+
+---
 
 § 1º Os Secretários de Estado deverão, no ato da posse e anual-
 mente, fazer declaração pública de seus bens, dos bens de seus
@@ -2051,6 +3462,7 @@ artigo aplicam-se à nomeação para os cargos de Secretário Adjunto
 e de outras autoridades que detenham, nos termos da lei, atribui-
 ções equiparadas ao de Secretário de Estado ou ao de Secretário
 Adjunto.
+(Inserido pela Emenda Constitucional nº 74, de 19 de abril de 2012).
 Art. 93. Compete aos Secretários de Estado, além das atribuições
 que lhes sejam conferidas por lei:
 I – orientar, coordenar, dirigir e fazer executar os serviços correla-
@@ -2070,6 +3482,7 @@ VII – praticar atos decorrentes de delegação do Governador.
 Parágrafo único . Nos crimes comuns, os Secretários de Estado serão
 julgados pelo Tribunal de Justiça e nos de responsabilidade, pela
 Assembleia Legislativa.
+41
 Arguida a inconstitucionalidade na ADI nº 136-1 e extinto o processo sem resolução de mérito. Ver ADI n° 136-1 no Anexo II.
 
 #### CAPÍTULO III
@@ -2081,21 +3494,35 @@ PODER JUDICIÁRIO
 Disposições Gerais
 Art. 94. São órgãos do Poder Judiciário Estadual:
 I – Tribunal de Justiça;
+II – Conselho de Justiça Estadual; 41
+II – (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 2 de julho de 2009).
+III – Tribunais de Alçada;
+III – (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 IV – Tribunais do Júri;
 V – Juízes de Direito;
 VI – Juízes Substitutos;
 VII – Auditoria Militar;
 VIII – Juizados Especiais;
+IX – Juizados de Pequenas Causas;
+IX – (revogado);
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 X – Juizados de Paz; e
 XI – Outros órgãos criados por lei.
+Art. 95. Os órgãos judiciários são independentes em seus desempenhos, obser-
+vado o sistema de relações entre os poderes que norteiam a ordem política.
 Art. 95. Os órgãos judiciários são independentes em seus desem-
 penhos, ressalvada a estrutura recursal e observado o sistema
 de relações entre os poderes estabelecidos na Constituição da
 República e nesta Constituição.
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 Art. 96. A Lei de Organização Judiciária, de iniciativa do Tribunal
 de Justiça, disporá sobre a estrutura e funcionamento do Poder
 Judiciário do Estado e a carreira da magistratura, adotados os
 seguintes princípios:
+
+---
 
 todas as suas fases, obedecendo-se, nas nomeações, à ordem de classificação;
 I – ingresso na carreira, no cargo de juiz substituto, mediante con-
@@ -2103,14 +3530,19 @@ curso público de provas e títulos, com participação da Ordem dos
 Advogados do Brasil em todas as suas fases, exigindo-se do bacharel
 em direito, ao se inscrever no concurso, três anos de atividade
 jurídica, obedecendo-se, nas nomeações, à ordem de classificação;
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+II – promoção de entrância por entrância, alternadamente, por antiguidade e
+merecimento, atendidas as seguintes normas:
 II – promoção de entrância para entrância, alternadamente, por
 antiguidade e merecimento, atendidas as seguintes normas ou
 condições:
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 a ) obrigatoriedade da promoção do juiz que figurar por três vezes consecutivas
 ou em cinco listas tríplices alternadas de merecimento;
 a) obrigatoriedade da promoção do juiz que figurar por três
 vezes consecutivas, ou em cinco alternadas, em listas tríplices
 de merecimento;
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 b) preexistência de dois anos de exercício na respectiva entrância
 e integração do juiz na primeira quinta parte da lista de antigui-
 dade desta, salvo inexistindo quem, dentre os que disponham
@@ -2123,16 +3555,30 @@ c) a aferição do merecimento conforme o desempenho e pelos
 critérios de produtividade e presteza no exercício da jurisdição,
 bem como pela frequência e aproveitamento em cursos oficiais
 ou reconhecidos de aperfeiçoamento.
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 d) a lista de merecimento será formada pelos três juízes mais
 votados, cabendo ao presidente do Tribunal de Justiça a escolha
 do provimento no prazo de três dias;
 e) havendo mais de uma vaga a ser preenchida pelo critério de
 merecimento, a lista será formada por tantos juízes quantas
 vagas houver, mais dois;
+f) na apuração da antiguidade, o Tribunal de Justiça poderá recusar, motivada-
+mente, o juiz mais antigo pelo voto de dois terços de seus membros, repetindo-se
+42
+Arguida a inconstitucionalidade na ADI nº 251-1, a qual não foi reconhecida em se tratando desse dispositivo.
+Ver ADI n° 251-1 no Anexo II.
+43
+Suspensa por medida cautelar a expressão “ou à determinação de abertura de tal procedimento, contra o juiz recusado”, deferida
+pelo STF na ADI nº 251-1. Posteriormente, declarada a inconstitucionalidade na ADI nº 251-1. Data da sessão de julgamento
+27/08/2014. Ver ADI n° 251-1 no Anexo II.
+a votação até fixar-se a indicação, condicionada a recusa à existência de pro-
+cedimento administrativo que a recomende, ou à determinação de abertura
+de tal procedimento, contra o juiz recusado ; 43
 f) na apuração da antiguidade, o tribunal somente poderá recu-
 sar o juiz mais antigo pelo voto fundamentado de dois terços de
 seus membros, conforme procedimento próprio, assegurada a
 ampla defesa e se repetindo a votação até fixar-se a indicação;
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 g) a aplicação alternada dos critérios de promoção atenderá
 a ordem numérica dos atos de vacância dos cargos a serem
 preenchidos; e
@@ -2140,66 +3586,119 @@ h) não será promovido o juiz que, injustificadamente, retiver
 autos em seu poder além do prazo legal, não podendo devol-
 vê-los ao cartório sem o devido despacho ou decisão;
 (Inserida pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+III – precedência de remoção ao provimento inicial e à promoção, observado
+o disposto no inciso anterior, no que couber, ressalvado o direito de opção de
+juízes da mesma comarca;
 III – precedência de remoção ao provimento inicial e à promoção,
 ressalvado o direito de opção de juízes da mesma comarca;
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 IV – publicação de edital de remoção ou promoção no prazo de
 dez dias, contado da data de vacância do cargo a ser preenchido;
+V – o acesso aos tribunais de segundo grau far-se-á por antiguidade e mere-
+cimento, alternadamente, apurados na última entrância ou nos Tribunais de
+Alçada, quando se tratar de promoção para o Tribunal de Justiça, de acordo
+com o inciso II e a classe de origem;
 V – o acesso aos tribunais de segundo grau far-se-á por antigui-
 dade e merecimento, alternadamente, apurados na última ou
 única entrância;
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+VI – frequência e aproveitamento em curso de preparação da Escola de Magis-
+tratura, como requisito para ingresso na carreira;
+VI – (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+VII – os vencimentos dos magistrados serão fixados com diferença não superior
+a dez por cento de uma para outra das categorias de carreira, não podendo, a
+título nenhum, exceder os dos Ministros do Supremo Tribunal Federal;
 VII – o subsídio dos magistrados será fixado com diferença não
 superior a dez por cento ou inferior a cinco por cento de uma para
 outra entrância a partir dos subsídios dos membros do Tribunal
+
+---
 
 de Justiça, estes não excedentes a noventa e cinco por cento do
 subsídio mensal dos Ministros dos Tribunais Superiores, observado,
 em qualquer caso, o disposto nos arts. 37, inciso XI e 39, §4º, da
 Constituição Federal;
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+VIII – a aposentadoria com proventos integrais e compulsória por invalidez ou
+aos setenta anos de idade, ou facultativa aos trinta anos de serviços, após cinco
+anos de exercício efetivo na judicatura;
 VIII – a aposentadoria dos magistrados e a pensão dos seus dependen-
 tes observarão o disposto no art. 40 da Constituição Federal;
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 IX – o juiz titular residirá na respectiva comarca;
+X – o ato de remoção, disponibilidade e aposentadoria do magistrado, por
+interesse público, fundar-se-á em decisão por voto de dois terços do Tribunal
+de Justiça, assegurada ampla defesa;
 X – o ato de remoção, disponibilidade e aposentadoria do magis-
 trado, por interesse público, fundar-se-á em decisão por voto da
 maioria absoluta do Tribunal de Justiça ou do Conselho Nacional
 de Justiça, assegurada a ampla defesa;
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+XI – todos os julgamentos dos órgãos do Poder Judiciário serão públicos, e
+fundamentadas todas as decisões, sob pena de nulidade, podendo a lei, se o
+interesse público exigir, limitar a presença, em determinados atos, às próprias
+partes e a seus advogados, ou somente a estes;
 XI – todos os julgamentos dos órgãos judiciários serão públicos e
 fundamentadas as suas decisões, sob pena de nulidade, podendo
 a lei limitar a presença, em determinados atos, às próprias par-
 tes e a seus advogados, ou somente a estes, nos casos em que a
 preservação do direito à intimidade do interessado no sigilo não
 prejudique o interesse público à informação;
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+XII – as decisões administrativas dos órgãos judiciários serão motivadas, inclu-
+sive as relativas a avaliações de estágio probatório, promoções e remoções de
+juízes, sendo as medidas disciplinares tomadas pelo voto da maioria absoluta
+de seus membros;
 XII – as decisões administrativas dos tribunais serão motivadas e
 em sessão pública, sendo as disciplinares tomadas pelo voto da
 maioria absoluta de seus membros;
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+XIII – distribuição de varas cíveis e criminais por distritos e bairros de elevada
+densidade populacional.
 XIII – distribuição de varas cíveis e criminais proporcionalmente à
 efetiva demanda judicial e à densidade populacional;
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 XIV – alcançado, pelo Tribunal de Justiça do Ceará, o número de
 vinte e cinco integrantes, poderá o mesmo constituir, para os fins
 do art. 93, inciso XI, da Constituição Federal, seu Órgão Especial;
 XV – a remoção a pedido ou a permuta de magistrados de comarca
 de igual entrância atenderá, no que couber, ao disposto nas alíneas
 “a”, “b”, “c” e “e” do inciso II, do art. 96;
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 XVI – a atividade jurisdicional será ininterrupta, vedadas férias
 coletivas nos juízos e nos tribunais de segundo grau, funcionando,
 nos dias em que não houver expediente normal, juízes em plantão
 permanente;
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 XVII – o número de juízes na unidade jurisdicional será proporcional
 à efetiva demanda judicial e à respectiva população;
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 XVIII – os servidores receberão delegação para a prática de atos de
 administração e atos de mero expediente, sem caráter decisório;
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 XIX – a distribuição de processos será imediata, em todos os graus
 de jurisdição;
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 XX – previsão de cursos oficiais de preparação, aperfeiçoamento
 e promoção de magistrados, constituindo etapa obrigatória do
 processo de vitaliciamento a participação em curso oficial ou
 reconhecido por escola nacional de formação e aperfeiçoamento
 de magistrados;
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 XXI – será assegurada a permanência ininterrupta de juízes nas
 comarcas de mais de uma vara, fora do funcionamento externo
 do foro, devendo o Tribunal organizar e manter atualizado o sis-
 tema rotativo de plantão aos sábados, domingos e feriados para
 conhecimento, com a devida presteza, de habeas corpus, mandado
 de segurança e outras medidas judiciais de urgência.
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+§ 1º Os meses de janeiro e julho serão reservados às férias forenses, asseguran-
+do-se o permanente funcionamento pelo menos de um órgão em cada comarca
+para atendimento de todo e qualquer procedimento de caráter urgente, ficando
+suspensas as audiências e sessões de julgamento.
+§ 1º (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 § 2º Nas comarcas com mais de um órgão judicante, é vedada a
 utilização simultânea de férias no mesmo período.
 § 3º Os membros do Poder Judiciário Estadual deverão enviar anual-
@@ -2207,26 +3706,52 @@ mente declaração de seus bens, dos bens de seus cônjuges e dos
 descendentes até o primeiro grau ou por adoção, ao Conselho de
 Magistratura e à Corregedoria do Tribunal de Justiça, que adotarão
 
+---
+
 as providências cabíveis em caso de suspeita de enriquecimento
 ilícito ou outras irregularidades. 44
+(Inserido pela Emenda Constitucional nº 49, de 04 de abril de 2002).
 § 4º As declarações de bens a que se refere o parágrafo anterior
 deverão ser publicadas no Diário Oficial do Estado e postas à
 disposição de qualquer interessado, mediante requerimento
 devidamente justificado.
+(Inserido pela Emenda Constitucional nº 49, de 04 de abril de 2002).
+Art. 97. Um quinto do Tribunal de Justiça e dos Tribunais de Alçada será com-
+posto de membros do Ministério Público com mais de dez anos de carreira, e
+de advogados de notório saber jurídico e reputação ilibada, com mais de dez
+anos de efetiva atividade profissional, indicados em lista sêxtupla pelos órgãos
+de representação das respectivas classes.
+Art. 97. (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+Parágrafo único . Recebida a indicação, o Tribunal de Justiça formará lista
+tríplice, enviando-a ao Governador do Estado, que nos vinte dias subsequentes
+escolherá e nomeará um de seus integrantes.
+Parágrafo único . (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 Art. 98. Os juízes gozam das seguintes garantias:
 I – vitaliciedade, que, no primeiro grau, só será adquirida após dois
 anos de exercício, dependendo a perda do cargo, nesse período, de
 deliberação do Tribunal de Justiça e, nos demais casos, de sentença
 judicial transitada em julgado, assegurado em qualquer hipótese
 o direito a ampla defesa;
+II – inamovibilidade, salvo por motivo de interesse público, na forma do art.
+102, XI;
 II – inamovibilidade, salvo por motivo de interesse público, na
 forma do art. 96, inciso X, desta Constituição; 45
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+III – irredutibilidade de vencimentos, sujeitando-se aos impostos gerais, incluindo
+o de Renda, e aos impostos extraordinários, bem como aos descontos fixados
+em lei, observada a isonomia com os membros dos demais Poderes.
 III – irredutibilidade do subsídio, ressalvado o disposto nos arts.
 37, incisos X e XI, 39, § 4º, 150, inciso II, 153, inciso III e § 2º, inciso
 I, da Constituição Federal.
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 Parágrafo único . Aos juízes é vedado:
+44
 Ver Lei n° 12.342, de 28 de julho de 1994, no Banco Eletrônico de Leis Temáticas (Belt) da Alece.
+45
 Ver art. 96, II.
+46
 Ver Emenda Constitucional nº 88, de 21 de dezembro de 2016 (Novo Regime Fiscal),
 no Banco Eletrônico de Leis Temáticas (Belt) da Alece.
 I – exercer, ainda que em disponibilidade, outro cargo, emprego
@@ -2237,15 +3762,25 @@ III – participar de atividades político-partidárias.
 IV – receber, a qualquer título ou pretexto, auxílios ou contribuições
 de pessoas físicas, entidades públicas ou privadas, ressalvadas as
 exceções previstas em lei; e
+(Inserido dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 V – exercer a advocacia no juízo ou tribunal do qual se afastou,
 antes de decorridos três anos do afastamento do cargo por apo-
 sentadoria ou exoneração.
+(Inserido dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 Art. 99. Ao Poder Judiciário é assegurada autonomia administrativa
 e financeira.
+§ 1º O Tribunal de Justiça elaborará proposta orçamentária relativa ao Poder
+Judiciário, dentro dos limites estipulados na Lei de Diretrizes Orçamentárias,
+depois de ouvidos os tribunais de segunda instância, os quais apresentarão suas
+propostas parciais e, sendo aprovada pelo plenário do Tribunal de Justiça, será
+encaminhada pelo Presidente à Assembleia Legislativa.
 § 1º O Tribunal de Justiça elaborará sua proposta orçamentária
 anual nos limites estipulados conjuntamente com os demais
 Poderes na Lei de Diretrizes Orçamentárias, a qual será encami-
 nhada à Assembleia Legislativa. 46
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+§ 2º Os recursos correspondentes às dotações orçamentárias, destinadas ao Poder
+Judiciário, serão entregues até o dia vinte de cada mês.
 § 2º Não encaminhada a proposta no prazo previsto na Lei de
 Diretrizes Orçamentárias, o Poder Executivo deve considerar,
 para fim de consolidação da proposta orçamentária, os valores
@@ -2253,13 +3788,53 @@ aprovados na lei em execução, ajustados de acordo com os limi-
 tes estipulados na forma do § 1º deste artigo, aplicáveis ainda, à
 proposta orçamentária do Tribunal, e à sua execução, o disposto
 nos §§ 4º e 5º do art. 99 da Constituição Federal.
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+§ 3º Os pagamentos devidos pela Fazenda Estadual ou Municipal, em virtude
+de condenação judicial, serão feitos exclusivamente na ordem cronológica
+da apresentação dos precatórios e da conta dos respectivos créditos, proibida
+
+---
+
+§ 3º (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+§ 4º É obrigatória a inclusão, no orçamento das entidades de direito público, de
+verba necessária aos pagamentos dos seus débitos constantes de precatórios
+judiciais apresentados até primeiro de junho, data em que seus valores serão
+atualizados, fazendo-se o pagamento até o final do exercício seguinte.
+§ 4º (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+§ 5º As dotações orçamentárias e os créditos abertos serão consignados ao Poder
+Judiciário, recolhendo-se as importâncias respectivas à repartição competente,
+cabendo ao Presidente do Tribunal de Justiça determinar o pagamento, segundo
+as possibilidades do depósito, e autorizar, a requerimento do credor e exclusi-
+vamente para o caso de preterição do seu direito de precedência, o sequestro
+da quantia necessária à satisfação do débito.
+§ 5º (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 § 6º Os recursos correspondentes às dotações orçamentárias
 destinadas ao Poder Judiciário serão entregues até o dia vinte
 de cada mês.
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+Art. 100. O habeas-corpus, o mandado de segurança, o habeas-data, o mandado
+de injunção e a ação popular serão distribuídos no momento de seu regresso e
+remetidos, imediatamente, ao magistrado a que couberem.
 Art. 100. Os processos de mandados de segurança, habeas corpus,
 habeas data, mandado de injunção e ação popular e respectivos
 recursos serão inteiramente gratuitos, ressalvadas as hipóteses
 de sucumbência, nos termos da legislação federal.
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+Parágrafo único . Todos esses processos, incidentes e recursos serão inteira-
+mente gratuitos, ressalvadas as hipóteses de sucumbência, nos termos da
+legislação federal.
+Parágrafo único . (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+Art. 101. Será assegurada a permanência ininterrupta de juízes nas comarcas
+em que haja mais de uma vara, fora do horário de funcionamento externo do
+foro, devendo o Tribunal organizar e manter atualizado o sistema rotativo de
+plantão aos sábados, domingos e feriados para conhecimento, com a exigida
+presteza, de habeas-corpus e mandado de segurança.
+Art. 101. (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 Art. 101-A. À exceção dos créditos de natureza alimentícia, os
 pagamentos devidos pela Fazenda Estadual ou Municipal, em
 virtude de sentença judiciária, far-se-ão exclusivamente na ordem
@@ -2267,44 +3842,56 @@ cronológica de apresentação dos precatórios e à conta dos créditos
 respectivos, proibida a designação de casos ou de pessoas nas
 dotações orçamentárias e nos créditos adicionais abertos para
 este fim.
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 § 1º É obrigatória a inclusão, no orçamento das entidades de
 direito público, de verba necessária ao pagamento de seus débi-
 tos oriundos de sentenças transitadas em julgado, constantes de
 precatórios judiciários, apresentados até 1º de julho, fazendo-se
 o pagamento até o final do exercício seguinte, quando terão seus
 valores atualizados monetariamente.
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 § 2º Os débitos de natureza alimentícia compreendem aqueles
 decorrentes de salários, vencimentos, subsídios, proventos, pen-
 sões e suas complementações, benefícios previdenciários e inde-
 nizações por morte ou invalidez, fundadas na responsabilidade
 civil, em virtude de sentença transitada em julgado.
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 § 3º As dotações orçamentárias e os créditos abertos serão consig-
 nados diretamente ao Poder Judiciário, cabendo ao Presidente do
 Tribunal de Justiça determinar o pagamento segundo as possibili-
 dades do depósito, e autorizar, a requerimento do credor, e exclusi-
 vamente para o caso de preterimento de seu direito de precedência,
 o sequestro da quantia necessária à satisfação do débito.
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 § 4º O disposto no caput deste artigo, relativamente à expedição
 de precatórios, não se aplica aos pagamentos de obrigações defi-
 nidas em lei como de pequeno valor, que a Fazenda Estadual ou
 Municipal deva fazer em virtude de sentença judicial transitada
 em julgado.
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 § 5º São vedados a expedição de precatório complementar ou
 suplementar de valor pago, bem como fracionamento, repartição
 ou quebra do valor da execução, a fim de que seu pagamento não
 se faça, em parte, na forma estabelecida no § 4º deste artigo e, em
 parte, mediante expedição de precatório.
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 § 6º A lei poderá fixar valores distintos para o fim previsto no § 4º deste
 artigo, segundo as diferentes capacidades dos entes de direito público.
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 § 7º O Presidente do Tribunal competente que, por ato comissivo
 ou omissivo, retardar ou tentar frustrar a liquidação regular de
 precatório incorrerá em crime de responsabilidade.
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 § 8º Lei, de iniciativa do Chefe do Poder Executivo, poderá dispor
 sobre a cessão de créditos representados por precatórios, vedada
 a previsão do poder liberatório do pagamento de tributos, salvo
 nas hipóteses previstas na Constituição Federal.
 
+---
+
+Art. 102. Compete privativamente aos Tribunais:
 Art. 102. Compete privativamente ao Tribunal de Justiça:
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 I – eleger seus órgãos diretivos;
 II – elaborar seus regimentos internos, com observância das nor-
 mas de processo e das garantias processuais das partes, dispondo
@@ -2312,36 +3899,93 @@ sobre a competência e o funcionamento dos respectivos órgãos
 jurisdicionais e administrativos;
 III – organizar suas secretarias e serviços auxiliares e dos órgãos
 administrativos do primeiro grau;
+IV – prover, por concurso público de provas, ou de provas e títulos, vedado
+concurso exclusivamente interno, os cargos necessários à administração da
+justiça, exceto os de confiança, assim definidos em lei, que poderão ser providos
+sem concurso;
 IV – prover, por concurso público de provas e títulos, os cargos de
 juiz da respectiva jurisdição, assim como os demais necessários
 à administração da justiça, dependentes, ou não, de concurso
 público, vedado processo de seleção interna; e
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 V – conceder licença, férias e outros afastamentos a seus membros
 e aos servidores que lhes forem imediatamente subordinados.
+Art. 103. Os proventos de aposentadoria serão reajustados na mesma proporção
+dos aumentos de vencimentos concedidos, a qualquer título, aos magistrados
+em atividade.
+Art. 103. (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 Art. 104. Em cada município haverá sede de comarca, dependendo
 a sua implantação do cumprimento dos requisitos estabelecidos
 na Lei da Organização e Divisão Judiciária, mediante apuração
 pelo Tribunal de Justiça.
+Parágrafo único . No prazo máximo de 2 anos, contados da vigência da presente
+Emenda Constitucional, o Tribunal de Justiça implementará as ações necessárias
+à instalação de comarcas autônomas e independentes em todos os municípios
+47
+Ver ADI n° 251-1 no Anexo II.
+48
+Arguida a inconstitucionalidade na ADI nº 136-1, na qual foi extinto o processo sem resolução de mérito. Ver ADI n° 136-1 no Anexo
+I. Posteriormente, na ADI nº 251-1, foram apresentados os fundamentos da inconstitucionalidade, caso esse dispositivo continuas-
+se a viger. Data da sessão de julgamento 27/08/2014.
+49
+Em 1990, ocorreu a suspensão, em medida cautelar, da expressão: “vinte e um”, deferida pelo STF na ADI nº 251-1, posteriormente, em
+2014, foi declarada a inconstitucionalidade desse trecho. Data da sessão de julgamento 27/08/2014. Ver ADI n° 251-1 no Anexo II.
+Parágrafo único . (Revogado).
+(Revogado através da Emenda Constitucional nº 45, de 28 de dezembro
+de 2000).
 Art. 105. As custas dos serviços forenses, inclusive diligências de
 oficial de justiça, serão elaboradas pelo Tribunal de Justiça com
 a aprovação do Poder Legislativo.
+§ 1º Nas comarcas do Interior funcionam, conjugadas, as atividades cartorárias
+de registro civil e de imóveis, com zoneamento definido em lei de divisão e
+organização judiciária.
+§ 1º (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE). 47
 § 2º As custas de transferência de imóveis não podem exceder o
 valor do imposto inter vivos, arrecadado pelo Município.
+§ 3º Os emolumentos devidos às serventias extrajudiciais serão corrigidos
+automaticamente nos mesmos índices, sempre que ocorrer a revisão geral da
+remuneração dos servidores estaduais.
+§ 3º Os emolumentos devidos às serventias extrajudiciais serão corrigidos
+nos mesmos índices, sempre que ocorrer a revisão geral da remuneração dos
+servidores estaduais, mediante Lei. (Redação dada pela Emenda Constitucional
+nº 63, de 02 de julho de 2009).
+§ 3º (Revogado).
+
+Art. 106. O Conselho de Justiça Estadual é órgão de supervisão administrativa,
+orçamentária e de acompanhamento da regularidade do funcionamento dos
+órgãos da Justiça e do exercício funcional dos magistrados, com a composição
+e as atribuições estabelecidas em lei complementar.
+Art. 106. (Revogado). 48
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+
 #### Seção II
 
 Do Tribunal de Justiça
+Art. 107. O Tribunal de Justiça, com sede na Capital e jurisdição em todo o
+território do Estado, compõe-se de vinte e um desembargadores, nomeados
+dentre os juízes de última entrância, observado o quinto constitucional. 49
+
+---
+
 Art. 107. O Tribunal de Justiça, com sede na Capital e jurisdição
 em todo o território do Estado, compõe-se de desembargadores,
 nomeados dentre os juízes de última entrância, observado o quinto
 constitucional. 50
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 § 1º Um quinto do Tribunal de Justiça será composto de membros
 do Ministério Público com mais de dez anos de carreira, e de advo-
 gados de notório saber jurídico e de reputação ilibada, com mais
 de dez anos de efetiva atividade profissional, indicados em lista
 sêxtupla pelos órgãos de representação das respectivas classes.
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 § 2º Recebidas as indicações, o Tribunal formará lista tríplice,
 enviando-a ao Poder Executivo que, nos vinte dias subsequentes,
 nomeará um dos seus integrantes.
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 Art. 108. Compete ao Tribunal de Justiça:
 I – propor à Assembleia Legislativa, observado o disposto no art.
 169 da Constituição Federal:
@@ -2349,18 +3993,26 @@ a) a alteração do número de seus membros;
 b) a criação, extinção ou alteração do número de membros
 dos Tribunais inferiores, que serão previamente ouvidos, nos
 últimos casos;
+c) a criação e a extinção de cargos e a fixação de vencimentos de magistrados do
+Estado, dos juízes de paz, dos serviços auxiliares e dos juízes que lhe forem vinculados;
 c) a criação e a extinção de cargos e a fixação de subsídios de
 magistrados do Estado;
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+d) a alteração, mediante lei, da organização e da divisão judiciária.
 d) dispor sobre a regulamentação e remuneração dos juízes de
 paz e dos serviços auxiliares;
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 e) a alteração, mediante lei, da organização e da divisão
 judiciária;
 (Inserida pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 II – prover, na forma desta Constituição, os cargos da magistratura
 estadual de carreira, de primeiro e segundo graus;
 III – aposentar os magistrados e os servidores da Justiça;
+50
 Ver Lei nº 12.342, de 28 de julho de 1994 no Banco Eletrônico de Leis Temáticas (Belt) da Alece.
+51
 Ver ADI 6.514/CE no Anexo II.
+52
 Em 2004, foi arguida a inconstitucionalidade da expressão “e de quaisquer outras autoridades a estas equiparadas, na forma da
 IV – conceder licença, férias e outros afastamentos aos juízes que
 lhe forem vinculados;
@@ -2369,14 +4021,56 @@ Estadual ao Poder Executivo;
 VI – solicitar, quando cabível, a intervenção federal no Estado, nas
 hipóteses de sua competência;
 VII – processar e julgar, originariamente:
+a) nos crimes comuns e de responsabilidade, o Vice-Governador, Deputados
+Estaduais, Juízes Estaduais, membros do Ministério Público e Prefeitos, res-
+salvada a competência da Justiça Eleitoral;
+a) nos crimes comuns e de responsabilidade, o Vice-Governador, os Deputados
+Estaduais, os Juízes Estaduais, os membros do Ministério Público, os Prefeitos,
+o Comandante Geral da Polícia Militar e o Comandante Geral do Corpo de
+Bombeiros Militar, ressalvada a competência da Justiça Eleitoral; (Redação
+dada pela Emenda Constitucional nº 63, de 2 de julho de 2009).
 a) Nos crimes comuns e de responsabilidade, o Vice-Governa-
 dor, os Deputados Estaduais, os Juízes Estaduais, os membros
 do Ministério Público, os membros da Defensoria Pública 51 , os
 Prefeitos, o Comandante Geral da Polícia Militar e o Comandante
 Geral do Corpo de Bombeiros Militar, ressalvada a competência
 da Justiça Eleitoral;
+(Redação dada pela Emenda Constitucional nº 80, de 10 de abril de 2014).
 ( Trecho declarado inconstitucional na ADI 6.514/CE em 29 de março de 2021,
 publicado no DJE e no DOU em 19 de maio de 2021).
+b) os mandados de segurança e os “habeas data” contra atos do Governador
+do Estado, da Mesa e da Presidência da Assembleia Legislativa, do próprio
+Tribunal ou de algum de seus órgãos, do Tribunal de Alçada e de seus órgãos,
+dos Secretários de Estado, do Presidente do Tribunal de Contas do Estado, do
+Presidente do Tribunal de Contas dos Municípios, do Procurador Geral de Justiça,
+do Procurador-Geral do Estado, do Chefe da Casa Militar, do Chefe do Gabinete
+do Governador, do Comandante-Geral da Polícia Militar, do Comandante Geral
+do Corpo de Bombeiros Militar e de quaisquer outras autoridades a estes equi-
+paradas, na forma da Lei.
+b) os mandados de segurança e os habeas data contra atos do Governador do
+Estado, da Mesa e Presidência da Assembleia Legislativa, do próprio Tribunal
+ou de algum de seus órgãos, do Tribunal de Alçada ou de algum de seus órgãos,
+dos Secretários de Estado, do Tribunal de Contas do Estado ou de algum de seus
+órgãos, do Tribunal de Contas dos Municípios ou de algum de seus órgãos, do
+Procurador Geral de Justiça, do Procurador Geral do Estado, do Chefe da Casa
+Militar, do Chefe do Gabinete do Governador, do Ouvidor Geral do Estado, do
+Defensor Público Geral do Estado, e de quaisquer outras autoridades a estas
+equiparadas, na forma da Lei; 52 (Redação dada pela Emenda Constitucional nº
+33, de 15 de dezembro de 1997).
+
+---
+
+b) os mandados de segurança e os habeas data contra atos do Governador do
+Estado, da Mesa e Presidência da Assembléia Legislativa, do próprio Tribunal
+ou de algum de seus órgãos, dos Secretários de Estado, do Tribunal de Contas
+do Estado ou de algum de seus órgãos, do Tribunal de Contas dos Municípios
+ou de algum de seus órgãos, do Procurador-Geral de Justiça, no exercício de
+suas atribuições administrativas, ou na qualidade de presidente dos órgãos
+colegiados do Ministério Público, do Procurador-Geral do Estado, do Chefe da
+Casa Militar, do Chefe do Gabinete do Governador, do Controlador e do Ouvidor
+Geral do Estado, do Defensor Público-Geral do Estado, do Comandante Geral da
+Polícia Militar e do Comandante Geral do Corpo de Bombeiros Militar; (Redação
+dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 b) os mandados de segurança e os habeas data contra atos do
 Governador do Estado, da Mesa e Presidência da Assembléia
 Legislativa, do próprio Tribunal ou de algum de seus órgãos,
@@ -2389,6 +4083,7 @@ do Gabinete do Governador, do Controlador e do Ouvidor Geral
 do Estado, do Defensor Público-Geral do Estado, do Comandante
 Geral da Polícia Militar e do Comandante Geral do Corpo de
 Bombeiros Militar;
+(Suprimida a expressão “do Tribunal de Contas do Município ou de algum de
 seus órgãos” pela Emenda constitucional nº 92, de 16 de agosto de 2017).
 c) os mandados de injunção contra omissão das autoridades
 referidas na alínea anterior;
@@ -2397,8 +4092,11 @@ competência, ou quando o coator ou paciente for autoridade
 diretamente sujeita à sua jurisdição;
 e) as ações rescisórias de seus julgados e as revisões criminais
 nos processos de sua competência;
+f) as representações de inconstitucionalidade de leis ou atos normativos estaduais
+e municipais contestados em face desta Constituição;
 f) as ações diretas de inconstitucionalidade, nos termos do art.
 128 desta Constituição;
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 g) as representações para intervenção em Municípios;
 h) a execução de sentença nas causas de sua competência ori-
 ginária, facultada a delegacão de atribuição para a prática de
@@ -2407,19 +4105,226 @@ i) a reclamação para a preservação de sua competência e garan-
 tia da autoridade de suas decisões; 53
 lei” na ADI n° 3140. Posteriormente, em 2007, ação julgada procedente para excluir da norma do art. 108, inciso VII, alínea b, a
 expressão acima questionada. Ver ADI n° 3140 no Anexo I.
+53
 Arguida a inconstitucionalidade na ADI n° 2212-1, julgada improcedente pelo STF.
 Ver julgamento do mérito da ADI n° 2212-1 no Anexo II.
+54
 Ver ADI n° 251-1 no Anexo II.
 expressamente à competência dos Tribunais de Alçada, ou por órgãos recursais
 dos juizados especiais;
 VIII – julgar, em grau de recurso, as causas não atribuídas por esta
 Constituição expressamente à competência dos órgãos recursais
 dos juizados especiais;
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 IX – velar pelo exercício da atividade correicional respectiva; e
 X – exercer as demais funções que lhe forem atribuídas por lei.
+Art. 109. Junto à Corregedoria da Justiça, funcionará um conselho consultivo,
+para opinar em todos os processos e procedimentos administrativos referentes
+a juízes, podendo sugerir aos demais órgãos do Poder Judiciário medidas de
+interesse da magistratura.
+Art. 109. (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE). 54
+§ 1º O Conselho será presidido pelo Corregedor da Justiça e composto por:
+§ 1º (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+a) um desembargador;
+a) (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+b) um juiz de Tribunal de Alçada;
+b) (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009.
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+c) um juiz de entrância final;
+c) (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+d) um juiz de entrância intermediária;
+d) (revogado).
+
+---
+
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+e) um juiz de entrância inicial.
+e) (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009.
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+§ 2º Os integrantes do Conselho, à exceção do Corregedor, serão eleitos pelo
+voto direto e secreto dos juízes do correspondente Tribunal e dos integrantes
+da mesma entrância do mês de dezembro que anteceder o término do mandato
+dos dirigentes do Tribunal de Justiça.
+§ 2º (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009.
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+§ 3º O mandato dos Conselheiros coincidirá com o mandato dos dirigentes do
+Tribunal de Justiça, vedada a reeleição.
+§ 3º (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009.
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+§ 4º O Tribunal de Justiça, por resolução, disciplinará as atividades do Conselho,
+o funcionamento e a eleição de seus membros.
+§ 4º (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009.
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+
 #### Seção III
 
 Dos Tribunais de Alçada
+Art. 110. Os Tribunais de Alçada têm jurisdição territorial definida no espaço
+cearense, constituindo-se, para efeito de acesso ao Tribunal de Justiça, a mais
+alta entrância da organização judiciária em primeiro grau.
+Art. 110. (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE). 55
+§ 1º Para efeito de acesso ao Tribunal de Justiça, os membros do Tribunal de
+Alçada, oriundos do Ministério Público e da advocacia, não se desvinculam
+55
+Ver ADI n° 251-1 no Anexo II.
+56
+Ver ADI n° 251-1 no Anexo II.
+57
+Ver ADI n° 251-1 no Anexo II.
+§ 1º (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+§ 2º Não havendo juiz de Tribunal de Alçada integrante do quinto constitucional
+interessado na promoção, o Tribunal de Justiça solicitará ao órgão da respectiva
+classe a apresentação da lista sêxtupla.
+§ 2º (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+Art. 111. Aos juízes dos Tribunais de Alçada é assegurado o direito de permuta e de
+remoção, observados quanto a esta os critérios de antiguidade e merecimento,
+e em ambas as composições dos Tribunais quanto aos membros oriundos do
+Ministério Público e da advocacia.
+Art. 111. (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE). 56
+Art. 112. Compete aos Tribunais de Alçada:
+Art. 112. (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE). 57
+I – propor ao Tribunal de Justiça, para posterior encaminhamento à Assembleia
+Legislativa, a criação e extinção de cargos de suas secretarias e a fixação dos
+respectivos vencimentos;
+I – (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+II - processar e julgar originariamente:
+II – (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+a ) as ações rescisórias de seus julgados e das sentenças proferidas nos processo
+de sua competência recursal;
+a) (revogado).
+
+---
+
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+b) as revisões criminais e habeas-corpus nos processos, cujos recursos forem
+de sua competência;
+b) (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+c) os mandados de segurança contra atos de juiz de primeiro grau, praticados
+nos feitos de sua competência;
+c) (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+III - julgar em grau de recurso, observada a divisão territorial do Estado, esta-
+belecida nesta Constituição:
+III – (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Posteriormente, declarado inconstitucional por decisão do STF, proferida na
+ADI nº 251-1, no dia 27 de agosto de 2014, publicada no dia 06 de novembro
+de 2014, no DJE).
+a) as ações relativas à locação de imóveis;
+a) (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+b) as ações possessórias;
+b) (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+c) as ações relativas à matéria fiscal da competência dos Municípios;
+c) (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+d) as ações de acidentes do trabalho;
+d) (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+e) as ações de procedimento sumaríssimo;
+e) (revogado).
+58
+Ver ADI n° 251-1 no Anexo II.
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+f) as execuções por título extrajudicial e ações que lhes forem conexas, exceto
+as relativas à matéria fiscal da competência do Estado;
+f) (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+g) os crimes contra o patrimônio, seja qual for a natureza da pena cominada;
+g) (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+h) as demais infrações a que não seja cominada pena de reclusão, isolada,
+cumulativa ou alternativamente;
+h) (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+IV - eleger o Presidente e o Vice-Presidente;
+IV – (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+V - elaborar o regimento interno;
+V – (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+VI - exercer as demais funções que lhes forem atribuídas por lei.
+VI – (revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE).
+Art. 113. O Tribunal de Alçada, com jurisdição prevista em lei e sede na Capital,
+compõe-se de, no mínimo, nove juízes, com competência definida nesta Cons-
+tituição e na legislação pertinente.
+Art. 113. (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+(Declarado inconstitucional por decisão do STF, proferida na ADI nº 251-1, no
+dia 27 de agosto de 2014, publicada no dia 06 de novembro de 2014, no DJE). 58
+
+---
+
 #### Seção IV
 
 Do Tribunal do Júri
@@ -2436,25 +4341,54 @@ Art. 115. Os juízes de direito integram a magistratura de carreira,
 no exercício da jurisdição comum de primeiro grau nas comarcas e
 juízos, observadas as discriminações de competências estatuídas
 na Lei da Organização e Divisão Judiciária.
+Art. 116. Em primeiro grau de jurisdição, a carreira da magistratura compreen-
+derá quatro entrâncias.
+Art. 116. (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+Art. 117. É requisito essencial à inscrição no concurso de ingresso na carreira,
+além de outros enumerados em lei, ser bacharel em Direito, com inscrição
+definitiva na Ordem dos Advogados do Brasil, salvo nos casos de impedimento
+legal à sua obtenção.
+Art. 117. (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+Art. 118. Para conhecer e julgar conflitos fundiários, o Tribunal de Justiça, por
+ato de seu Presidente, designará juízes de entrância especial, atribuindo-lhes
+competência exclusiva para questões agrárias.
 Art. 118. Para conhecer e julgar conflitos fundiários, o Tribunal
 de Justiça, por ato de seu Presidente, designará juízes de entrân-
 cia final, atribuindo-lhes competência exclusiva para questões
 agrárias.
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+§ 1º Para o efeito previsto neste artigo, considera-se especial a entrância mais
+alta de primeiro grau, em nível imediatamente inferior ao Tribunal de Alçada.
 § 1º Para o efeito previsto neste artigo, considera-se final a entrância
 mais alta de primeiro grau.
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 § 2º Sempre que entender necessário à eficiente prestação da
 tutela jurisdicional, o juiz irá ao local do litígio.
+Art. 119. O Tribunal de Justiça designará juiz de entrância especial, com com-
+petência exclusiva para conhecer e julgar danos e crimes ecológicos, lesivos
+ao meio ambiente.
 Art. 119. O Tribunal de Justiça designará juiz de entrância final,
 com competência exclusiva para conhecer e julgar danos e crimes
 ecológicos, lesivos ao meio ambiente.
 Parágrafo único. Aplica-se a este artigo o disposto nos §§ 1º e 2º
 do art. 118.
+Art. 120. O Tribunal de Justiça designará juiz de entrância especial, com
+competência exclusiva para conhecer e julgar processos resultantes dos
+inquéritos instaurados pela delegacia especializada em crimes contra a mulher.
 Art. 120. O Tribunal de Justiça designará juiz de entrância final,
 com competência exclusiva para conhecer e julgar processos
 resultantes dos inquéritos instaurados pela delegacia especiali-
 zada em crimes contra a mulher.
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 Parágrafo único . Tal medida será progressivamente estendida às
 demais entrâncias.
+Art. 121. O juiz de direito é titular de comarca, de vara ou membro de Tribunal
+de Alçada.
+Art. 121. (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+
 #### Seção VI
 
 Dos Juízes Substitutos
@@ -2486,15 +4420,29 @@ Art. 124. Os Juizados Especiais serão providos por juízes togados,
 ou togados e leigos, para atividade de conciliação, julgamento e
 execução de causas cíveis de menor complexidade e infrações
 
+---
+
 penais de maior potencial ofensivo, mediante procedimento oral
 e sumaríssimo, admitida a transação.
+Parágrafo único . A Lei da Organização e Divisão Judiciária disporá
+sobre as suas competências, prevendo os recursos de seus julgados
+para os Tribunais de Alçada.
 Parágrafo único . A Lei da Organização e Divisão Judiciária dis-
 porá sobre as suas competências, prevendo os recursos de seus
 julgados. 59
+(Redação dada pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 
 #### Seção IX
 
 Dos Juizados de Pequenas Causas
+Art. 125. Os Juizados de Pequenas Causas devem ser encravados em áreas de
+elevada densidade residencial ou aglomerados urbanos, sendo vedada a sua
+instalação em locais discrepantes dessas especificações, incumbindo-se, de
+forma menos convencional e com rapidez, de solucionar as querelas civis e
+reparar, instantaneamente, os abusos à liberdade física, na forma definida em lei.
+Art. 125. (Revogado).
+(Revogado pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+
 #### Seção X
 
 Dos Juizados de Paz
@@ -2517,6 +4465,7 @@ I – o Governador do Estado;
 II – a Mesa da Assembleia Legislativa;
 III – o Procurador-Geral da Justiça;
 IV – o Defensor-Geral da Defensoria Pública;
+59
 Ver Lei Estadual nº 12.342, de 28 de julho de 1994, no Banco Eletrônico de Leis Temáticas (Belt) da Alece.
 V – o Prefeito, a Mesa da Câmara ou entidade de classe e organização
 sindical, se se tratar de lei ou de ato normativo do respectivo Município;
@@ -2541,6 +4490,7 @@ parte, da norma impugnada.
 § 4º Os legitimados referidos nos incisos I, II, III, IV, VI (parte inicial),
 VII e VIII poderão propor ação declaratória de constitucionalidade,
 de lei ou ato normativo estadual em face desta Constituição.
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 Art. 128. Somente pelo voto da maioria absoluta de seus membros, os
 Tribunais poderão declarar a inconstitucionalidade de lei ou ato nor-
 mativo estadual ou municipal, incidentalmente ou em ação direta.
@@ -2551,24 +4501,36 @@ produzirão eficácia contra todos e efeito vinculante relativamente
 aos demais órgãos do Poder Judiciário estadual e aos órgãos e
 entidades da administração pública direta e indireta, nas esferas
 estadual e municipal.
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 Art. 128-A. Os órgãos do Poder Judiciário do Estado, em qualquer
 grau de jurisdição em suas respectivas esferas de competência,
 podem, nos termos da lei, ser provocados por quem tiver legítimo
 interesse a defender, particular ou público.
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+
+---
 
 § 1º Sempre que necessário à eficiente prestação jurisdicional,
 far-se-á presente o juiz no local do litígio.
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
+§ 2º Aos necessitados será assegurada assistência integral e gratuita perante
+a jurisdição estadual. (Inserido pela Emenda Constitucional nº 63, de 02 de
+julho de 2009).
 § 2º Aos necessitados será assegurada assistência integral e gratuita
 perante a jurisdição estadual, por intermédio da Defensoria Pública.
 
 § 3º Serão gratuitos para os reconhecidamente pobres, na forma
 da lei:
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 a) o registro civil de nascimento; e
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 b) a certidão de óbito.
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 § 4º Nenhum serventuário da Justiça, sob pena de responsabilidade,
 poderá receber custas, emolumentos ou qualquer tipo de remu-
 neração nos procedimentos intentados por pessoas beneficiadas
 com assistência gratuita.
+(Inserido pela Emenda Constitucional nº 63, de 02 de julho de 2009).
 
 #### TÍTULO VI
 
@@ -2584,12 +4546,17 @@ individuais indisponíveis. 60
 Parágrafo único . São princípios inerentes ao Ministério Público a
 unidade, a indivisibilidade e a independência funcional.
 Art. 130. São funções institucionais do Ministério Público: 61
+60
 Ver Lei n° 10.675, de 08 de julho de 1982; e Lei Complementar n° 08, de 17 de julho de 1998, no Banco Eletrônico de Leis Temáticas
 (Belt) da Alece.
+61
 Ver Lei n° 10.675, de 08 de julho de 1982; e Lei Complementar n° 08, de 17 de julho de 1998, no Banco Eletrônico de Leis Temáticas
 (Belt) da Alece.
+62
 Ver Lei Complementar n° 09, de 23 de julho de 1998, no Banco Eletrônico de Leis Temáticas (Belt) da Alece.
+63
 Ver Lei Complementar nº 09, de 23 de julho de 1998, no Banco Eletrônico de Leis Temáticas (Belt) da Alece.
+64
 Ver Lei n° 10.675, de 08 de julho de 1982, e Lei Complementar n° 08, de 17 de julho de 1998 no Banco Eletrônico de Leis Temáticas
 (Belt) da Alece.
 II – zelar pelo efetivo respeito dos poderes públicos e dos serviços de
@@ -2618,22 +4585,35 @@ vedada a representação judicial e a consultoria jurídica de órgãos
 e entidades públicas. 63
 Art. 131. São órgãos do Ministério Público: 64
 I – o Procurador-Geral de Justiça; e
+II – os Procuradores de Justiça;
 II – o Colégio de Procuradores de Justiça;
 
 III – os Promotores de Justiça;
 
+---
+
+
+IV – os Curadores Especiais.
 IV – a Corregedoria-Geral do Ministério Público;
 
 V – os Procuradores de Justiça;
 
 VI – os Promotores de Justiça.
 
+§ 1º O Ministério Público tem por chefe o Procurador-Geral da Justiça, nomeado
+pelo Governador, após aprovação da Assembleia Legislativa, dentre os inte-
+grantes da carreira em atividade, maiores de trinta e cinco anos, indicados em
+lista tríplice, mediante escrutínio secreto pelos membros, em atividade, da
+instituição, para mandato de dois anos, permitida uma recondução, observado
+o mesmo processo.
 § 1º O Ministério Público tem por Chefe o Procurador-Geral de Jus-
 tiça, nomeado pelo Governador do Estado, dentre integrantes da
 carreira, maiores de trinta e cinco anos, indicados em lista tríplice,
 mediante escrutínio secreto pelos membros, em atividade, da
 instituição, para mandato de dois anos, permitida uma recondução.
 
+§ 2º Recebida a lista tríplice, o Governador do Estado, nos vinte dias subsequentes,
+nomeará um dos seus integrantes e lhe dará posse.
 § 2º Recebida a lista tríplice, o Governador do Estado, nos vinte
 dias subsequentes, nomeará um dos seus integrantes, que será
 empossado pelo Colégio de Procuradores de Justiça.
@@ -2641,12 +4621,27 @@ empossado pelo Colégio de Procuradores de Justiça.
 § 3º O Procurador-Geral de Justiça poderá ser destituído por deli-
 beração da maioria absoluta do Poder Legislativo, na forma da
 lei complementar respectiva.
+Art. 132. O Conselho do Ministério Público, sob a presidência do Procurador-Geral
+da Justiça, exercerá o controle hierárquico de ordem administrativa e disciplinar
+sobre todos os membros da instituição e será constituído por sete componentes
+do Ministério Público, eleitos pelos demais integrantes em votação secreta.
+Art. 132. O Conselho Superior do Ministério Público, sob a presidência do Procu-
+rador-Geral de Justiça, exercerá o controle hierárquico de ordem administrativa
+e disciplinar sobre todos os membros da instituição e será constituído por sete
+componentes do Ministério Público, eleitos pelos demais integrantes, em
+votação secreta. (Redação dada pela Emenda Constitucional nº 65, de 16 de
+setembro de 2009).
+65
+Arguida a inconstitucionalidade na ADI nº 145-1. Contudo, o STF declarou o dispositivo constitucional. Ver ADI n° 145-1 no Anexo II.
+66
+Arguida a inconstitucionalidade na ADI nº 145-1. Contudo, o STF declarou o dispositivo constitucional. Ver ADI n° 145-1 no Anexo II.
 Art. 132. O Conselho Superior do Ministério Público, sob a pre-
 sidência do Procurador-Geral de Justiça, exercerá o controle
 hierárquico de ordem administrativa e disciplinar sobre todos
 os membros da instituição e será constituído por membros do
 Ministério Público, observados os limites e as condições previstos
 em lei complementar.
+(Redação dada pela Emenda Constitucional nº 129, de 26 de agosto de 2025).
 Art. 133. Integram a estrutura organizacional do Ministério Público
 as seguintes curadorias:
 I – do meio ambiente;
@@ -2677,6 +4672,8 @@ II – expedir atos de provimento dos cargos da carreira e dos serviços
 auxiliares, de promoção, remoção, readmissão, disponibilidade
 e de reversão;
 
+---
+
 III – editar atos de aposentadoria, exoneração, demissão e outros
 que importem em vacância de cargos da carreira ou dos serviços
 auxiliares;
@@ -2704,25 +4701,50 @@ extrapolem os limites estabelecidos na Lei de Diretrizes Orçamen-
 tárias, exceto se previamente autorizadas, mediante abertura de
 créditos suplementares ou especiais.
 
+Art. 137. A atividade do Ministério Público perante o Tribunal de Contas do Estado e
+Conselho de Contas dos Municípios é exercida por Procurador de Justiça, designado
+pelo Procurador-Geral da Justiça.
+Art. 137. A atividade do Ministério Público perante o Tribunal de Contas do Estado
+é exercida por Procurador de Justiça, designado pelo Procurador-Geral da Justiça.
+(Redação dada pela Emenda Constitucional nº 12, de 29 de março de 1994).
 Art. 137. (Declarado inconstitucional, em controle concentrado,
 pelo Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 3.160-1, no dia 25 de outubro de 2007, publicada
 no dia 12 de junho de 2009, no DJE). 68
+Art. 138. O ingresso na carreira far-se-á mediante concurso público de provas
+e títulos, assegurada a participação da Ordem dos Advogados do Brasil em
+todas as suas fases, obedecendo-se nas nomeações à ordem de classificação.
+67
+Arguida a inconstitucionalidade na ADI nº 145-1. Contudo, o STF declarou o dispositivo constitucional. Ver ADI n° 145-1 no Anexo II.
+68
+Ver ADI n° 3.160-1 no Anexo II.
+69
+Havia uma suspensão por medida cautelar deferida pelo STF na ADI nº 145-1 Contudo, julgada prejudicada
+em relação a esse parágrafo único por mudança substancial promovida pela EC 65/09. Ver ADI nº 145-1 no Anexo II.
 Art. 138. O ingresso na carreira do Ministério Público far-se-á
 mediante concurso público de provas e títulos, assegurada a par-
 ticipação da Ordem dos Advogados do Brasil em sua realização,
 exigindo-se do bacharel em direito, no mínimo, três anos de atividade
 jurídica e observando-se, nas nomeações, a ordem de classificação.
 
+Art. 139. O acesso na carreira dar-se-á sempre, alternadamente, por mereci-
+mento e antiguidade.
 Art. 139. A promoção na carreira do Ministério Público dar-se á de
 entrância para entrância ou classe, alternadamente, por antigui-
 dade e merecimento, aplicando-se, no que couber, o disposto no
 art. 93 da Constituição Federal.
 
+Art. 140. Os vencimentos dos membros do Ministério Público serão fixados por lei,
+com diferença não superior a dez por cento de uma para outra entrância ou classe.
 Art. 140. Os subsídios dos membros do Ministério Público serão
 fixados por lei, não podendo a diferença entre uma e outra ser
 superior a dez por cento ou inferior a cinco por cento de uma para
 outra entrância ou classe.
 
+Parágrafo único . Os vencimentos do Procurador-Geral de Justiça não poderão ser
+inferiores aos atribuídos ao cargo de Desembargador-Presidente do Tribunal de
+Justiça e servirão de teto como remuneração para os cargos do Ministério Público
+e seus serviços auxiliares. 69
 Parágrafo único . Na fixação dos subsídios dos membros do Minis-
 tério Público observar-se-á o disposto no art. 93, inciso V, da Cons-
 tituição Federal.
@@ -2732,11 +4754,20 @@ seguintes garantias:
 I – vitaliciedade, após dois anos de exercício, somente sendo pas-
 síveis de perda do cargo, mediante sentença judicial transitada
 em julgado;
+II – inamovibilidade, salvo por motivo de interesse público, mediante decisão
+do órgão colegiado competente do Ministério Público, pelo voto de dois terços
+dos seus membros, assegurada ampla defesa;
 II – inamovibilidade, salvo por motivo de interesse público,
 mediante decisão do órgão colegiado competente do Ministério
 Público, pelo voto da maioria absoluta dos seus membros, asse-
 gurada ampla defesa;
 
+
+---
+
+III – irredutibilidade de vencimentos, observado, quanto à remuneração, o
+princípio da isonomia em relação ao órgão do Poder Judiciário junto ao qual
+oficiarem. 70
 III – irredutibilidade de subsídios, observado, quanto à remune-
 ração, o disposto na Constituição Federal.
 
@@ -2749,6 +4780,7 @@ III – exercer o comércio ou participar de sociedade comercial, na
 forma da lei;
 IV – exercer, ainda que em disponibilidade, qualquer outra função
 pública, salvo uma de magistério;
+V – exercer atividade político-partidária, salvo as exceções previstas na lei.
 V – exercer atividade político-partidária;
 
 VI – receber, a qualquer título ou pretexto, auxílios ou contribuições
@@ -2765,24 +4797,39 @@ dos descendentes até o primeiro grau ou por adoção, ao Colégio de
 Procuradores e à Corregedoria do Ministério Público, que adotarão
 as providências cabíveis em caso de suspeita de enriquecimento
 ilícito ou outras irregularidades.
+(Inserido pela Emenda Constitucional nº 49, de 04 de abril de 2002).
 § 2º As declarações de bens a que se refere o parágrafo anterior
 deverão ser publicadas no Diário Oficial do Estado e postas à
+70
 Havia uma suspensão por medida cautelar deferida pelo STF na ADI nº 145-1 Contudo, julgada prejudicada em relação a esse inciso
 III por mudança substancial promovida pela EC nº 65/09. Ver ADI nº 145-1 no Anexo II.
+71
 Arguida a inconstitucionalidade na ADI nº 145-1. Contudo, julgada prejudicada devido à revogação promovida pela EC nº 65/09.
 Ver ADI nº 145-1 no Anexo II.
+72
 Ver Lei Complementar nº 06, de 28 de abril de 1997; alterada pelas Leis Complementares nº 11, de 17 de junho de 1999;
 Lei Complementar n° 20, de 29 de junho de 2000; e Lei Complementar n° 27 de 17, de janeiro de 2001, no Banco Eletrônico de Leis
 Temáticas (Belt) da Alece.
 disposição de qualquer interessado, mediante requerimento
 devidamente justificado.
+(Inserido pela Emenda Constitucional nº 49, de 04 de abril de 2002).
+Art. 143. As funções do Ministério Público são privativas dos integrantes da carreira,
+que deverão residir na comarca da respectiva lotação.
 Art. 143. As funções do Ministério Público só podem ser exercidas
 por integrantes da carreira, que deverão residir na comarca da
 respectiva lotação, salvo autorização do chefe da instituição.
 
+Art. 144. Os proventos da aposentadoria dos membros do Ministério Público
+serão reajustados na mesma proporção dos aumentos concedidos, a qualquer
+título, aos que permanecem em atividade.
 Art. 144. A aposentadoria dos membros do Ministério Público e a
 pensão de seus dependentes obedecerão ao disposto no art. 40
 da Constituição Federal.
+
+Art. 145. O benefício da pensão por morte corresponderá à totalidade dos
+vencimentos. 71
+Art. 145. (Revogado).
+
 
 #### CAPÍTULO II
 
@@ -2792,9 +4839,18 @@ Art. 146. A Defensoria Pública é instituição permanente, essencial
 tência judicial e extrajudicial aos necessitados, compreendendo
 a orientação e patrocínio dos seus direitos e interesses à tutela
 jurídica em todos os graus e instâncias. 72
+Parágrafo único . Em todas as comarcas haverá um representante da Defensoria
+Pública, por vara, cabendo ao Governador do Estado e a Defensoria Pública
+Geral, no prazo máximo de dois anos, contados da promulgação da presente
+Emenda Constitucional, adotarem as medidas que se fizerem necessárias neste
+sentido, assegurando, assim, aos carentes, o acesso à justiça e o respeito a seus
+direitos à cidadania.
 Parágrafo único . Em todas as comarcas haverá representante da
 Defensoria Pública, assegurando aos carentes o acesso à Justiça
 e o respeito a seus direitos à cidadania.
+(Redação dada pela Emenda Constitucional nº 45, de 28 de dezembro de 2000).
+
+---
 
 Art. 147. A Defensoria Pública é organizada em carreira, com
 ingresso de seus integrantes na classe inicial, mediante concurso
@@ -2804,8 +4860,11 @@ maiores de trinta anos e com mais de dez anos de efetivo exer-
 cício, escolhido em lista tríplice pelos integrantes da carreira, e
 previamente aprovado o nome pela Assembleia Legislativa, com
 o mandato de dois anos, permitida uma recondução. 73
+§ 1º São aplicáveis aos Defensores Públicos o regime de garantias, vencimentos,
+vantagens e impedimentos do Ministério Público e da Procuradoria-Geral do Estado.
 § 1º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 145-1, no dia 20 de junho de 2018, publicada
 no dia 26 de junho de 2018, no DJE). 74
 § 2º O Defensor-Geral poderá ser destituído por maioria absoluta
 de votos da Assembleia Legislativa, por sua própria iniciativa ou
@@ -2815,10 +4874,12 @@ mente declaração de seus bens, dos bens de seus cônjuges e dos
 descendentes até o primeiro grau ou por adoção, ao Defensor
 Geral, que adotará as providências cabíveis em caso de suspeita
 de enriquecimento ilícito ou outras irregularidades.
+(Inserido pela Emenda Constitucional nº 49, de 04 de abril de 2002).
 § 4º As declarações de bens a que se refere o parágrafo anterior
 deverão ser publicadas no Diário Oficial do Estado e postas à
 disposição de qualquer interessado, mediante requerimento
 devidamente justificado.
+(Inserido pela Emenda Constitucional nº 49, de 04 de abril de 2002).
 Art. 148. São funções institucionais da Defensoria Pública:
 I – promover, extrajudicialmente, a conciliação entre as partes,
 em conflito de interesses;
@@ -2826,10 +4887,15 @@ II – promover ação penal privada e a ação subsidiária pública;
 III – promover ação civil;
 IV – promover defesa em ação penal;
 V – promover defesa em ação civil e reconvir;
+73
 Arguida a inconstitucionalidade na ADI nº 143-4, a qual foi julgada extinta pelo STF em 17/06/2002. Ver ADI n° 143-4 no Anexo II.
+74
 Ver ADI n° 145-1 no Anexo II.
+75
 Arguida a inconstitucionalidade na ADI nº 143-4, a qual foi julgada extinta pelo STF em 17/06/2002. Ver ADI n° 143-4 no Anexo II.
+76
 Ver ADI n° 749-1 no Anexo II.
+77
 Ver Emenda Constitucional nº 88, de 21 de dezembro de 2016 (Novo Regime Fiscal), no Banco Eletrônico
 de Leis Temáticas (Belt) da Alece.
 VII – atuar junto aos estabelecimentos policiais e penitenciários,
@@ -2843,6 +4909,12 @@ previstas no artigo 227, § 3º, da Constituição Federal.
 § 2º A Defensoria Pública, na forma da lei, poderá ser encarre-
 gada, também, de prestar assistência judiciária, que for devida
 ao servidor público.
+§ 3º Os membros da Defensoria Pública são aposentados nas mesmas condições
+previstas para os membros do Ministério Público e Procuradoria-Geral do Estado.
+§ 3° (Declarado inconstitucional, em controle concentrado, pelo
+Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 749-1, no dia 20 de março de 2003, publicada
+no dia 28 de março de 2003, no DJE). 76
 § 3º A aposentadoria dos membros da Defensoria Pública e a
 pensão dos seus dependentes obedecerão ao disposto no art. 40
 da Constituição Federal.
@@ -2852,10 +4924,17 @@ em número igual aos de Procuradores de Justiça, serão ocupados
 pelos integrantes da carreira pertencentes à classe mais elevada da
 categoria, de acordo com os critérios fixados na lei complementar
 ou na lei de organização da carreira.
+Art. 148-A. À Defensoria Pública é assegurada autonomia funcional e administra-
+tiva e a iniciativa de sua proposta orçamentária dentro dos limites estabelecidos
+na Lei de Diretrizes Orçamentárias. (Inserido pela Emenda Constitucional nº 65,
+de 16 de setembro de 2009).
 Art.148-A. À Defensoria Pública é assegurada autonomia funcional,
 financeira e administrativa, dentro dos limites estabelecidos na
 Lei de Diretrizes Orçamentárias e subordinação ao disposto no art.
 99, § 2º, da Constituição Federal, cabendo-lhe especialmente: 77
+(Redação dada pela Emenda Constitucional nº 80, de 10 de abril de 2014).
+
+---
 
 II – decidir sobre situação funcional e administrativa de seus mem-
 bros e do serviço auxiliar ativo, organizados em quadro próprio;
@@ -2875,6 +4954,7 @@ liares, bem como os de disponibilidade de membros da Defensoria
 Pública do Estado e de seus servidores dos serviços auxiliares;
 VIII – exercer outras competências decorrentes de sua autonomia
 na forma da lei.
+(Inserido pela Emenda Constitucional nº 80, de 10 de abril de 2014).
 § 1º Os recursos correspondentes às dotações orçamentárias, com-
 preendidos os créditos suplementares e os especiais, consignados
 à Defensoria Pública, ser-lhe-ão repassados em duodécimos até
@@ -2893,6 +4973,7 @@ I – praticar atos e decidir sobre a situação funcional dos membros
 da carreira e dos serviços auxiliares que serão organizados em
 quadros próprios.
 
+78
 Lei Complementar nº 02, de 24 de maio de 1994; alterada pela Lei Complementar nº 07, de 11 de julho de 1997; Lei Complementar
 nº 10, de 17 de julho de 1999; Lei Complementar nº 15, de 07 de dezembro de 1999; e Lei Complementar n° 25, de 08 de janeiro de
 2001, no Banco Eletrônico de Leis Temáticas (Belt) da Alece.
@@ -2905,6 +4986,12 @@ seus problemas específicos.
 #### CAPÍTULO III
 
 DA PROCURADORIA GERAL DO ESTADO
+Art. 150. A Procuradoria-Geral do Estado é uma instituição permanente, essen-
+cial ao exercício das funções administrativa e jurisdicional do Estado, sendo
+responsável, em toda sua plenitude, pela defesa de seus interesses em juízo e
+fora dele, bem como pelas suas atividades de consultoria e assessoria jurídica,
+à exceção de suas autarquias, sob a égide dos princípios da legalidade e da
+indisponibilidade dos interesses públicos.
 Art. 150. A Procuradoria Geral do Estado é uma instituição per-
 manente, essencial ao exercício das funções administrativa e
 jurisdicional do Estado, sendo responsável, em toda sua plenitude,
@@ -2917,6 +5004,11 @@ da indisponibilidade dos interesses públicos.
 § 1º A Procuradoria Geral do Estado gozará de autonomia adminis-
 trativa e financeira, com dotação orçamentária própria e quadro
 de carreira adequados à instituição.
+§ 2º Lei orgânica, de natureza complementar, disporá sobre a Procuradoria-Geral
+do Estado, disciplinará suas competências e o funcionamento dos órgãos que
+a integram, regionalizando sua atuação, bem como estabelecerá o regime
+jurídico dos integrantes da carreira de Procurador do Estado, observados os
+princípios e regras desta Constituição.
 § 2º Lei Orgânica, de natureza complementar, disporá sobre a
 Procuradoria Geral do Estado, disciplinará suas competências e
 o funcionamento dos órgãos que a integram, regionalizando sua
@@ -2924,44 +5016,69 @@ atuação, bem como estabelecerá o regime jurídico dos integrantes
 da carreira de Procurador do Estado. 78
 
 Art. 151. Compete, privativamente, à Procuradoria Geral do Estado:
+I – representar judicial e extrajudicialmente o Estado, em defesa de seu patri-
+mônio e da Fazenda Pública, observadas as competências das procuradorias
+autárquicas;
 I – representar judicial e extrajudicialmente o Estado, em defesa de
 seu patrimônio e da Fazenda Pública, observadas as competências
+
+---
 
 das procuradorias autárquicas, podendo intervir nos processos
 administrativos e judiciais da Administração Indireta, nas hipóteses
 de relevante interesse público;
 
+II – representar os interesses do Estado junto ao Contencioso Administrativo Tri-
+butário, ao Tribunal de Contas do Estado e ao Conselho de Contas dos Municípios;
+II – representar os interesses do Estado junto ao Contencioso Administrativo Tri-
+butário, ao Tribunal de Contas do Estado e ao Tribunal de Contas dos Municípios;
+(Redação dada pela Emenda Constitucional nº 09, de 16 de dezembro de 1992).
 II – representar os interesses do Estado junto ao Contencioso Admi-
 nistrativo Tributário ao Tribunal de Contas do Estado;
+(Suprimida a expressão “e ao Tribunal de Contas do Município” pela Emenda
 constitucional nº 92, de 16 de agosto de 2017).
+III – exercer as atividades de consultoria e assessoria jurídica do ente federado,
+observado o final do inciso I;
 III – exercer as atividades de consultoria e assessoria jurídica do
 ente federado, observado o final do inciso I;
 
 IV – realizar processos administrativo-disciplinares, instaurados
 contra servidores civis da administração direta e fundacional do
 Estado, inclusive os da Polícia Civil;
+V – propor ações judiciais em defesa dos interesses e do patrimônio público
+estadual, na forma da lei processual pertinente;
 V – propor ações judiciais em defesa dos interesses e do patrimônio
 público estadual, da Administração Direta e Indireta, na forma da
 lei processual pertinente;
 
+VI – fiscalizar a legalidade dos atos da administração pública estadual direta e
+fundacional, cabendo-lhe propor, quando se fizer necessário, as ações judiciais
+competentes;
 VI – fiscalizar a legalidade dos atos da Administração Pública
 Estadual Direta e Indireta, cabendo-lhe propor, quando se fizer
 necessário, as ações judiciais competentes;
 
 VII – exercer outras funções que lhe forem conferidas por lei, com-
 patíveis com a natureza da instituição.
+79
 Arguida a inconstitucionalidade na ADI nº 145-1. Contudo, julgada parcialmente procedente a ação, para julgar prejudicada.
 Ver ADI nº 145-1 no Anexo II. DOU 25/06/2018.
+80
 Arguida a inconstitucionalidade na ADI nº 145-1. Contudo, julgada parcialmente procedente a ação, para julgar prejudicada.
 Ver ADI nº 145-1 no Anexo II. DOU 25/06/2018.
+81
 Suspensa por medida cautelar a expressão: “aplicando-se-lhes, por força do princípio da isonomia estabelecido no art. 135 da
 Constituição Federal, tratamento remuneratório idêntico ao dos membros do Ministério Público”, deferida pelo STF na ADI nº 145-1.
 Contudo, julgada parcialmente procedente a ação, para julgar prejudicada. Ver ADI nº 145-1 no Anexo II. DOU 25/06/2018.
+82
 Ver ADI nº 145-1, no Anexo II. DOU 25/06/2018.
 Art. 152. A carreira de Procurador do Estado será estruturada com
 observância do disposto nos arts. 132 e 135 da Constituição da
 República e dos seguintes princípios e garantias:
 
+I – ingresso no cargo inicial da carreira exclusivamente por concurso público de
+provas e títulos, realizado pela Procuradoria-Geral do Estado e pelas respectivas
+autarquias, com a participação obrigatória da Ordem dos Advogados do Brasil; 79
 I – ingresso no cargo inicial da carreira exclusivamente por concurso
 público de provas e títulos, realizado pela Procuradoria Geral do
 Estado, com a participação obrigatória da Ordem dos Advogados
@@ -2969,10 +5086,16 @@ do Brasil;
 
 II – promoção, por critérios de merecimento e antiguidade, alter-
 nadamente, vedadas as transformações ou transposição de cargos;
+III – vitaliciedade, após dois anos de exercício, não podendo perder o cargo,
+senão por sentença judicial transitada em julgado; 80
 III – estabilidade, após três anos de efetivo exercício, mediante
 avaliação de desempenho, após relatório circunstanciado da
 Corregedoria;
 
+IV – irredutibilidade de vencimentos, fixados em lei, com diferença não exce-
+dente a dez por cento de uma para outra categoria, aplicando-se-lhes, por força
+do princípio da isonomia estabelecido no art. 135 da Constituição Federal,
+tratamento remuneratório idêntico ao dos membros do Ministério Público; 81
 IV – irredutibilidade de vencimentos, fixados em lei, com diferença
 não excedente a dez por cento de uma para outra categoria;
 
@@ -2986,14 +5109,25 @@ Estado e das procuradorias autárquicas 82 .
 ( Trecho declarado inconstitucional por decisão do STF, proferida na ADI nº 145-1,
 no dia 20 de junho de 2018, publicada no dia 10 de agosto de 2018, no DJE).
 
+---
+
+Art. 153. O Procurador-Geral do Estado, chefe da Procuradoria Geral do Estado,
+e o Procurador-Geral Adjunto, serão nomeados pelo Governador do Estado,
+dentre advogados com pelo menos dez anos de prática forense e de notório
+saber jurídico e reputação ilibada, com idade mínima de trinta e cinco anos.
 Art. 153. O Procurador Geral do Estado, chefe da Procuradoria-Geral
 do Estado, e o Procurador Geral Adjunto, serão nomeados pelo
 Governador do Estado, dentre advogados com pelo menos dez
 anos de prática forense e de notório saber jurídico e reputação
 ilibada, com idade mínima de trinta anos.
+(Redação dada pela Emenda Constitucional n° 68, de 14 de outubro de 2010).
 § 1º As atribuições da Procuradoria Geral do Estado só podem ser
 exercidas pelo Procurador-Geral, pelo Procurador-Geral Adjunto
 e pelos integrantes da carreira de Procurador do Estado;
+§ 2º O Procurador-Geral, o Procurador-Geral Adjunto, os Procuradores do Estado,
+os Procuradores, Subprocuradores e os Consultores autárquicos serão subme-
+tidos a julgamento perante o Tribunal de Justiça, das infrações penais comuns,
+ressalvadas as competências previstas na Constituição da República;
 § 2º O Procurador-Geral, o Procurador-Geral Adjunto e os Pro-
 curadores do Estado, serão submetidos a julgamento perante o
 Tribunal de Justiça, das infrações penais comuns, ressalvadas as
@@ -3011,44 +5145,54 @@ do Estado.
 #### CAPÍTULO III - A
 
 DA ADMINISTRAÇÃO FAZENDÁRIA
+(Inserido pela Emenda Constitucional nº 81, de 28 de agosto de 2014)
 Art.153-A . A Administração Fazendária é instituição permanente,
 essencial ao funcionamento do Estado, competindo-lhe a gestão
 tributária e das finanças estaduais, com dotação orçamentária pró-
 pria, assegurada autonomia administrativa, funcional e financeira,
 nos termos, limites e condições estabelecidos na lei complementar
 de que trata o § 1º deste artigo, sendo ainda observado:
+(Inserido pela Emenda Constitucional nº 81, de 28 de agosto de 2014)
 I – precedência sobre os demais setores administrativos, na forma
 da lei;
+(Inserido pela Emenda Constitucional nº 81, de 28 de agosto de 2014)
 II – será composta por servidores de carreira específica, terá recur-
 sos prioritários para a realização de suas atividades e atuará de
 forma integrada com a dos demais entes federados, inclusive com
 o compartilhamento de cadastros e informações fiscais, na forma
 da lei ou convênio;
+(Inserido pela Emenda Constitucional nº 81, de 28 de agosto de 2014)
 III – as atividades exercidas pelos integrantes da carreira da Admi-
 nistração Fazendária Estadual são consideradas essenciais e
 típicas de Estado.
+(Inserido pela Emenda Constitucional nº 81, de 28 de agosto de 2014)
 § 1º Lei orgânica, de natureza complementar, de iniciativa exclusiva
 do Chefe do Poder Executivo, disporá sobre a Administração Fazen-
 dária Estadual, disciplinará suas competências e estabelecerá o
 regime jurídico dos integrantes da carreira, suas prerrogativas,
 garantias e vedações.
+(Inserido pela Emenda Constitucional nº 81, de 28 de agosto de 2014)
 § 2° O Estado destinará à Administração Fazendária, anualmente,
 percentual do total de sua receita de impostos, a ser estabelecido
 na lei complementar de que trata o § 1º deste artigo, para a rea-
 lização de suas atividades, em conformidade com o disposto no
 inciso IV do art. 167 da Constituição Federal.
+(Inserido pela Emenda Constitucional nº 81, de 28 de agosto de 2014)
 § 3º O ingresso na carreira far-se-á mediante concurso público de
 provas e títulos, nos termos definidos na lei complementar de que
 trata o § 1º deste artigo.
+(Inserido pela Emenda Constitucional nº 81, de 28 de agosto de 2014)
 § 4º Os integrantes da Administração Fazendária deverão enviar,
 anualmente, declaração de seus bens, dos bens de seus cônjuges
 e dos descendentes até primeiro grau ou por adoção, à unidade
 de gestão de pessoas competente, que adotará as providências
 cabíveis em caso de suspeita de enriquecimento ilícito ou outras
 irregularidades.
+(Inserido pela Emenda Constitucional nº 81, de 28 de agosto de 2014)
 § 5º Compete exclusivamente aos integrantes da Administração
 Fazendária, o lançamento do crédito tributário, nos termos defi-
 nidos na lei de que trata o § 1º do art. 153-A.
+(Inserido pela Emenda Constitucional nº 81, de 28 de agosto de 2014).
 
 #### CAPÍTULO IV
 
@@ -3057,11 +5201,19 @@ DA ADMINISTRAÇÃO PÚBLICA
 #### Seção I
 
 Disposições Gerais
+Art. 154. A administração pública direta, indireta e fundacional de qualquer
+dos Poderes do Estado do Ceará obedecerá aos princípios da legalidade, da
+impessoalidade, da moralidade, da publicidade e ao seguinte:
 Art. 154. A administração pública direta, indireta e fundacional
 de quaisquer dos Poderes do Estado do Ceará obedecerá aos
 
+---
+
 princípios da legalidade, da impessoalidade, da moralidade, da
 publicidade e da eficiência, e ao seguinte: 83
+(Redação dada pela Emenda Constitucional n° 56, de 07 de janeiro de 2004).
+I – os cargos, funções e empregos públicos são acessíveis aos brasileiros que
+preencham os requisitos estabelecidos em lei;
 I – os cargos, funções e empregos públicos são acessíveis aos bra-
 sileiros e estrangeiros que preencham os requisitos estabelecidos
 em lei;
@@ -3077,6 +5229,9 @@ IV – durante o prazo improrrogável, previsto no edital de convoca-
 ção, aquele aprovado em concurso público de provas ou de provas
 e títulos será convocado com prioridade sobre novos concursados
 para assumir cargo ou emprego, objeto do concurso;
+V – os cargos em comissão e as funções de confiança serão exercidos, preferen-
+cialmente, por servidores ocupantes de cargo de carreira técnica ou profissional,
+nos casos e condições previstos em lei;
 V – as funções de confiança, exercidas exclusivamente por ser-
 vidores ocupantes de cargo efetivo, e os cargos em comissão, a
 serem preenchidos por servidores de carreira nos casos, condições
@@ -3085,6 +5240,8 @@ atribuições de direção, chefia e assessoramento;
 
 VI – é garantido ao servidor público civil o direito à livre associação
 sindical;
+VII – o direito de greve será exercido nos termos e nos limites fixados em lei
+complementar à Constituição da República;
 VII – o direito de greve será exercido nos termos e limites definidos
 em lei específica, prevista no art. 37, inciso VII, da Constituição
 da República;
@@ -3092,6 +5249,39 @@ da República;
 VIII – o não cumprimento dos encargos trabalhistas pelas pres-
 tadoras de serviços, apurado na forma da legislação específica,
 importará na rescisão do contrato sem direito a indenização;
+IX – a lei fixará o limite máximo de valores entre a maior e a menor remune-
+ração dos servidores públicos, observados, como limites máximos, os valores
+83
+Ver art. 3º da Emenda Constitucional Federal nº 19, de 04 de junho de 1998 DOU 05/06/1998.
+percebidos como remuneração, em espécie, a qualquer título, por membros
+da Assembleia Legislativa, do Tribunal de Justiça e por Secretários de Estado
+no âmbito dos respectivos poderes;
+IX – a remuneração e o subsídio dos ocupantes de cargos, funções e empregos
+públicos da administração direta, autárquica e fundacional, dos membros do
+Executivo, Legislativo e Judiciário, dos detentores de mandado eletivo e dos
+demais agentes políticos e os proventos, pensões ou outra espécie remunera-
+tória, percebidos cumulativamente ou não, incluídas as vantagens pessoais
+ou de qualquer outra natureza, não poderão exceder o subsídio mensal, em
+espécie, do Governador do Estado no âmbito do Poder Executivo, o subsídio dos
+Deputados Estaduais no âmbito do Poder Legislativo e o subsídio dos Desem-
+bargadores do Tribunal de Justiça do Estado, limitado a noventa inteiros e vinte
+e cinco centésimos por cento do subsídio mensal, em espécie, dos Ministros do
+Supremo Tribunal Federal, no âmbito do Poder Judiciário, aplicável este limite
+aos membros do Ministério Público, aos Procuradores e aos Defensores Públicos.
+(Redação dada pela Emenda Constitucional n° 56, de 07 de janeiro de 2004).
+IX – a remuneração e o subsídio dos ocupantes de cargos, funções e empregos
+públicos da administração direta, autárquica e fundacional, dos membros do
+Executivo, Legislativo e Judiciário, dos detentores de mandato eletivo e dos
+demais agentes políticos e os proventos, pensões ou outra espécie remunera-
+tória, percebidos cumulativamente ou não, incluídas as vantagens pessoais
+ou de qualquer outra natureza, não poderão exceder o subsídio mensal, em
+espécie, do Governador do Estado no âmbito do Poder Executivo, o subsídio dos
+Deputados Estaduais no âmbito do Poder Legislativo e o subsídio dos Desem-
+bargadores do Tribunal de Justiça do Estado, limitado a noventa inteiros e vinte
+e cinco centésimos por cento do subsídio mensal, em espécie, dos Ministros do
+Supremo Tribunal Federal, no âmbito do Poder Judiciário, aplicável este limite
+aos membros do Ministério Público, aos Procuradores e aos Defensores Públicos;
+
 IX – fica estabelecido, como limite remuneratório único aplicável
 aos servidores públicos do Estado do Ceará, de quaisquer Poderes,
 inclusive do Ministério Público e da Defensoria Pública, o subsídio
@@ -3100,43 +5290,70 @@ limitado a 90,25% (noventa inteiros e vinte e cinco centésimos
 por cento) do subsídio mensal dos Ministros do Supremo Tribunal
 Federal, não se aplicando o disposto neste artigo aos subsídios dos
 Deputados Estaduais e dos Vereadores.
+(Redação dada pela Emenda Constitucional n° 90, de 01 de junho de 2017).
 X – a revisão geral da remuneração dos servidores públicos, sem
 distinção de índices entre civis e militares, far-se-á sempre na
 mesma data;
 XI – os vencimentos dos cargos do Poder Legislativo e do Poder Judi-
 ciário não poderão ser superiores aos pagos pelo Poder Executivo;
+XII – ressalvado o disposto no inciso anterior e em outros dispositivos desta Cons-
+tituição, é vedada a vinculação de vencimentos, para o efeito de remuneração
+do pessoal do serviço público, inclusive ao salário mínimo, na conformidade
+com o que dispõe o art. 7º, IV, da Constituição da República;
+
+---
+
 XII – é vedada a vinculação ou equiparação de quaisquer espé-
 cies remuneratórias para o efeito de remuneração de pessoal do
 serviço público;
 
+XIII – os vencimentos dos servidores públicos, civis e militares, são irredutíveis
+e a remuneração observará o que dispõem os arts. 150, II, 153, III, 153 § 2º, I e
+37, XI e XII da Constituição da República;
 XIII – o subsídio e os vencimentos dos ocupantes de cargos e empre-
 gos públicos são irredutíveis, ressalvado o disposto nos incisos XI
 e XIV do art. 37 e nos arts. 39, § 4º, 150, inciso II, 153, inciso III e 153,
 § 2º, inciso I, todos da Constituição Federal;
 
+XIV - Lei Complementar estabelecerá os casos de contratação, por tempo deter-
+minado, não superior a seis meses, para atender à necessidade temporária de
+excepcional interesse público;
 XIV – Lei Complementar estabelecerá os casos de contratação por
 tempo determinado, para atender à necessidade temporária, de
 excepcional interesse público, fixando prazo de até doze meses,
 prorrogável, no máximo, por doze meses. 84
+(Redação dada pela Emenda Constitucional nº 42, de 02 de setembro de 1999).
+XV – é vedada a acumulação remunerada de cargos públicos, permitida apenas,
+e quando houver compatibilidade de horários:
 XV – é vedada a acumulação remunerada de cargos públicos,
 permitida apenas, e quando houver compatibilidade de horários,
 observado, em qualquer caso, o disposto no inciso XI:
 
 a) a de dois cargos de professor; e
 b) a de um cargo de professor com outro técnico ou científico;
+c) a de dois cargos privativos de médico.
 c) a de dois cargos privativos de profissionais de saúde, com
 profissões regulamentadas;
 
+XVI – a proibição de acumular estende-se a empregos e funções e abrange
+autarquias, fundações mantidas pelo Poder Público, empresas públicas e
+sociedades de economia mista;
 XVI – a proibição de acumular estende-se a empregos e funções
 e abrange autarquias, fundações, empresas públicas, sociedades
 de economia mista, suas subsidiárias e sociedades controladas,
 direta ou indiretamente, pelo poder público;
 
+84
 Ver Lei Complementar nº 14, de 15 de setembro de 1999; e Lei Complementar n° 22, de 24 de julho de 2000,
 no Banco Eletrônico de Leis Temáticas (Belt) da Alece.
+85
 Ver Lei Complementar n° 31, de 05 de agosto 2002, no Banco Eletrônico de Leis Temáticas (Belt) da Alece.
 de competência e jurisdição, precedência sobre os demais setores administra-
 tivos, na forma da lei;
+XVII – (revogado);
+(Revogado pela Emenda Constitucional nº 81, de 26 de agosto de 2014).
+XVIII – somente por lei específica poderão ser criadas empresa pública, sociedade
+de economia mista, autarquia e fundação pública;
 XVIII – somente por lei específica poderá ser criada autarquia e
 autorizada a instituição de empresa pública, sociedade de econo-
 mia mista e fundação, cabendo à lei complementar, neste último
@@ -3153,6 +5370,12 @@ obrigações de pagamento, mantidas as condições efetivas da
 proposta, nos termos da lei, a qual somente permitirá as exigências
 de qualificação técnica e econômica indispensáveis à garantia do
 cumprimento das obrigações;
+XXI – a pensão mínima dos servidores do Instituto de Previdência do Estado do
+Ceará não poderá ser inferior ao valor de um salário mínimo;
+XXI – Nenhuma pensão paga aos dependentes de servidor público falecido poderá
+ter valor mensal inferior ao salário mínimo, ressalvados os casos de remuneração
+e proventos proporcionais. (Redação dada pela Emenda Constitucional nº 39, de
+05 de maio de 1999).
 XXI – nenhuma pensão paga aos dependentes de servidor público
 falecido poderá ter valor mensal inferior ao salário mínimo; 85
 
@@ -3167,6 +5390,8 @@ XXIV – a remuneração dos servidores públicos e o subsídio de
 que trata o § 4º, do art. 39, da Constituição da República, somente
 poderão ser fixados ou alterados por lei específica, observada a
 
+---
+
 iniciativa privativa em cada caso, assegurada a revisão anual,
 sempre na mesma data e sem distinção de índices, vedada remu-
 neração inferior ao salário mínimo nacional;
@@ -3175,25 +5400,43 @@ XXV – os acréscimos pecuniários percebidos por servidor público
 não serão computados nem acumulados para fins de concessão
 de acréscimos ulteriores;
 
+XXVI – a administração tributária, atividade essencial ao funcionamento do
+Estado e exercida por servidores de carreira específica, terá recursos prioritá-
+rios para a realização de suas atividades e atuará de forma integrada com a
+dos demais entes federados, inclusive com o compartilhamento de cadastros
+e informações fiscais, na forma da lei ou convênio; (Inserido pela Emenda
+Constitucional nº 65, de 16 de setembro de 2009).
+XXVI – (revogado);
+(Revogado pela Emenda Constitucional nº 81, de 26 de agosto de 2014).
 XXVII – as atividades de controle da Administração Pública Esta-
 dual, essenciais ao seu funcionamento, contemplarão, em especial,
 as funções de ouvidoria, controladoria, auditoria governamental
 e correição.
+(Inserido pela Emenda Constitucional nº 75, de 20 de dezembro de 2012).
 XXVIII – as atividades de planejamento, orçamento e gestão serão
 desempenhadas por órgão de natureza permanente e exercidas
 por servidores organizados em carreiras específicas, na forma de
 lei própria.
+(Inserido pela Emenda Constitucional nº 121, de 11 de maio de 2023).
 § 1º Nenhum servidor poderá receber contraprestação inferior
 ao salário mínimo.
+§ 2º Os valores dos cargos comissionados serão fixados, obedecendo-se a
+uma diferença nunca excedente a dez por cento de um para o outro em seu
+escalonamento hierárquico, não podendo exceder ao valor da remuneração
+correspondente ao do Símbolo DNS-1.
 § 2º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 145-1, no dia 20 de junho de 2018, publicada
 no dia 10 de agosto de 2018, no DJE). 86
 § 3º Os atos de improbidade administrativa importarão na sus-
 pensão dos direitos políticos, na perda da função pública, na
+86
 Ver ADI n° 145-1 no Anexo II.
+87
 Arguida a inconstitucionalidade na redação dada pela Emenda Constitucional n° 21, de 14 de dezembro de 1995. Contudo, consi-
 derada prejudicada por decisão monocrática em 26 de junho de 1999. Publicada no DJE de 02 de agosto de 1999.
 Ver integralidade da decisão na ADI nº 1443-9 no Anexo II.
+88
 Arguida a inconstitucionalidade na redação dada pela Emenda Constitucional n° 21, de 14 de dezembro de 1995. Contudo, consi-
 derada prejudicada por decisão monocrática em 26 de junho de 1999. Publicada no DJ de 02 de agosto de 1999.
 Ver integralidade da decisão na ADI nº 1443-9 no Anexo I.
@@ -3212,9 +5455,11 @@ exclusivamente sobre o vencimento base ou soldo, dos servidores
 públicos da Administração Direta, das Autarquias e das Fundações
 Públicas, bem como de quaisquer categorias de agentes públicos
 do Estado do Ceará. 87
+(Inserido pela Emenda Constitucional nº 21, de 14 de dezembro de 1995).
 § 6º Excluem-se do limite máximo previsto no inciso IX, somente
 a Progressão Horizontal por Tempo de Serviço, o Salário-Família
 e o Adicional de Férias. 88
+(Inserido pela Emenda Constitucional nº 21, de 14 de dezembro de 1995).
 § 7º Os servidores ocupantes de cargos comissionados e funções
 de confiança dos Poderes Executivo, Legislativo e Judiciário do
 Ceará deverão enviar anualmente declaração de seus bens, dos
@@ -3222,6 +5467,74 @@ bens de seus cônjuges e dos descendentes até o primeiro grau ou
 por adoção, aos seus superiores, que adotarão as providências
 cabíveis em caso de suspeita de enriquecimento ilícito ou outras
 irregularidades.
+(Inserido pela Emenda Constitucional nº 49, de 04 de abril de 2002).
+§ 8º Os auditores e auditores-adjuntos da Secretaria da Fazenda do Estado
+do Ceará deverão enviar anualmente declaração de seus bens, dos bens de
+seus cônjuges e dos descendentes até o primeiro grau ou por adoção, aos
+seus superiores, que adotarão as providências cabíveis em caso de suspeita
+de enriquecimento ilícito ou outras irregularidades. (Inserido pela Emenda
+Constitucional nº 49, de 04 de abril de 2002).
+§ 8º (Revogado).
+(Revogado pela Emenda Constitucional nº 81, de 26 de agosto de 2014).
+§ 9º As declarações de bens a que se referem os §§ 7 º e 8º deverão ser publicadas no
+Diário Oficial do Estado e postas à disposição de qualquer interessado, mediante
+
+---
+
+§ 9º (Revogado).
+(Revogado pela Emenda Constitucional nº 81, de 26 de agosto de 2014).
+§ 10 . Nas hipóteses do inciso XIV deste artigo, quando se tratar de contratos
+temporários de professores, ocorrendo paralisações ou força maior, devidamente
+justificadas, que suspendam o calendário acadêmico ou escolar, impedindo o
+cumprimento da carga horária do semestre dentro do prazo de contratação, os
+respectivos Professores Substitutos poderão ter seus contratos prorrogados no
+limite necessário da reposição das aulas, sem criação de qualquer vínculo, e
+no caso dos temporários da área de defesa agropecuária os contratos poderão
+ser prorrogados por mais doze meses, contados do prazo final da primeira
+prorrogação. (Inserido pela Emenda Constitucional nº 60, de 08 de julho de 2008).
+§ 10 . Nas hipóteses do inciso XIV deste artigo, quando se tratar de contratos
+temporários de professores, ocorrendo paralisações ou força maior, devidamente
+justificadas, que suspendam o calendário acadêmico ou escolar, impedindo o
+cumprimento da carga horária do semestre dentro do prazo de contratação, os
+respectivos Professores Substitutos poderão ter seus contratos prorrogados no
+limite necessário da reposição das aulas, sem criação de qualquer vínculo, no
+caso dos temporários da área de defesa agropecuária os contratos poderão
+ser prorrogados por mais doze meses, contados do prazo final da primeira
+prorrogação, e nos demais casos, poderão ser prorrogados por mais cento e
+vinte dias contados do prazo final da primeira prorrogação, quando já autori-
+zada nova contratação temporária por lei específica ou quando já autorizado
+concurso público para provimento de cargo efetivo. (Redação dada pela Emenda
+Constitucional nº 78, de 17 de outubro de 2013).
+§ 10 . Nas hipóteses do inciso XIV deste artigo, quando se tratar de contratos
+temporários de professores, ocorrendo paralisações ou força maior, devidamente
+justificadas, que suspendam o calendário acadêmico ou escolar, impedindo o
+cumprimento da carga horária do semestre dentro do prazo de contratação,
+os respectivos Professores Substitutos poderão ter seus contratos prorrogados
+no limite necessário da reposição das aulas, sem criação de qualquer vínculo;
+no caso dos temporários da área de defesa agropecuária, bem como das de
+arquitetura, engenharia e cargos técnicos inerentes a essas áreas, os contratos
+poderão ser prorrogados por mais doze meses, contados do prazo final da
+primeira prorrogação; nos demais casos, poderão ser prorrogados por mais
+cento e vinte dias contados do prazo final da primeira prorrogação, quando
+já autorizada nova contratação temporária por lei específica ou quando já
+autorizado concurso público para provimento de cargo efetivo. (Redação dada
+pela Emenda Constitucional nº 86, de 16 de fevereiro de 2016).
+§ 10 . Nas hipóteses do inciso XIV deste artigo, quando se tratar de Contratos
+Temporários de Professores, ocorrendo paralisações ou força maior, devidamente
+justificadas, que suspendam o calendário acadêmico ou escolar, impedindo o
+cumprimento da carga horária do semestre dentro do prazo de contratação,
+os respectivos Professores Substitutos poderão ter seus contratos prorrogados
+no limite necessário da reposição das aulas, sem criação de qualquer vínculo;
+no caso dos temporários da área de defesa agropecuária, de arquitetura, de
+engenharia, de cargos técnicos inerentes a essas áreas, bem como de cargos
+cujo desempenho esteja relacionado a projetos estaduais de habitação e de
+desenvolvimento urbano, os contratos poderão ser prorrogados por mais 12
+(doze) meses, contados do prazo final da primeira prorrogação; nos demais
+casos, poderão ser prorrogados por mais 120 (cento e vinte) dias contados do
+prazo final da primeira prorrogação, quando já autorizada nova contratação
+temporária por lei específica ou quando já autorizado concurso público para
+provimento de cargo efetivo. (Redação dada pela Emenda Constitucional nº
+89, de 11 de maio de 2017).
 § 10 . Nas hipóteses do inciso XIV deste artigo, quando se tratar
 de Contratos Temporários de Professores, ocorrendo paralisa-
 ções ou força maior, devidamente justificadas, que suspendam
@@ -3240,6 +5553,7 @@ ser prorrogados por mais 120 (cento e vinte) dias, contados do
 prazo final da primeira prorrogação, quando já autorizada nova
 contratação temporária por lei específica ou quando já autorizado
 concurso público para provimento de cargo efetivo.”
+(Redação dada pela Emenda Constitucional nº 96, de 03 de outubro de 2019).
 § 11 . A não observância do disposto nos incisos II e III implicará
 a nulidade do ato e a punição da autoridade responsável, na
 forma da lei;
@@ -3265,6 +5579,14 @@ XXXIII da Constituição da República; e
 III – a disciplina da representação contra o exercício negligente ou
 abusivo de cargo, emprego ou função na administração pública.
 
+---
+
+§ 14. Fica vedada a nomeação ou a designação para cargos de provimento em
+comissão daqueles considerados inelegíveis, em razão de atos ilícitos nos termos
+da Lei Complementar de que trata o § 9º do art.14 da Constituição Federal, no
+âmbito da Administração direta e indireta dos Poderes Executivo, Judiciário e
+Legislativo do Estado do Ceará, incluídos os Tribunais de Contas e o Ministério
+Público. (Inserido pela Emenda Constitucional nº 74, de 19 de abril de 2012).
 § 14. Fica vedada a nomeação ou a designação para cargos de
 provimento em comissão daqueles considerados inelegíveis,
 em razão de atos ilícitos nos termos da Lei Complementar de
@@ -3272,8 +5594,16 @@ que trata o § 9º do art.14 da Constituição Federal, no âmbito da
 Administração direta e indireta dos Poderes Executivo, Judiciário
 e Legislativo do Estado do Ceará, incluídos o Tribunal de Contas
 do Estado do Ceará e o Ministério Público.
+(Substituída a expressão “os Tribunais de Contas” por “o Tribunal de Contas
 do Estado do Ceará” pela Emenda constitucional nº 92, Art. 14, de 16 de
 agosto de 2017).
+§ 15. É vedada, ainda, a nomeação direta para membros dos Tribunais de Contas,
+bem como para compor listas para efeitos de investidura e promoção no âmbito
+do Poder Executivo, Poder Judiciário e do Ministério Público, daqueles inelegíveis
+em razão de atos ilícitos, nos termos da Lei Complementar de que trata o § 9º
+do art.14 da Constituição Federal, integrando critérios inarredáveis na escolha
+e nomeação de autoridades nos casos previstos nesta Constituição. (Inserido
+pela Emenda Constitucional nº 74, de 19 de abril de 2012).
 § 15. É vedada, ainda, a nomeação direta para membros ao Tribunal
 de Contas do Estado do Ceará, bem como para compor listas para
 efeitos de investidura e promoção no âmbito do Poder Executivo,
@@ -3282,26 +5612,43 @@ razão de atos ilícitos, nos termos da Lei Complementar de que
 trata o § 9º do art.14 da Constituição Federal, integrando critérios
 inarredáveis na escolha e nomeação de autoridades nos casos
 previstos nesta Constituição.
+(Substituída a expressão “aos Tribunais de Contas” por “ao Tribunal de
 Contas do Estado do Ceará” pela Emenda constitucional nº 92, Art. 12, de
 16 de agosto de 2017).
 Art. 155. Fica assegurada a maiores de dezesseis anos a participação
 nos concursos públicos para ingresso nos serviços da administração
 direta e indireta.
+Art. 156. A lei estabelecerá as circunstâncias e exceções em que se aplicarão san-
+ções administrativas, inclusive a demissão ou destituição do servidor público que:
 Art. 156. (Declarado inconstitucional, em controle concentrado,
 pelo Supremo Tribunal Federal).
+89
 Ver ADI n° 749-1 no Anexo I.
+90
 Inciso com arguição de inconstitucionalidade na ADI nº 749-1, na qual o STF não se pronunciou quanto a ele, embora tenha julgado
 todos os outros dispositivos inconstitucionais.
+91
 Regulamentado pela Lei nº 11.755, de 14 de novembro de 1990, no Banco Eletrônico de Leis Temáticas (Belt) da Alece.
 (Revogado pela Emenda Constitucional nº 65, de 16 de setembro de 2009) .
+I – firmar ou mantiver contrato com pessoa jurídica de direito público, autarquia,
+empresa pública, sociedade de economia mista ou empresa concessionária
+de serviço público;
 I – (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 749-1, no dia 20 de março de 2003, publicada
 no dia 28 de março de 2003, no DJE).
 (Revogado pela Emenda Constitucional nº 65, de 16 de setembro de 2009) .
+II – for proprietário, controlador ou diretor de empresa que mantenha contrato
+com pessoa jurídica de direito público;
 II – (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 749-1, no dia 20 de março de 2003, publicada
 no dia 28 de março de 2003, no DJE).
 (Revogado pela Emenda Constitucional nº 65, de 16 de setembro de 2009) .
+III – patrocinar causa em que seja interessada qualquer das entidades a que
+se refere o inciso I. 90
+III – (revogado).
+
 Art. 157. Os órgãos que compõem a administração direta e indi-
 reta, autarquias, sociedades de economia mista e suas entidades
 vinculadas e as fundações, deverão reservar dez por cento do
@@ -3315,6 +5662,31 @@ sindicatos ou associações de usuários, prestarão, no prazo definido
 em lei, informações detalhadas sobre planos, projetos, investi-
 mentos, custos, desempenhos e demais aspectos pertinentes à
 sua execução, sob pena de responsabilidade. 91
+Art. 159. A publicidade dos atos, programas e obras, serviços e campanhas dos
+órgãos públicos deverá ter caráter educativo, informativo, ou de origem social,
+dela não podendo constar nomes, símbolos ou imagens que caracterizem
+
+---
+
+Art. 159. (Revogado).
+
+§ 1º A não observância dos preceitos deste artigo implicará na responsabili-
+dade civil, administrativa e política da autoridade e na vedação de manter a
+administração estadual, direta e indireta, quaisquer vínculos com entidade
+ou pessoa privada responsável pela produção publicitária ou veiculação das
+peças promocionais.
+§ 1º (Revogado).
+
+§ 2º Para garantir o cumprimento das normas deste artigo contra fórmulas indi-
+retas de promoção pessoal de autoridade ou servidores públicos, será vedado
+à administração direta ou indireta manter vínculos contratuais com pessoas ou
+entidades privadas, quando estas divulgarem, em qualquer veículo de comuni-
+cação de massa, a qualquer título, peças ou mensagem promocionais alusivas
+à ação pessoal de qualquer autoridade ou servidor público, identificadas por
+nomes, símbolos, referências pessoais, imagens ou qualquer outra indicação
+capaz de estabelecer ligação direta ou subliminar.
+§ 2º (Revogado).
+
 Art. 160. Qualquer cidadão, partido político, associação ou sindicato,
 na forma e prazo previstos em lei, poderá obter informações a res-
 peito da execução de contratos ou convênios firmados por órgãos
@@ -3337,6 +5709,7 @@ de cargos e funções, sem o que não será permitida a nomeação
 ou contratação de servidores.
 § 1º A despesa com pessoal ativo e inativo dos Poderes Estaduais,
 Ministério Público, fundos, órgãos e entidades da administração
+92
 Ver ADI n° 749-1 no Anexo II.
 indireta, mantidos pelo Poder Público, não poderá exceder os
 limites estabelecidos em lei complementar.
@@ -3353,8 +5726,11 @@ economia mista.
 § 3º As autarquias, empresas públicas, sociedade de economia
 mista e fundação terão quadro de lotação próprio, sendo vedada
 a nomeação ou contratação de pessoas sem a existência de vaga.
+§ 4º Será vedada contratação de serviços de terceiros para a realização de
+atividades que possam ser regularmente exercidas por servidores.
 § 4º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 749-1, no dia 20 de março de 2003, publicada
 no dia 28 de março de 2003, no DJE). 92
 
 Art. 162-A Os Poderes Legislativo, Executivo e Judiciário, os Tribunais de Contas
@@ -3373,10 +5749,13 @@ públicos e militares, ativos e inativos, e pensionistas, devendo
 a identificação ser por nome, sem abreviações, cargo efetivo ou
 função, cargo em comissão ou função gratificada, posto ou gra-
 duação, matrícula, órgão de lotação e de exercício.
+(Substituída a expressão “os Tribunais de Contas do Estado e dos Municípios”
 por “o Tribunal de Contas do Estado do Ceará” pela Emenda constitucional
 nº 92, de 16 de agosto de 2017).
 § 1° A obrigação imposta por este artigo abrange os servidores
 públicos dos Quadros permanentes e transitórios.
+
+---
 
 § 2° Nas relações mencionadas no caput deste artigo, deve ainda
 constar, separadamente, a identificação de todas as pessoas físicas
@@ -3387,19 +5766,43 @@ e de estagiários e bolsistas, devendo a identificação ser por nome,
 sem abreviações, função, atividade ou serviço prestado, matrícula,
 CPF, esse se inexistir matrícula, datas de início e término da função,
 atividade ou serviço prestado.
+(Inserido pela Emenda Constitucional nº 46, de 22 de novembro de 2001).
 § 3° O não cumprimento do disposto neste artigo configura lesão
 ao patrimônio público estadual, à moralidade e à publicidade
 administrativas.
+(Inserido pela Emenda Constitucional nº 46, de 22 de novembro de 2001).
+Art. 162-B. Os Poderes Legislativo, Executivo e Judiciário, os Tribunais de Contas
+do Estado e dos Municípios, o Ministério Público, as Autarquias e as Fundações
+Públicas do Estado do Ceará publicarão, dentro do ano civil, no Diário Oficial
+do Estado, os valores dos subsídios e da remuneração dos cargos e empregos
+públicos, na forma do § 6° do art. 39 da Constituição Federal. (Inserido pela
+Emenda Constitucional nº 46, de 22 de novembro de 2001).
+Art. 162-B. Os Poderes Legislativo, Executivo e Judiciário, os Tribunais de Contas
+do Estado e dos Municípios, o Ministério Público, as Autarquias e as Fundações
+Públicas do Estado do Ceará publicarão, dentro do ano civil, no Diário Oficial do
+Estado, os valores dos subsídios e da remuneração dos cargos e empregos públicos.
+
 Art. 162-B. Os Poderes Legislativo, Executivo e Judiciário, o Tribunal
 de Contas do Estado do Ceará, o Ministério Público, as Autarquias
 e as Fundações Públicas do Estado do Ceará publicarão, dentro do
 ano civil, no Diário Oficial do Estado, os valores dos subsídios e da
 remuneração dos cargos e empregos públicos.
+(Substituída a expressão “os Tribunais de Contas do Estado e dos Municípios”
 por “o Tribunal de Contas do Estado do Ceará” pela Emenda constitucional
 nº 92, de 16 de agosto de 2017).
 Parágrafo único . O não cumprimento do disposto neste artigo
 configura lesão ao patrimônio público estadual, à moralidade e
 à publicidade administrativas.
+(Inserido pela Emenda Constitucional nº 46, de 22 de novembro de 2001).
+Art. 162-C. Os Poderes Legislativo, Executivo e Judiciário, os Tribunais de Contas
+do Estado e dos Municípios, o Ministério Público, as Autarquias e as Fundações
+Públicas do Estado do Ceará publicarão, dentro do ano civil, no Diário Oficial
+do Estado, os valores gastos, em cada um dos doze meses anteriores ao mês
+de publicação, com o pagamento dos servidores públicos e militares, ativos e
+inativos, e pensionistas, e com o pagamento das pessoas físicas que, no mesmo
+período, prestaram serviços de natureza eventual ou permanente aos Poderes
+e órgãos do Estado do Ceará, e que por eles foram diretamente remunerados.
+(Inserido pela Emenda Constitucional nº 46, de 22 de novembro de 2001).
 Art. 162-C. Os Poderes Legislativo, Executivo e Judiciário, o Tribunal
 de Contas do Estado do Ceará, o Ministério Público, as Autarquias
 e as Fundações Públicas do Estado do Ceará publicarão, dentro do
@@ -3410,11 +5813,13 @@ e pensionistas, e com o pagamento das pessoas físicas que, no
 mesmo período, prestaram serviços de natureza eventual ou
 permanente aos Poderes e órgãos do Estado do Ceará, e que por
 eles foram diretamente remunerados.
+(Substituída a expressão “os Tribunais de Contas do Estado e dos Municípios”
 por “o Tribunal de Contas do Estado do Ceará” pela Emenda constitucional
 nº 92, de 16 de agosto de 2017).
 Parágrafo único . O não cumprimento do disposto neste artigo
 configura lesão ao patrimônio público estadual, à moralidade e
 à publicidade administrativas.
+(Inserido pela Emenda Constitucional nº 46, de 22 de novembro de 2001).
 Art. 163. O Estado responsabilizará os seus servidores por alcance e
 outros danos causados à administração, ou por pagamentos efetua-
 dos em desacordo com as normas legais, sujeitando-os ao sequestro
@@ -3422,9 +5827,21 @@ e perdimento de bens, nos termos da legislação pertinente.
 Art. 164. É gratuita, para os reconhecidamente pobres, na forma da
 lei, além dos atos previstos no art. 5º, inciso LXXVI, da Constituição
 Federal, a expedição de cédula de identidade individual.
+Art. 165. Os deficientes físicos sensoriais ou não, que ingressarem no serviço
+público, aposentar-se-ão integral e optativamente por tempo de serviço, após
+vinte e cinco anos, caso não sobrevenha doença correlata ou agravante.
+Art. 165. Os servidores públicos deficientes físico-sensoriais, ou não, farão jus
+a aposentadoria na mesma forma estabelecida para os demais servidores.
+(Redação dada pela Emenda Constitucional nº 39, de 05 de maio de 1999).
+Art. 165. (Revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+
 #### Seção II
 
 Dos Servidores Públicos Civis
+Art. 166. O Estado, no âmbito de sua competência, instituirá regime único e
+planos de carreira para os servidores da administração pública direta, das
+autarquias e das fundações.
 Art. 166. Os servidores da administração pública direta, das autar-
 quias e das fundações públicas estarão sujeitos a regime jurídico
 de direito público administrativo, instituído em lei, a qual também
@@ -3434,11 +5851,15 @@ instituirá planos de carreira.
 das autarquias e das fundações , isonomia de vencimentos para
 cargos de atribuições iguais ou assemelhadas do mesmo Poder ou
 
+---
+
 entre servidores dos Poderes Executivo, Legislativo e Judiciário,
 ressalvadas as vantagens de caráter individual e as relativas à
 natureza ou ao local de trabalho . 93
 ( Trecho declarado inconstitucional por decisão do STF, proferida na ADI nº 145-1,
 no dia 20 de junho de 2018, publicada no dia 10 de agosto de 2018, no DJE).
+§ 2º Aplica-se a esses servidores o disposto no art. 7º, IV, VI, VII, VIII, IX, XII, XIII, XV,
+XVI, XVII, XVIII, XIX, XX, XXII, XXIII e XXX da Constituição da República.
 § 2º A fixação dos padrões de vencimento e dos demais compo-
 nentes do sistema remuneratório observará:
 
@@ -3469,6 +5890,7 @@ no art. 37, incisos X e XI da Constituição Federal.
 § 6º A remuneração dos servidores públicos organizados em carreira
 poderá ser fixada nos termos do parágrafo anterior.
 
+93
 Além da ADI, ocorreu a não recepção da parte remanescente do § 1º do art. 166, em face da Emenda Constitucional Federal
 nº 19/1998, incidindo, na espécie, a vedação de vinculação ou equiparação de quaisquer espécies remuneratórias para efeitos de
 remuneração de pessoal do serviço público, prevista no art. 37, XIII, da Constituição Federal. Julgado em 20/06/2018 e publicado
@@ -3508,24 +5930,170 @@ entidades para os quais contribuem, a ser regulamentada por lei;
 X – direito de reunião em locais de trabalho, desde que não exista
 comprometimento de atividades funcionais regulares;
 
+---
+
+XII – licença especial de três meses, após a implementação de cada cinco anos
+de efetivo exercício;
 XII – (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 145-1, no dia 20 de junho de 2018, publicada
 no dia 10 de agosto de 2018, no DJE). 94
+XIII – servidor que contar tempo igual ou superior ao fixado para aposentadoria
+voluntária terá provento calculado no nível de carreira ou cargo de acesso,
+imediatamente superior, dentro do quadro a que pertencer;
 XIII – (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 145-1, no dia 20 de junho de 2018, publicada
 no dia 10 de agosto de 2018, no DJE). 95
 XIV – a gratificação natalina dos aposentados e pensionistas terá
 por base o valor dos proventos do mês de dezembro de cada ano.
+§ 1º O servidor que contar tempo de serviço igual ou superior ao fixado para
+aposentadoria voluntária com proventos integrais, ou aos setenta anos de
+idade, aposentar-se-á com as vantagens do cargo em comissão em cujo exercício
+se encontrar, desde que o haja ocupado, durante cinco anos ininterruptos, ou
+que o tenha incorporado.
 § 1º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 145-1, no dia 20 de junho de 2018, publicada
 no dia 10 de agosto de 2018, no DJE). 96
+§ 2º O servidor, ao aposentar-se, terá o direito de perceber na inatividade, como
+provento básico, o valor pecuniário correspondente ao padrão de vencimento
+imediatamente superior ao da sua classe funcional, e, se já ocupara o último
+escalão, fará jus à gratificação adicional de vinte por cento sobre a sua remu-
+neração, estendendo-se o benefício aos que já se encontram na inatividade.
 § 2º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 145-1, no dia 20 de junho de 2018, publicada
 no dia 10 de agosto de 2018, no DJE). 97
+Art. 168. O servidor será aposentado:
+Art. 168. Os servidores abrangidos pelo regime de previdência de que trata o art.
+330, caput, desta Constituição serão aposentados, calculados os seus proventos
+a partir dos valores fixados na forma dos §§ 3° e 6° deste artigo. (Redação dada
+pela Emenda Constitucional n° 56, de 07 de janeiro de 2004).
+94
+Ver ADI n° 145-1 no Anexo II.
+95
+Ver ADI n° 145-1 no Anexo II.
+96
+Ver ADI n° 145-1 no Anexo II.
+97
+Ver ADI n° 145-1 no Anexo II.
 Art. 168. Os servidores abrangidos pelo regime próprio de previ-
 dência social de que trata o art. 330, caput, desta Constituição
 serão aposentados e deixarão pensão aos seus dependentes, na
 forma do art. 40 da Constituição Federal.
+(Redação dada pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+I – por invalidez permanente, sendo os proventos integrais, quando decorrentes
+de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou
+incurável, especificadas em lei, e proporcionais nos demais casos;
+I – por invalidez permanente, sendo os proventos proporcionais ao tempo de
+contribuição, exceto se decorrente de acidente em serviço, moléstia profissional
+ou doença grave, contagiosa ou incurável, na forma da Lei; (Redação dada pela
+Emenda Constitucional n° 56, de 7 de janeiro de 2004).
+I – (revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+II – compulsoriamente, aos setenta anos de idade, com proventos proporcionais
+ao tempo de serviço;
+II – compulsoriamente, aos setenta anos de idade, com proventos proporcionais
+ao tempo de contribuição; (Redação dada pela Emenda Constitucional n° 56,
+de 07 de janeiro de 2004).
+II – (revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+III – voluntariamente, desde que cumprido o tempo mínimo de dez anos de
+efetivo exercício no serviço público e cinco anos no cargo efetivo em que se
+dará a aposentadoria, observadas as seguintes condições:
+III - (revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+a) sessenta anos de idade e trinta e cinco de contribuição, se homem, e cinquenta
+e cinco anos de idade e trinta de contribuição, se mulher; e
+a) (revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+b) sessenta e cinco anos de idade, se homem, e sessenta anos de idade, se mulher,
+com proventos proporcionais ao tempo de contribuição. (Redação dada pela
+Emenda Constitucional n° 56, de 07 de janeiro de 2004).
+b) (revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+§ 1 º Lei complementar poderá estabelecer exceções ao disposto no inciso III
+a e c, no caso de exercício de atividades consideradas penosas, insalubres ou
+perigosas, na forma do que dispuser a respeito a legislação federal.
+
+---
+
+alíneas a e b, no caso de exercício de atividades consideradas penosas, insalubres
+ou perigosas, na forma do que dispuser a Legislação Federal. (Redação dada
+pela Emenda Constitucional n° 56, de 07 de janeiro de 2004).
+§ 1° (Revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+§ 2º A lei disporá sobre a aposentadoria em cargos ou funções temporárias.
+§ 2° O tempo de contribuição Federal, Estadual ou Municipal será contado para
+efeito de aposentadoria e o tempo de serviço correspondente para efeito de
+disponibilidade, vedada qualquer forma de contagem de tempo de contribuição
+fictício. (Redação dada pela Emenda Constitucional n° 56, de 07 de janeiro de 2004).
+§ 2° (Revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+§ 3º O tempo de serviço público federal, estadual ou municipal será computado
+integralmente para os efeitos de aposentadoria e disponibilidade.
+§ 3° Para o cálculo dos proventos de aposentadoria, por ocasião da sua concessão,
+serão consideradas as remunerações utilizadas como base para as contribuições
+do servidor aos regimes de previdência de que tratam este artigo e o art. 201 ,
+da Constituição Federal, na forma da Lei. (Redação dada pela Emenda Consti-
+tucional n° 56, de 07 de janeiro de 2004).
+§ 3° (Revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+§ 4° Esta Lei disporá sobre a concessão do benefício de pensão por morte, que
+será igual:
+§ 4° (Revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+I - ao valor da totalidade dos proventos do servidor falecido, até o limite máximo
+estabelecido para os benefícios do regime geral de previdência social, acrescido
+de setenta por cento da parcela excedente a este limite, caso aposentado à
+data do óbito; ou
+I – (revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+II - ao valor da totalidade da remuneração do servidor no cargo efetivo em que
+se deu o falecimento, até o limite máximo estabelecido para os benefícios do
+regime geral de previdência social, acrescido de setenta por cento da parcela
+excedente a este limite, caso em atividade na data do óbito. (Redação dada
+pela Emenda Constitucional n° 56, de 07 de janeiro de 2004).
+II – (revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+§ 4º Os proventos da aposentadoria serão revistos, na mesma proporção e
+na mesma data, sempre que se modificar a remuneração dos servidores em
+98
+Havia uma suspensão por medida cautelar deferida pelo STF na ADI nº 145-1. Em 2018, no julgamento de mérito, o STF declarou a
+prejudicialidade em relação a esse dispositivo pelo motivo de ter havido a sua revogação em 2015. Além desse, havia também uma
+arguição na ADI n° 702-5, que foi julgada prejudicada pelo Supremo. Ver íntegra das ADIs. n° 145-1 e 702-5 no Anexo II.
+inclusive quando decorrentes da transformação ou reclassificação do cargo ou
+função em que se deu a aposentadoria, na forma da lei.
+§ 4° (Revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+§ 5º O benefício da pensão por morte corresponderá à totalidade de vencimentos
+ou proventos do servidor falecido, na forma do disposto no parágrafo anterior.
+§ 5° É assegurado o reajustamento dos benefícios para preservar-lhes, em
+caráter permanente, o valor real, conforme critérios estabelecidos em Lei. 98
+(Redação dada pela Emenda Constitucional n° 56, de 07 de janeiro de 2004).
+§ 5° (Revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+§ 6° Todos os valores de remuneração considerados para o cálculo do benefício
+previsto no § 3° serão devidamente atualizados, na forma da Lei. (Inserido pela
+Emenda Constitucional n° 56, de 07 de janeiro de 2004).
+§ 6° (Revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+§ 7° Incidirá contribuição previdenciária sobre os proventos e pensões concedidas
+pelo regime de que trata este artigo, que superem o limite máximo estabelecido
+para os benefícios do regime geral de previdência social, com percentual igual
+ao estabelecido para os servidores titulares de cargos efetivos. (Inserido pela
+Emenda Constitucional n° 56, de 07 de janeiro de 2004).
+§ 7° (Revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+§ 8° O servidor de que trata este artigo que tenha completado as exigências para
+a aposentadoria voluntária estabelecidas no inciso III, alínea a, deste artigo, e
+que opte por permanecer em atividade fará jus a um abono de permanência
+equivalente ao valor de sua contribuição previdênciária até completar as
+exigências para aposentadoria compulsória. (Inserido pela Emenda Constitu-
+cional n° 56, de 07 de janeiro de 2004).
+§ 8° (Revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
 Art. 169. O servidor público do Estado quando investido nas fun-
 ções de direção máxima de entidade representativa de classe ou
 conselheiro de entidade de fiscalização do exercício das profissões
@@ -3537,6 +6105,8 @@ ou sem direito à percepção dos vencimentos, é assegurado o direito de contar
 período de exercício das funções das entidades referidas no caput deste artigo,
 ocorrido durante o afastamento, como efetivo exercício do cargo.
 
+---
+
 de exercício das funções das entidades referidas no caput deste artigo, ocorrido
 durante o afastamento, como efetivo exercício do cargo. (Renumerado pela
 Emenda Constitucional nº 44, de 28 de dezembro de 2000).
@@ -3544,6 +6114,13 @@ Emenda Constitucional nº 44, de 28 de dezembro de 2000).
 titular, fica assegurado o direito de contar o período de exercício
 das funções das entidades referidas no caput deste artigo, ocorrido
 durante o afastamento, como efetivo exercício do cargo.
+(Redação dada pela Emenda Constitucional nº 72, de 01 de dezembro de 2011).
+§ 2º Sendo a direção máxima da entidade representativa de classe exercida por
+colegiado, a garantia prevista no caput deste artigo será exercido no mínimo
+por 02 de seus membros, acrescido de mais 01 representante por cada 1000
+servidores em atividade, não podendo ultrapassar a 05 membros, devidamente
+indicados, permitindo o rodízio periódico ou substituição da indicação. (Inserido
+pela Emenda Constitucional nº 44, de 28 de dezembro de 2000).
 § 2º Sendo a direção máxima da entidade representativa de classe,
 associação ou sindicato, exercida de forma presidencialista ou
 colegiada, a garantia prevista no caput deste artigo será exercida
@@ -3553,6 +6130,7 @@ cada 750 (setecentos e cinquenta) servidores em atividade, não
 podendo ultrapassar a 3 (três) membros para a associação e a 6
 (seis) membros para o sindicato, devidamente indicados, permitindo
 o rodízio periódico ou substituição da indicação.
+(Redação dada pela Emenda Constitucional nº 72, de 01 de dezembro de 2011).
 Art. 170. As empresas, fundações, autarquias e sociedades de
 economia mista, que integram a organização estadual, terão
 conselho representativo, constituído por servidores das respectivas
@@ -3560,11 +6138,17 @@ entidades, e por esses escolhidos em votação direta e secreta.
 Art. 171. A lei concederá tratamento remuneratório isônomo aos
 membros titulares de conselhos integrantes da administração
 direta estadual.
+Art. 172. São estáveis, após dois anos de efetivo exercício, os servidores nomeados
+em virtude de concurso público.
 Art. 172. São estáveis, após três anos de efetivo exercício, os ser-
 vidores estaduais nomeados para o cargo de provimento efetivo
 em virtude de concurso público.
 
+§ 1º O servidor público estável só perderá o cargo em virtude de
+sentença judicial transitada em julgado, ou mediante processo
+administrativo disciplinar em que lhe seja assegurada ampla defesa.
 § 1º O servidor público estável só perderá o cargo:
+
 
 II – mediante processo administrativo disciplinar em que lhe seja
 assegurada ampla defesa; e
@@ -3572,12 +6156,19 @@ assegurada ampla defesa; e
 III – mediante procedimento de avaliação periódica de desempe-
 nho, na forma de lei complementar, assegurada ampla defesa.
 
+§ 2º Invalidada por sentença judicial a demissão de servidor estável, será ele
+reintegrado, e o eventual ocupante da vaga reconduzido ao cargo de origem, sem
+direito a indenização, aproveitado em outro cargo ou posto em disponibilidade.
 § 2º Invalidada por sentença judicial a demissão de servidor estável,
 será ele reintegrado, e o eventual ocupante da vaga reconduzido ao
 cargo de origem, sem direito a indenização, aproveitado em outro
 cargo ou posto em disponibilidade com remuneração proporcional
 ao tempo de serviço.
 
+§ 3º Extinto o cargo ou a função temporária ou declarada sua desnecessidade,
+o servidor ou o funcionário estável ficará em disponibilidade remunerada em
+proporção ao tempo de serviço, até seu adequado aproveitamento em outro
+cargo ou função.
 § 3º Extinto o cargo ou declarada sua desnecessidade, o servidor
 estável ficará em disponibilidade, com remuneração proporcio-
 nal ao tempo de serviço, até seu adequado aproveitamento em
@@ -3587,17 +6178,30 @@ outro cargo.
 a avaliação especial de desempenho por comissão instituída
 para essa finalidade.
 
+Art. 173. A lei fixará os vencimentos dos servidores públicos, sendo vedada a
+concessão de gratificação, adicionais ou quaisquer vantagens pecuniárias por
+decreto ou por qualquer ato administrativo.
 Art. 173. Somente por lei específica poderão ser fixados subsídios,
 vencimentos, gratificações, adicionais ou quaisquer outras van-
 tagens pecuniárias dos servidores públicos.
 
+Art. 174. Os escrivães de entrância especial terão seus vencimentos fixados de
+modo que não excedam a oitenta por cento do que for atribuído aos juízes da
+entrância inferior, aplicando-se o mesmo limite percentual para os escrivães
+das demais entrâncias.
 Art. 174. (Declarado inconstitucional, em controle concentrado,
 pelo Supremo Tribunal Federal).
 
+---
+
+Art. 175. Ao servidor público em exercício de mandato eletivo aplicam-se as
+seguintes disposições:
 Art. 175. Ao servidor público da administração direta, autárquica
 e fundacional, no exercício de mandato eletivo aplicam-se as
 seguintes disposições:
 
+I – tratando-se de mandato eletivo federal ou estadual, ficará afastado de seu
+cargo, emprego ou função;
 I – tratando-se de mandato eletivo federal, estadual ou distrital,
 ficará afastado de seu cargo, emprego ou função;
 
@@ -3627,6 +6231,7 @@ sendo-lhes privativos os títulos, postos e uniformes militares.
 beiros são conferidas pelo Governador do Estado.
 § 3º O militar em atividade que aceitar cargo público civil perma-
 nente será transferido para a reserva.
+99
 Ver ADI n° 145-1 no Anexo II.
 100 Dispositivo questionado na ADI nº 145-1. Contudo, o dispositivo teve prejudicada sua análise pelo STF devido à revogação ocorrida
 pela EC nº 65/2009. Publicada no DJE e no DOU 25/06/2018. Ver ADI nº 145-1 no Anexo II.
@@ -3653,6 +6258,10 @@ incompatível, por decisão do Tribunal de Justiça.
 § 9º O oficial judicialmente condenado à pena privativa de liber-
 dade superior a dois anos, por sentença transitada em julgado,
 será submetido ao julgamento previsto no parágrafo anterior.
+§ 10 Os direitos, deveres e prerrogativas dos servidores militares do Estado, em
+serviço ativo ou na inatividade, constarão em leis ou regulamentos, não lhes
+podendo ser atribuída remuneração inferior à correspondente, em igualdade
+de posto ou graduação, ao pessoal do Exército. 100
 § 10 . Os direitos, deveres e prerrogativas dos servidores militares
 do Estado, em serviço ativo ou na inatividade, constarão em leis
 ou regulamentos.
@@ -3664,6 +6273,8 @@ promoção do militar no seio da corporação.
 dade superior a dois anos, por sentença transitada em julgado, só
 perderá a graduação por decisão do Tribunal de Justiça.
 
+---
+
 § 13 Aos servidores militares ficam assegurados todos os direitos
 garantidos, nesta Constituição, aos servidores civis, ressalvados aque-
 les, cuja extensão aos militares colida com a Constituição Federal.
@@ -3673,6 +6284,7 @@ cometidas por servidores militares envolvidos em movimentos
 ilegítimos ou antijurídicos de paralisação, motim, revolta ou outros
 crimes de natureza militar que atentem contra a autoridade ou
 a disciplina militar.
+(Inserido pela Emenda Constitucional nº 99, de 03 de março de 2020).
 § 15 . A comprovada participação de militares em ilegítimo movi-
 mento paredista ou motim, ocasionando a paralisação parcial
 ou total das respectivas atividades, em fundado prejuízo à con-
@@ -3680,28 +6292,55 @@ tinuidade dos serviços de segurança pública, implica a vedação
 à tramitação legislativa de qualquer mensagem ou proposição
 que visem a conceder aumento remuneratório ou até mesmo
 vantagens funcionais para a categoria.
+(Inserido pela Emenda Constitucional nº 99, de 03 de março de 2020).
 § 16. A vedação a que se refere o § 15 deste artigo inicia-se com
 a deflagração do movimento ilegítimo, perdurando pelo prazo
 de até 6 (seis) meses após o total e pleno restabelecimento da
 ordem, assim reconhecido em ato expedido pela Mesa Diretora
 da Assembleia Legislativa do Estado.
+(Inserido pela Emenda Constitucional nº 99, de 03 de março de 2020).
+Art. 177. O soldado, cabo e sargento, da Polícia Militar e do Corpo de Bombeiros,
+que tenham o segundo grau completo ou equivalente, com limite de trinta anos
+de idade, poderão submeter-se à seleção de formação de oficiais.
 Art. 177. (Declarado inconstitucional, em controle concentrado,
 pelo Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 749-1, no dia 20 de março de 2003, publicada
 no dia 28 de março de 2003, no DJE). 101
 (Revogado pela Emenda Constitucional nº 65, de 16 de setembro de 2009) .
+§ 1º O subtenente policial militar ou bombeiro militar, possuidor de diploma de
+conclusão de curso de aperfeiçoamento de sargento, equivalente ao segundo
+grau, ao contar trinta anos ou mais de serviço, classificado com bom comporta-
+mento, não respondendo a inquérito ou processo, ou cumprindo pena, poderá
+ser transferido para a reserva, e, ao requerer, ser promovido a segundo-tenente.
 § 1º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 749-1, no dia 20 de março de 2003, publicada
 no dia 28 de março de 2003, no DJE). 102
 101 Ver ADI n° 749-1 no Anexo II.
 102 Ver ADI n° 749-1 no Anexo II.
 103 Ver ADI n° 749-1 no Anexo II.
 104 Ver ADI n° 749-1 no Anexo II.
+§ 2º O subtenente policial militar ou bombeiro militar, possuidor de diploma
+de conclusão de curso de aperfeiçoamento de sargento, com segundo grau
+completo ou equivalente, classificado no mínimo com bom comportamento,
+não respondendo a inquérito ou processo, como também não cumprindo pena,
+será promovido a segundo-tenente do Quadro de Oficial Auxiliar, de acordo com
+as vagas existentes, obedecendo ao princípio de antiguidade, concorrendo às
+promoções até o posto de capitão, com o limite até cinquenta e três anos de
+idade, onze meses e vinte e nove dias.
 § 2º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 749-1, no dia 20 de março de 2003, publicada
 no dia 28 de março de 2003, no DJE). 103
 (Revogado pela Emenda Constitucional nº 65, de 16 de setembro de 2009) .
+§ 3º O militar estadual com tempo de serviço mínimo exigido para permanecer
+em atividade e que tenha estado por três ou mais anos no penúltimo grau hie-
+rárquico do seu quadro e já figurado em quadro de acesso à última promoção,
+mediante requerimento, será promovido, independente de vaga, ao posto ou
+graduação superior, com simultânea transferência para a reserva remunerada.
 § 3º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 749-1, no dia 20 de março de 2003, publicada
 no dia 28 de março de 2003, no DJE). 104
 (Revogado pela Emenda Constitucional nº 65, de 16 de setembro de 2009) .
 
@@ -3709,23 +6348,48 @@ no dia 28 de março de 2003, no DJE). 104
 
 DA SEGURANÇA PÚBLICA E DA DEFESA CIVIL
 DA SEGURANÇA PÚBLICA, PENITENCIÁRIA E DEFESA CIVIL
+(Redação dada pela Emenda constitucional nº 101, de 13 de agosto de 2020).
 
 #### Seção I
 
 Disposições Gerais
+Art. 178. A segurança pública e a defesa civil são cumpridas pelo Estado do Ceará
+para proveito geral, com responsabilidade cívica de todos na preservação da
+ordem coletiva, e com direito que a cada pessoa assiste de receber legítima
+proteção para sua incolumidade e socorro, em casos de infortúnio ou de cala-
+midade, e garantia ao patrimônio público ou privado e à tranquilidade geral
+da sociedade, mediante sistema assim constituído:
 Art. 178. A segurança pública, penitenciária e a defesa civil são
 cumpridas pelo Estado do Ceará para proveito geral, com a respon-
 sabilidade cívica de todos na preservação da ordem coletiva, e com
+
+---
 
 direito que a cada pessoa assiste receber legítima proteção para
 sua incolumidade e socorro, em caso de infortúnio e calamidade, e
 garantia ao patrimônio público ou privado e à tranquilidade geral
 da sociedade, mediante sistema assim constituído:
+(Redação dada pela Emenda constitucional nº 101, de 13 de agosto de 2020).
+I – Polícia Civil; e
 I – Polícia Civil;
+(Redação dada pela Emenda constitucional nº 101, de 13 de agosto de 2020).
 II – Organizações Militares:
+II – Organizações Militares:
+(Redação dada pela Emenda constitucional nº 101, de 13 de agosto de 2020).
+a) Polícia Militar; e
 a) Polícia Militar;
+(Redação dada pela Emenda constitucional nº 101, de 13 de agosto de 2020).
+b) Corpo de Bombeiros.
 b) Corpo de Bombeiros;
+(Redação dada pela Emenda constitucional nº 101, de 13 de agosto de 2020).
 III – Polícia Penal.
+(Inserido pela Emenda constitucional nº 101, de 13 de agosto de 2020).
+Parágrafo único . Todos os órgãos que integram o sistema de segurança pública
+e defesa civil estão identificados pelo comum objetivo de proteger a pessoa
+humana e combater os atos atentatórios aos seus direitos, adotando as medidas
+legais adequadas à contenção de danos físicos e patrimoniais, velando pela
+paz social, prestando recíproca colaboração à salvaguarda dos postulados do
+Estado Democrático de Direito.
 Parágrafo único . Todos os órgãos que integram o sistema de segurança pública,
 penitenciária e a defesa civil estão identificados pelo comum objetivo de
 proteger a pessoa humana, e combater os atos atentatórios aos seus direitos,
@@ -3750,12 +6414,18 @@ Estado, sendo dirigida pelo Perito-Geral da Perícia Forense, de livre
 nomeação e exoneração do Governador do Estado, e garantida a
 sua autonomia administrativa e financeira, inclusive mediante
 dotação orçamentária própria.
+(Inserido pela Emenda constitucional nº 115, de 05 de maio de 2022).
 Art. 179. A atividade policial é submetida ao controle externo do
 Ministério Público, deste devendo atender às notificações, requisições
 de diligências investigatórias e instauração de inquéritos, em estrita
 observância dos disciplinamentos constitucionais e processuais.
 Art. 180. O Conselho de Segurança Pública é órgão com funções
 consultivas e fiscalizadoras da política de segurança pública.
+§ 1º A lei disporá sobre a estrutura, composição e competência do Conselho,
+garantida a representação de membros indicados pela Polícia Civil, Militar,
+Corpo de Bombeiros, pelo Ministério Público, pela Defensoria Pública, pela
+Ordem dos Advogados do Brasil Secção do Ceará e entidades representativas
+da sociedade civil, dedicadas à preservação da dignidade da pessoa humana. 105
 § 1. º A lei disporá sobre a estrutura, composição e competência
 do Conselho, garantida a representação de membros indicados
 pela Polícia Civil, pelo Corpo de Bombeiros, pela Polícia Penal,
@@ -3763,6 +6433,7 @@ pelo Ministério Público, pela Defensoria Pública, pela Ordem dos
 Advogados do Brasil - Secção do Ceará e pelas entidades represen-
 tativas da sociedade civil, dedicadas à preservação da dignidade
 da pessoa humana.
+(Redação dada pela Emenda constitucional nº 101, de 13 de agosto de 2020).
 § 2º O Conselho gozará de autonomia administrativa e financeira,
 com quadro próprio de pessoal e dotações orçamentárias que lhe
 sejam diretamente vinculadas.
@@ -3774,11 +6445,15 @@ de apurar a responsabilidade disciplinar e aplicar as sanções
 cabíveis, aos militares da Polícia Militar, militares do Corpo de
 Bombeiro Militar, membros das carreiras de Polícia Judiciária, e
 membros da carreira de Segurança Penitenciária.
+(Inserido pela Emenda Constitucional nº 70, de 18 de janeiro de 2011).
 Parágrafo único . O titular do Órgão previsto no caput deste artigo
 é considerado Secretário de Estado.
+(Inserido pela Emenda Constitucional nº 70, de 18 de janeiro de 2011).
 Art. 181. Fica criado o Conselho Estadual de Defesa da Pessoa
 Humana, constituído exclusivamente por representantes da comu-
 nidade, com a incumbência de apurar violação a direitos humanos
+
+---
 
 em todo o território cearense para posterior encaminhamento ao
 Ministério Público, a fim de que seja promovida a responsabilidade
@@ -3797,12 +6472,23 @@ fixadas em lei complementar federal.
 #### Seção II
 
 Da Polícia Civil
+Art. 183. Polícia Civil, instituição permanente orientada com base na hierarquia
+e na disciplina, com direta subordinação ao Governador do Estado, é organizada
+em carreira, sendo os órgãos que a integram dirigidos por delegados, exceto
+os órgãos da área técnico-científica e de magistério da Polícia Civil que serão
+dirigidos, privativamente, por profissionais da respectiva área, subordinados
+diretamente ao Secretário de Segurança.
+Art. 183. A Polícia Civil, instituição permanente orientada com base na hierarquia
+e disciplina, subordinada ao Governador do Estado, é organizada em carreira,
+sendo os órgãos de sua atividade fim dirigidos por delegados. (Redação dada
+pela Emenda Constitucional nº 28, de 30 de abril 1997).
 Art. 183. A Polícia Civil, instituição permanente orientada com
 base na hierarquia e disciplina, subordinada ao Governador do
 Estado do Ceará, é organizada em carreira, sendo os órgãos de
 sua atividade-fim dirigidos por delegados, cujo cargo integra, para
 todos os fins, inclusive de limites remuneratórios, as carreiras
 jurídicas do Estado.
+(Redação dada pela Emenda Constitucional n° 91, de 06 de junho de 2017).
 Parágrafo único . A Chefia da Polícia Civil é privativa de delegado de carreira
 em efetivo exercício, de livre escolha do Governador do Estado, com nível
 equivalente a Secretário de Estado. 108
@@ -3821,29 +6507,49 @@ descendentes até o primeiro grau ou por adoção, à Superintendên-
 cia de Polícia Civil e à Corregedoria Geral dos Órgãos de Segurança
 Pública, que adotarão as providências cabíveis em caso de suspeita
 de enriquecimento ilícito ou outras irregularidades.
+(Inserido pela Emenda Constitucional nº 49, de 04 de abril de 2002).
 § 3º As declarações de bens a que se refere o parágrafo anterior
 deverão ser publicadas no Diário Oficial do Estado e postas à
 disposição de qualquer interessado, mediante requerimento
 devidamente justificado.
+(Inserido pela Emenda Constitucional nº 49, de 04 de abril de 2002).
 Art. 184. Compete à Polícia Civil exercer com exclusividade as
 funções de polícia judiciária e a apuração de infrações penais,
 exceto militares, realizando as investigações por sua própria
 iniciativa, ou mediante requisições emanadas das autoridades
 judiciárias ou do Ministério Público.
+§ 1º Os delegados de polícia de classe inicial percebem idêntica remuneração
+aos promotores de primeira entrância, prosseguindo na equivalência entre as
+demais classes pelo escalonamento das entrâncias judiciárias.
 § 1º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 145-1, no dia 20 de junho de 2018, publicada
 no dia 10 de agosto de 2018, no DJE) . 109
+§ 2º Os integrantes das carreiras policiais civis são mantidos em regime de
+uniformidade de remuneração para os cargos de equivalentes níveis nos cursos
+especializados das diferentes carreiras das áreas profissionais que as integram.
 § 2º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 145-1, no dia 20 de junho de 2018, publicada
 no dia 10 de agosto de 2018, no DJE) . 110
+§ 3º Os vencimentos dos integrantes das carreiras policiais civis serão fixados com
+diferença não superior a dez por cento de uma para outra das classes da carreira.
 § 3º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 145-1, no dia 20 de junho de 2018, publicada
 no dia 10 de agosto de 2018, no DJE). 111
 
+---
+
+Art. 185. Para garantia do direito constitucional de atendimento á mulher,
+vítima de qualquer forma de violência, deve o Estado instituir delegacias
+especializadas de atendimentos à mulher, em todos os Municípios com mais
+de oitenta mil habitantes.
 Art. 185. Para garantia do direito constitucional de atendimento
 a mulher, vítima de qualquer forma de violência, deve o Estado
 instituir delegacias especializadas de atendimento à mulher em
 todos os municípios com mais de sessenta mil habitantes.
+(Redação dada pela Emenda Constitucional nº 17, de 13 de dezembro 1994).
 Parágrafo único . O corpo funcional das delegacias especializadas
 de atendimento à mulher será composto, preferencialmente, por
 servidores do sexo feminino.
@@ -3852,6 +6558,19 @@ Art. 186. O delegado titular residirá na respectiva circunscrição policial.
 #### Seção III
 
 Da Polícia Militar
+Art. 187. A Polícia Militar do Ceará é instituição permanente, orientada dentro
+dos princípios da legalidade, hierarquia e disciplina, constituindo-se força auxi-
+liar e reserva do Exército, subordinada diretamente ao Governador do Estado,
+tendo por missão fundamental garantir os poderes constituídos no regular
+desempenho de suas competências, cumprindo as requisições emanadas de
+qualquer destes, para o primado da lei e da ordem.
+Art. 187. A Polícia Militar do Ceará é instituição permanente, orientada com
+base nos princípios da legalidade, hierarquia e disciplina, constituindo-se força
+auxiliar e reserva do Exército, subordinada ao Governador do Estado, tendo por
+missão fundamental exercer a polícia ostensiva, preservar a ordem pública e
+garantir os poderes constituídos no regular desempenho de suas competências,
+cumprindo as requisições emanadas de qualquer destes. (Redação dada pela
+Emenda Constitucional nº 28, de 30 de abril de 1997).
 Art. 187. A Polícia Militar do Ceará é instituição permanente,
 orientada com base nos princípios da legalidade, da probidade
 administrativa, da hierarquia e da disciplina, constituindo-se
@@ -3863,9 +6582,16 @@ requisições emanadas de qualquer destes.
 
 § 1º Os títulos, postos, graduações, uniformes, símbolos e distintivos
 são privativos dos integrantes da corporação.
+§ 2º O Comando da Polícia Militar é privativo de coronel da corporação, em
+serviço ativo com conclusão de cursos indicados em lei, de livre escolha do
+Governador do Estado, com nível equivalente a de Secretário de Estado. 112
+112 Na redação anterior do § 2º, havia uma suspensão por medida cautelar deferida pelo STF na ADI nº 145-1. Contudo, o dispositivo
+teve prejudicada sua análise pelo STF devido à revogação ocorrida pela EC nº 28/1997. Publicada no DJE e no DOU em 25/06/2018.
+Ver ADI nº 145-1 no Anexo II.
 § 2º O Comando da Polícia Militar é privativo de coronel da corpo-
 ração, em serviço ativo, observadas as condições indicadas em Lei,
 de livre escolha do Governador do Estado.
+(Redação dada pela Emenda Constitucional nº 28, de 30 de abril de 1997).
 Art. 188. Incumbe à Polícia Militar a atividade da preservação da
 ordem pública em todas as suas modalidades e proteção indivi-
 dual, com desempenhos ostensivos para inibir os atos atentatórios
@@ -3882,21 +6608,40 @@ Do Corpo de Bombeiros Militar
 #### Seção IV
 
 Da Polícia Penal
+(Redação dada pela Emenda constitucional nº 101, de 13 de agosto de 2020).
 Art. 188-A. A Polícia Penal de natureza permanente, com fun-
 ção indelegável de Estado, vinculada ao órgão administrador do
 sistema penal da unidade federativa a que pertencem, cabe a
 segurança dos estabelecimentos penais.
+(Inserido pela Emenda constitucional nº 101, de 13 de agosto de 2020).
 Art. 188-B. O preenchimento do quadro de servidores das polícias
 penais será feito, exclusivamente, por meio de concurso público
 e por meio da transformação dos cargos isolados, dos cargos de
 carreira dos atuais agentes penitenciários e dos cargos públicos
 equivalentes.
+(Inserido pela Emenda constitucional nº 101, de 13 de agosto de 2020).
 Parágrafo único . Lei disporá sobre a regulamentação da Polícia
 Penal.
+(Inserido pela Emenda constitucional nº 101, de 13 de agosto de 2020).
 
 #### Seção V
 
+(Inserido pela Emenda constitucional nº 101, de 13 de agosto de 2020).
 Do Corpo de Bombeiros
+(Inserido pela Emenda constitucional nº 101, de 13 de agosto de 2020).
+Art. 189. O Corpo de Bombeiros é instituição militar permanente, estruturado
+em carreira e organizado em observância aos preceitos de hierarquia, cons-
+tituindo-se força auxiliar e reserva do Exército, com direta subordinação ao
+
+---
+
+Art. 189. O Corpo de Bombeiros Militar é instituição permanente orientada
+com base na hierarquia e disciplina, constituindo-se força auxiliar e reserva
+do Exército, subordinada ao Governador do Estado, sendo organizado em
+carreira, tendo por missão fundamental a proteção da pessoa, visando a sua
+incolumidade em situações de risco, infortúnio ou de calamidade, devendo
+cumprimento às requisições emanadas dos Poderes Estaduais. (Redação dada
+pela Emenda Constitucional nº 28, de 30 de abril de 1997).
 Art. 189. O Corpo de Bombeiros Militar é instituição permanente
 orientada com base nos princípios da legalidade da probidade
 administrativa, da hierarquia e da disciplina, constituindo-se
@@ -3908,9 +6653,14 @@ requisições emanadas dos Poderes Estaduais.
 
 § 1º Os títulos, postos, graduações, uniformes, símbolos e distintivos
 são privativos dos integrantes da corporação.
+§ 2º O Comando do Corpo de Bombeiros Militar é privativo de oficial da ativa,
+no posto de coronel da corporação, com conclusão de cursos indicados em
+lei, de livre escolha do Governador do Estado, tendo nível equivalente a de
+Secretário de Estado. 113
 § 2º O Comando do Corpo de Bombeiros Militar é privativo de
 coronel da corporação, em serviço ativo, observadas as condições
 indicadas em Lei, de livre escolha do Governador do Estado.
+(Redação dada pela Emenda Constitucional nº 28, de 30 de abril de 1997).
 Art. 190. Incumbe ao Corpo de Bombeiros, no âmbito estadual,
 a coordenação da defesa civil e o cumprimento entre outras das
 atividades seguintes:
@@ -3936,50 +6686,69 @@ as responsabilidades em consonância com os graus hierárquicos.
 
 DO CONTROLE INTERNO DA ADMINISTRAÇÃO
 PÚBLICA ESTADUAL
+(Inserido pela Emenda Constitucional nº 75, de 20 de dezembro de 2012).
 Art. 190-A. Os Poderes Legislativo, Executivo e Judiciário man-
 terão, de forma integrada, sistema de controle interno com a
 finalidade de:
+(Inserido pela Emenda Constitucional nº 75, de 20 de dezembro de 2012).
+I – avaliar o cumprimento das metas previstas no plano plurianual, a execução
+dos programas de governo e dos orçamentos do Estado; (Inserido pela Emenda
+Constitucional nº 75, de 20 de dezembro de 2012).
 I – avaliar a efetivação da estratégia definida no plano estratégico
 de desenvolvimento de longo prazo, o cumprimento das metas
 previstas no plano plurianual e a execução dos programas de
 governo e dos orçamentos do Estado;
+(Redação dada pela Emenda Constitucional nº 114, de 30 de março de 2022).
 II – comprovar a legalidade e avaliar os resultados, quanto à eficá-
 cia e à eficiência da gestão orçamentária, financeira e patrimonial
 nos órgãos e entidades da administração estadual, bem como da
 aplicação de recursos públicos por entidades de direito privado;
+(Inserido pela Emenda Constitucional nº 75, de 20 de dezembro de 2012).
 III – realizar o acompanhamento da execução da receita e da des-
 pesa e a fiscalização da execução física das ações governamentais;
+(Inserido pela Emenda Constitucional nº 75, de 20 de dezembro de 2012).
 IV – criar condições para o exercício do controle social sobre os
 programas contemplados com recursos do orçamento do Estado;
+(Inserido pela Emenda Constitucional nº 75, de 20 de dezembro de 2012).
 V – exercer o controle das operações de crédito, avais e garantias,
 bem como dos direitos e deveres do Estado, na forma da lei;
+(Inserido pela Emenda Constitucional nº 75, de 20 de dezembro de 2012).
+
+---
 
 VI – apoiar o controle externo no exercício de sua missão institu-
 cional, respeitada a legislação de organização e funcionamento do
 sistema de controle interno de cada Poder, de iniciativa exclusiva
 do respectivo Poder.
+(Inserido pela Emenda Constitucional nº 75, de 20 de dezembro de 2012).
 § 1º As atividades de controle interno serão desempenhadas por
 órgãos de natureza permanente e exercidas por servidores orga-
 nizados em carreiras específicas, na forma de lei complementar.
+(Inserido pela Emenda Constitucional nº 75, de 20 de dezembro de 2012).
 § 2º O controle interno poderá ser exercido de forma descentrali-
 zada, sob a coordenação do órgão central do sistema de controle
 interno de cada Poder, na forma de lei complementar.
+(Inserido pela Emenda Constitucional nº 75, de 20 de dezembro de 2012).
 § 3º Os responsáveis pelo sistema de controle interno de cada
 Poder, ao tomarem conhecimento de qualquer irregularidade ou
 ilegalidade, dela darão ciência ao Tribunal de Contas do Estado, sob
 pena de responsabilidade solidária, na forma de lei complementar.
+(Inserido pela Emenda Constitucional nº 75, de 20 de dezembro de 2012).
 Art. 190-B. Os entes e entidades públicas, as pessoas jurídicas
 do setor privado e as pessoas físicas que recebam recursos para
 execução de projetos em parceria com a Administração Pública
 Estadual, mediante convênios e quaisquer instrumentos congê-
 neres, deverão comprovar a boa e regular aplicação, na forma de
 lei complementar.
+(Inserido pela Emenda Constitucional nº 75, de 20 de dezembro de 2012).
 Parágrafo único . A inobservância do disposto no caput implicará a
 proibição de celebrar novos convênios e instrumentos congêneres,
 inclusive termos aditivos de valor, na forma de lei complementar.
+(Inserido pela Emenda Constitucional nº 75, de 20 de dezembro de 2012).
 Art. 190-C. Lei Complementar disporá sobre regras para transferên-
 cias de recursos por meio de convênios e instrumentos congêneres,
 no âmbito do Poder Executivo Estadual.
+(Inserido pela Emenda Constitucional nº 75, de 20 de dezembro de 2012).
 
 #### TÍTULO VII
 
@@ -3988,19 +6757,29 @@ DA TRIBUTAÇÃO E DO ORÇAMENTO
 #### CAPÍTULO I
 
 DISPOSIÇÕES GERAIS
+Art. 191. O Estado e os Municípios podem instituir:
 Art. 191. O Estado pode instituir:
 
 I – os impostos referidos no art. 155, incisos I a III da Constituição
 Federal;
 
+II – taxas decorrentes do exercício do poder de polícia ou da fruição de serviços
+públicos, prestados ou colocados ao dispor do usuário;
 II – taxas, em razão do exercício do poder de polícia ou pela uti-
 lização, efetiva ou potencial, de serviços públicos específicos e
 divisíveis, prestados ao contribuinte ou postos à sua disposição;
 
+III – contribuição de melhoria em razão de obras públicas que acrescentam
+benefícios diretos a imóvel do contribuinte;
 III – contribuição de melhoria, decorrente de obras públicas;
+
+IV – contraprestações atuariais em matéria de previdência e assistência sociais.
+IV – (revogado).
 
 V – contribuição, cobrada de seus servidores, para o custeio, em
 benefício destes, do regime previdenciário, na forma do art. 149,
+§ 1º da Constituição Federal.
+
 § 1º Sempre que possível, os impostos terão caráter pessoal e serão
 graduados segundo a capacidade econômica do contribuinte,
 facultado à administração tributária, especialmente para conferir
@@ -4008,6 +6787,10 @@ efetividade a esses objetivos, identificar, respeitados os direitos
 individuais e nos termos da lei, o patrimônio, os rendimentos e as
 atividades econômicas do contribuinte.
 § 2º As taxas não poderão ter base de cálculo própria de impostos.
+§ 3º A petição destinada à obtenção de guias de recolhimento de débitos tribu-
+tários exonerará o contribuinte de correção monetária, juro de mora e sanções
+pecuniárias, se não lhe for dada ciência, no prazo contemplado no art. 7º, § 1º,
+do despacho exarado de indeferimento ou acolhida.
 § 3º O requerimento destinado à obtenção de guias de recolhi-
 mento de débitos tributários exonerará o contribuinte de correção
 monetária, juro de mora e sanções pecuniárias, se não lhe for dado
@@ -4019,10 +6802,17 @@ finalidades extrafiscais por incentivo a atividades socialmente
 úteis ou desestimular práticas inconvenientes ao interesse público,
 observados os disciplinamentos federais.
 
+---
+
 § 1º O ato cooperativo, praticado entre o associado e sua coope-
 rativa, não implica em operação de mercado. 114
+§ 2º Concede-se isenção tributária de ICMS aos implementos e equipamentos
+destinados aos deficientes físicos auditivos, visuais, mentais e múltiplos, bem
+como aos veículos automotores de fabricação nacional com até 90 HP de
+potência adaptados para o uso de pessoas portadoras de deficiência.
 § 2º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Declarado inconstitucional por decisão do STF sem a pronúncia de nulidade
 por um prazo de 12 meses a partir da ata da sessão, proferida na ADI nº
 429-8, no dia 20 de agosto de 2014, publicada no dia 30 de outubro de
 2014, no DJE) . 115
@@ -4032,9 +6822,18 @@ categoria.
 (Julgado parcialmente inconstitucional, dando-lhe interpretação conforme
 para excluir de seu âmbito de incidência o ICMS, ADI 429-8, publicado no dia
 30 de outubro de 2014, no DJE). 116
+Parágrafo único . A isenção tributária se estende a operações relativas à circu-
+lação de mercadorias para destinatário localizado neste ou em outro Estado e
+sobre prestação de transportes interestaduais, intermunicipais e comunicações.
 Parágrafo único . (Declarado inconstitucional, em controle con-
 centrado, pelo Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 429-8, no dia 20 de agosto de 2014, publicada
 no dia 30 de outubro de 2014 no DJE) . 117
+Art. 194. Os projetos de lei sobre matéria financeira exigem, para sua aprovação
+pela Assembleia Legislativa, maioria absoluta de votos, devendo indicar as
+fontes de recursos, sempre que houver aumento de despesa.
+Art. 194. (Revogado).
+
 Art. 195. O processo administrativo tributário será disciplinado em
 lei, assegurando amplo e igualitário direito de defesa.
 
@@ -4056,6 +6855,11 @@ b) operações relativas à circulação de mercadorias e presta-
 e de comunicação, ainda que as operações e as prestações se
 iniciem no Exterior;
 c) propriedade de veículos automotores;
+d) adicional de imposto de renda e proventos de qualquer natureza, incidente
+sobre lucros, ganhos e rendimentos de capital, em até cinco por cento do que for
+pago à União por pessoas físicas ou jurídicas, domiciliadas no território do Estado;
+d) (revogado).
+
 II – taxas, em razão do exercício do poder de polícia ou pela uti-
 lização, efetiva ou potencial, de serviços públicos específicos e
 divisíveis, prestados ao contribuinte ou postos à sua disposição; e
@@ -4078,6 +6882,8 @@ imposto de que trata o caput, o índice máximo estabelecido pelo
 Senado Federal.
 Art. 198. Em relação aos impostos de competência do Estado, na
 repartição das respectivas receitas, pertencem aos Municípios:
+
+---
 
 I – cinquenta por cento do produto da arrecadação do Imposto
 sobre a Propriedade de Veículos Automotores, licenciados em
@@ -4163,6 +6969,8 @@ didos ou revogados com base em deliberações dos Estados e do
 Distrito Federal, na forma prevista no art. 155, § 2º, inciso XII, alínea
 g, da Constituição Federal;
 
+---
+
 XII – com exceção deste imposto, nenhum outro tributo estadual
 incidirá sobre operações relativas à energia elétrica, combustíveis
 líquidos e gasosos, lubrificantes e minerais.
@@ -4173,11 +6981,21 @@ dos sob forma de convênio, os valores de origem tributária entre-
 gues e a entregar e a expressão numérica dos critérios e de rateio.
 Parágrafo único . Os dados divulgados serão discriminados por
 Municípios.
+Art. 201. Não incidirá imposto, conforme a lei dispuser, sobre todo e qual-
+quer produto agrícola pertencente à cesta básica, produzido por pequenos e
+microprodutores rurais que utilizam apenas a mão-de-obra familiar, vendido
+diretamente aos consumidores finais.
 Art. 201. (Declarado inconstitucional, em controle concentrado,
 pelo Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 429-8, no dia 20 de agosto de 2014, publicada
 no dia 30 de outubro de 2014 no DJE) . 118
+Parágrafo único . A não incidência abrange produtos oriundos de associações
+e cooperativas de produção e de produtores, cujos quadros sociais sejam com-
+postos exclusivamente por pequenos e microprodutores e trabalhadores rurais
+sem terra.
 Parágrafo único . (Declarado inconstitucional, em controle con-
 centrado, pelo Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 429-8, no dia 20 de agosto de 2014, publicada
 no dia 30 de outubro de 2014 no DJE) . 119
 
 #### CAPÍTULO III
@@ -4205,23 +7023,37 @@ art. 182 da Constituição Federal.
 #### CAPÍTULO IV
 
 DOS ORÇAMENTOS
+Art. 203. O Estado programará as suas atividades financeiras mediante leis de
+iniciativa do Poder Executivo, abrangendo:
 Art. 203. Leis de iniciativa do Poder Executivo estabelecerão:
+(Redação dada pela Emenda Constitucional nº 114, de 30 de março de 2022).
+I – plano plurianual;
 I – plano estratégico de desenvolvimento de longo prazo;
+(Redação dada pela Emenda Constitucional nº 114, de 30 de março de 2022).
+II – diretrizes orçamentárias; e
 II – plano plurianual;
+(Redação dada pela Emenda Constitucional nº 114, de 30 de março de 2022).
+III – orçamentos anuais.
 III – diretrizes orçamentárias; e
+(Redação dada pela Emenda Constitucional nº 114, de 30 de março de 2022).
 IV – orçamentos anuais.
+(Inserido pela Emenda Constitucional nº 114, de 30 de março de 2022).
 § 1. º A lei do plano estratégico de longo prazo estabelecerá as
 diretrizes e os objetivos de longo prazo para promoção do desenvol-
 vimento do Estado, numa perspectiva de proporcionar as condições
 estruturantes fundamentais para um ciclo prolongado de cresci-
 mento econômico e social sustentável, apto e capaz de propiciar
 a redução das desigualdades sociais e regionais do Estado.
+(Inserido pela Emenda Constitucional nº 114, de 30 de março de 2022).
 § 2. º O plano estratégico de longo prazo terá duração mínima de 20
 (vinte) anos, equivalente ao período de 5 (cinco) Planos Plurianuais,
 alinhado aos princípios da Gestão Democrática Compartilhada
 para Resultados e da Participação Cidadã, e elaborado sob a égide
 do órgão responsável pela gestão do sistema estadual dos instru-
 mentos de planejamento. 120
+(Inserido pela Emenda Constitucional nº 114, de 30 de março de 2022).
+
+---
 
 § 3º O plano plurianual, editado por lei, contemplará as diretrizes,
 objetivos e metas da política financeira estadual para as despe-
@@ -4233,12 +7065,24 @@ gualdades internas, tomando por critério, para maior alocação
 de recursos, as carências populacionais, observadas as regras
 seguintes:
 (Renumerado pela Emenda Constitucional nº 114, de 30 de março de 2022).
+I – O plano conterá projeções exequíveis no prazo de cinco anos para o desen-
+volvimento integral e harmônico de todo o espaço cearense.
 I – o plano conterá projeções exequíveis no prazo de quatro anos
 para o desenvolvimento integral e harmônico de todo o espaço
 cearense;
+(Redação dada pela Emenda Constitucional nº 02, de 16 de maio de 1991).
+II – a mensagem do Executivo deverá ter ingresso na Assembleia até trinta de
+abril do ano que precederá o exercício inicial a ser atingido pela sua vigência;
 II – a mensagem do Executivo deverá ter ingresso na Assembleia
 até trinta de setembro do ano que precederá o exercício inicial a
 ser atingido pela sua vigência;
+(Redação dada pela Emenda Constitucional nº 38, de 28 de abril de 1999).
+III – recebendo o projeto, determinará a Assembleia a extração de avulsos,
+distribuindo-se para exame e oferecimento de sugestões emanadas das micror-
+regiões e região metropolitana, a estas cabendo assegurar a participação
+populacional, através de suas entidades representativas, submetendo-as à
+apreciação do respectivo Conselho Deliberativo, que deverão ser encaminhadas
+dentro de sessenta dias;
 III – recebendo o projeto, determinará a Assembleia a extração de
 avulsos, distribuindo-se para exame e oferecimento de sugestões
 emanadas das microrregiões e região metropolitana, a estas
@@ -4246,15 +7090,32 @@ cabendo assegurar a participação populacional, através de suas
 entidades representativas, submetendo-as à apreciação do res-
 pectivo Conselho Deliberativo, que deverão ser encaminhadas
 dentro de quarenta e cinco dias.
+(Redação dada pela Emenda Constitucional nº 38, de 28 de abril de 1999).
+IV - o projeto, com as modificações apresentadas pelas comissões técnicas, será
+incluído na pauta, devendo estar concluída a votação até trinta de agosto do
+ano que precederá o exercício inicial a ser atingido pela sua vigência e aprovado
+por maioria absoluta.
 IV – o projeto, com as modificações apresentadas pelas comissões
 técnicas, será incluído em pauta, devendo estar concluída a votação
 e devolvido para sanção até o encerramento da sessão legislativa
 do ano que precederá o exercício inicial a ser atingido pela sua
 vigência e aprovado por maioria absoluta.
+(Redação dada pela Emenda Constitucional nº 38, de 28 de abril de 1999).
 121 Ver Lei Complementar nº 04, de 04 de outubro de 1995, no Banco Eletrônico de Leis Temáticas (Belt) da Alece.
 V – transcorrido o prazo previsto no inciso III, devem as comissões
 técnicas oferecer parecer com as reformulações consideradas
 pertinentes, no prazo de quinze dias;
+(Redação dada pela Emenda Constitucional nº 23, de 14 de dezembro de 1995).
+VI – o projeto, com as modificações apresentadas pelas comissões técnicas, será
+incluído em pauta, devendo estar concluída a votação em prazo não superior
+a trinta dias e aprovado por maioria absoluta.
+VI – o projeto, com as modificações apresentadas pelas comissões técnicas, será
+incluído em pauta, devendo estar concluída a votação até trinta de agosto do
+ano que perceberá o exercício inicial a ser atingido pela sua vigência e aprovado
+por maioria absoluta. (Redação dada pela Emenda Constitucional nº 23, de 14
+de dezembro de 1995).
+VI – (revogado).
+
 § 4° A Lei de Diretrizes Orçamentárias definirá as metas e prio-
 ridades deduzidas do plano plurianual, a serem aplicáveis no
 exercício de atividades administrativas em geral, incluindo as
@@ -4282,6 +7143,8 @@ sua compatibilização.
 § 5° A Lei Orçamentária Anual compreenderá:
 (Renumerado pela Emenda Constitucional nº 114, de 30 de março de 2022).
 
+---
+
 I – o orçamento fiscal referente aos Poderes Estaduais, Ministério
 Público, fundos, órgãos e entidades da administração direta e
 indireta, inclusive as fundações legalmente instituídas e mantidas
@@ -4303,11 +7166,16 @@ V – o Projeto de Lei Orçamentária será encaminhado ao Legislativo,
 acompanhado de demonstrativo regionalizado do efeito sobre as
 receitas e despesas decorrentes de isenções, anistias, remições,
 subsídios e benefícios de natureza financeira, tributária e creditícia;
+VI – O projeto de lei orçamentária anual será submetido pelo Executivo à
+Assembleia Legislativa, observado o prazo máximo de quatro meses do início
+de sua vigência, cumprindo-se as normas atinentes às do processo legislativo,
+conciliadas às desde capítulo.
 VI – o Projeto de Lei Orçamentária anual será submetido pelo
 Executivo à Assembleia Legislativa, observando o prazo máximo
 de setenta e cinco dias do início de sua vigência, cumprindo-se
 as normas atinentes às do processo legislativo, conciliada às
 deste capítulo;
+(Redação dada pela Emenda Constitucional nº 04, de 25 de setembro de 1991).
 VII – os recursos que, em decorrência de veto, emenda ou rejeição
 do projeto de lei orçamentária anual, ficarem sem despesas cor-
 respondentes poderão ser utilizados, conforme o caso, mediante
@@ -4360,18 +7228,26 @@ necessidade ou cobrir déficit de empresas, fundações e fundos; e
 VIII – a instituição de fundos de qualquer natureza, sem prévia
 autorização legislativa.
 
+---
+
 § 1º Nenhum investimento, cuja execução ultrapasse um exercí-
 cio financeiro, poderá ser iniciado sem prévia inclusão no plano
 plurianual, ou sem lei que autorize a inclusão, sob pena de crime
 de responsabilidade.
+§ 2º O Estado despenderá um mínimo de vinte por cento da sua arrecadação
+tributária com investimentos.
 § 2. º A Lei de Diretrizes Orçamentárias estabelecerá meta anual
 de investimentos a serem custeados com recursos provenientes
 da receita de arrecadação tributária do Estado.
+(Redação dada pela Emenda Constitucional nº 98, de 19 de dezembro de 2019).
 § 3º Os créditos especiais e extraordinários terão vigência no
 exercício financeiro em que forem autorizados, salvo se o ato de
 autorização for promulgado nos últimos quatro meses daquele
 exercício, caso em que, reabertos nos limites de seus saldos, serão
 incorporados ao orçamento do exercício financeiro subsequente.
+§ 4º A abertura de crédito extraordinário somente será admitida para atender as
+despesas imprevisíveis e urgentes, como as decorrentes de guerra, comoção interna
+ou calamidade pública, observado o disposto no art. 62 da Constituição Federal.
 § 4º A abertura de crédito extraordinário somente será admitida
 para atender às despesas imprevisíveis e urgentes, como as decor-
 rentes de guerra, comoção interna ou calamidade pública.
@@ -4393,6 +7269,7 @@ dos recursos necessários ao custeio da despesa correspondente,
 aplicando-se esta última exigência de previsão orçamentária
 prévia também para nomeação de pessoal e provimento de cargos
 no serviço público.
+(Inserido pela Emenda Constitucional nº 84, de 03 de dezembro de 2015).
 Art. 206. Cabe à lei complementar estadual:
 I – dispor sobre o exercício financeiro, a vigência, os prazos, a ela-
 boração e organização do plano plurianual, da lei de diretrizes
@@ -4405,10 +7282,14 @@ orçamentárias, previstas no inciso VIII, § 3º, art. 216, mecanis-
 mos que assegurem o efetivo controle sobre a receita e despesas
 públicas da administração direta, indireta e fundações do Poder
 Público Estadual.
+Art. 207. Os planos e programas estaduais, regionais e setoriais previstos nesta
+Constituição serão elaborados em consonância com o plano plurianual e
+apreciados pelo Poder Legislativo.
 Art. 207. O plano plurianual e os planos e programas regionais,
 municipais e setoriais previstos nesta Constituição serão elabo-
 rados em consonância com o plano estratégico de longo prazo e
 apreciados pelo Poder Legislativo.
+(Redação dada pela Emenda Constitucional nº 114, de 30 de março de 2022).
 Parágrafo único . Serão incluídos nas dotações orçamentárias da
 Assembleia recursos para viabilizar o programa de ação cultural
 e operativo do Instituto de Estudos e Pesquisas sobre o Desenvol-
@@ -4417,11 +7298,32 @@ vimento do Estado do Ceará, contemplado no art. 49, parágrafo
 Art. 208. O Estado criará incentivos para a desconcentração das
 atividades produtivas na Região Metropolitana de Fortaleza, de
 modo a favorecer a interiorização do desenvolvimento.
+Art. 209. Do produto de arrecadação do Imposto sobre Operações Relativas
+à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte
+Interestadual e Intermunicipal e de Comunicação ICMS, o Estado destinará
+zero vírgula setenta e cinco por cento à constituição de fundo para aplicação
+em programas de financiamento ao setor produtivo, administrado através do
+Banco do Estado do Ceará BEC, de acordo com o plano de desenvolvimento
+estadual, ficando assegurada a utilização de, no mínimo, cinquenta por cento
+dos valores do fundo de apoio a micro, pequena e média empresas, na forma
+que a lei estabelecer, sendo que cinquenta por cento dos recursos devem,
+obrigatoriamente, ser aplicados no Interior do Estado.
+Art. 209. O Estado destinará recursos para constituição e manutenção do fundo
+destinado à aplicação em programas de financiamento ao setor produtivo,
+administrado financeiramente pela Secretaria da Fazenda, de acordo com o
+plano de desenvolvimento estadual, ficando assegurada a utilização de, no
+mínimo, 50 % (cinquenta por cento) do volume total de aportes em favor das
+micros, pequenas e médias empresas, assim definidas em Lei, sendo que 50%
+(cinquenta por cento) dos recursos deverão ser aplicados no interior do Estado.
+(Redação dada pela Emenda Constitucional nº 41, de 29 de junho de 1999).
 Art. 209. O Estado aportará recursos para constituição e manuten-
 ção de fundo destinado ao fomento e ao incremento de microem-
 preendedorismo, inclusive mediante a disponibilização de crédito
 popular, objetivando a geração de novas oportunidades de empre-
 gos e renda para a população.
+(Redação dada pela Emenda Constitucional nº 107, de 25 de fevereiro de 2021).
+
+---
 
 Parágrafo único . Os recursos aportados para o fundo de constituição
 e manutenção para o fomento e o incremento do microempreen-
@@ -4429,20 +7331,31 @@ dedorismo no Estado do Ceará obrigatoriamente serão destinados
 no importe de até 10% (dez por cento) aos microempreendedores
 com deficiência, bem como às mulheres microempreendedoras
 chefes de família.
+(Inserido pela Emenda Constitucional nº 107, de 25 de fevereiro de 2021).
 Art. 209-A. O orçamento público contará com dotações destinadas
 à implementação de políticas, de programas e de ações de atenção
 à primeira infância.
+(Inserido pela Emenda Constitucional nº 134, de 05 de novembro de 2025).
 Parágrafo único . O disposto neste artigo poderá abranger inicia-
 tivas na área da educação, da saúde e da assistência social, além
 de outras ações intersetoriais que tenham as crianças de até 6
 (seis) anos de idade ou suas famílias como beneficiárias diretas,
 sem prejuízo de outras medidas prioritárias, de acordo com a Lei
 Federal n.º 13.257, de 8 de março de 2016.
+(Inserido pela Emenda Constitucional nº 134, de 05 de novembro de 2025).
+Art. 210. A Lei de Orçamento do Estado observará, para investimentos do setor
+público estadual do Interior, dotação nunca inferior a cinquenta por cento do
+valor global consignado para esse fim.
 Art. 210. A Lei de Diretrizes Orçamentárias estabelecerá o valor
 dos investimentos do setor público estadual no interior.
+(Redação dada pela Emenda Constitucional nº 122, de 22 de junho de 2023).
 Parágrafo único . Excluem-se da classificação de Municípios do
 Interior, para fins do caput deste artigo, os Municípios integrantes
 da Região Metropolitana de Fortaleza.
+Art. 211. O Poder Executivo publicará, até trinta dias após o encerramento
+de cada semestre, relatório resumido da execução orçamentária, bem como
+apresentará trimestralmente ao Poder Legislativo a caracterização sobre o
+Estado e suas finanças públicas, devendo constar do demonstrativo:
 I – as receitas e despesas da administração direta, indireta e fundações do
 Poder Público Estadual, constantes do orçamento em seus valores mensais;
 II – os valores ocorridos desde o início do exercício até o último mês do trimestre,
@@ -4458,6 +7371,7 @@ lativo a caracterização sobre o Estado e suas finanças públicas, até
 resumido da execução orçamentária e, a cada quadrimestre,
 relatório de gestão fiscal, em conformidade com os arts. 52, 53, 54
 e 55 da Lei Complementar Federal n.° 101, de 4 de maio de 2000.
+(Redação dada pela Emenda Constitucional nº 108, de 30 de março de 2021).
 Art. 211-A. Lei de iniciativa do Poder Executivo estabelecerá nor-
 mas de finanças públicas no âmbito do Estado do Ceará, às quais
 se sujeitarão todos os Poderes, incluídos Ministério Público e
@@ -4465,15 +7379,23 @@ Defensoria Pública, com o objetivo de preservar a responsabilidade
 da gestão e cidadania fiscal, bem como de promover o equilíbrio
 financeiro das contas públicas, elevando o padrão e a qualidade
 dos investimentos.
+(Inserido pela Emenda Constitucional nº 94 de 17 de dezembro de 2018).
 Art. 212. As informações sobre as finanças do Estado são públicas,
 devendo ser acessíveis a qualquer cidadão.
 Parágrafo único . As informações solicitadas serão fornecidas no
 prazo da lei, sob pena de responsabilidade.
+Art. 213. Incumbe ao Poder Público estadual e municipal, na forma da lei,
+firmar contrato, concessão ou permissão, alienar ou adquirir bens, sempre
+através de licitação.
 Art. 213. Incumbe ao Poder Público Estadual firmar contratos,
 inclusive de concessão ou permissão de serviços públicos, ou
 para alienar ou adquirir bens, mediante prévia licitação, salvo
 nos casos expressamente previstos em lei.
 
+§ 1º Os contratos de concessão para a prestação de serviços públicos poderão
+conter expressa cláusula de reversibilidade, incorporando, ao término do prazo
+contratual, ao patrimônio do poder concedente, estadual ou municipal, os bens
+vinculados à prestação do serviço independente de qualquer indenização.
 § 1º Os contratos de concessão para a prestação de serviços públicos
 poderão conter expressa cláusula de reversibilidade, incorporando,
 ao término do prazo contratual, ao patrimônio do poder conce-
@@ -4486,6 +7408,9 @@ do interesse público, importando à entidade concedente o direito
 de proceder, a qualquer tempo, à revisão do contrato para adap-
 tá-lo às exigências do interesse coletivo, respeitado o equilíbrio
 econômico e financeiro do contrato.
+§ 3º A comprovação da idoneidade financeira dos licitantes far-se-á mediante
+a apresentação de certidões negativas de protestos de títulos e pendências de
+procedimentos de execução.
 § 3º A comprovação da idoneidade financeira dos licitantes, assim
 como a de sua qualificação técnica far-se-á na forma prescrita em lei.
 
@@ -4494,6 +7419,14 @@ nos casos de atividades que exigem filiação a entidades ou conselhos, pela
 apresentação da inscrição; nos outros casos, por atestado fornecido por órgão
 da administração direta ou indireta, federal, estadual, municipal ou por duas
 empresas privadas.
+
+---
+
+
+§ 5º A comprovação do pagamento do imposto sindical será considerada como
+regularidade fiscal e exigida nas licitações.
+§ 5º (Revogado).
+
 
 #### TÍTULO VIII
 
@@ -4517,6 +7450,11 @@ segurança e à propriedade.
 #### CAPÍTULO II
 
 DA EDUCAÇÃO
+Art. 215. A educação, baseada nos princípios democráticos, na liberdade de
+expressão, na sociedade livre e participativa, no respeito aos direitos humanos,
+é um dos agentes do desenvolvimento, visando à plena realização da pessoa,
+seu preparo para o exercício da cidadania e sua qualificação para o trabalho,
+contemplando o ensino as seguintes diretrizes básicas:
 Art. 215. A Educação, baseada nos princípios democráticos na
 liberdade de expressão, na sociedade livre e participativa, no
 respeito ao meio ambiente e aos direitos humanos e garantindo
@@ -4543,6 +7481,9 @@ VI – garantia de padrão de qualidade;
 VII – formação de seres humanos plenamente desenvolvidos, capa-
 zes de compreender os direitos e deveres da pessoa, do cidadão,
 do Estado e dos diferentes organismos da sociedade;
+VIII – fortalecimento da unidade nacional e da solidariedade internacional,
+assim como a preservação, a difusão e expansão do patrimônio cultural da
+humanidade;
 VIII – fortalecimento da unidade nacional e da solidariedade
 internacional, assim como a preservação do meio ambiente, bem
 como resguardar, expandir e difundir o patrimônio cultural da
@@ -4565,6 +7506,8 @@ b) defesa civil;
 c) regras de trânsito;
 d) efeito das drogas, do álcool e do tabaco;
 
+---
+
 f) sexologia;
 g) ecologia;
 h) higiene e profilaxia sanitária;
@@ -4579,9 +7522,13 @@ sobre cooperativismo e associativismo.
 área de Humanidades, História, Geografia, Educação Artística e
 OSPB, temas voltados para a conscientização da necessidade de
 se preservar o patrimônio cultural.
+Art. 216. O Estado do Ceará destinará, anualmente, no orçamento do Estado,
+verbas a serem aplicadas com a educação, em montante nunca inferior a vinte
+e cinco por cento da arrecadação.
 Art. 216. O Estado do Ceará destinará, anualmente, no orçamento
 do Estado, verbas a serem aplicadas com a educação, em montante
 nunca inferior a vinte e cinco por cento da arrecadação.
+(Redação dada pela Emenda Constitucional nº 05, de 13 de dezembro de 1991).
 § 1º Serão garantidos mecanismos de controle social sobre a arre-
 cadação e utilização dos recursos destinados à educação.
 
@@ -4604,6 +7551,7 @@ III – atuação prioritária dos Municípios no ensino fundamental e
 pré-escolar, aplicando o percentual de vinte e cinco por cento da
 receita com que estão comprometidos, conforme o disposto no
 art. 212 da Constituição Federal;
+IV – atendimento em creches e pré-escolar às crianças de zero a seis anos de idade;
 IV – atendimento em creches e pré-escolar às crianças de zero a
 cinco anos de idade;
 
@@ -4633,6 +7581,8 @@ sociais devidamente orçados, vedado o uso de salário-educação;
 XVIII – integração da Escola que oferece ensino fundamental
 e médio aos serviços de saúde, mediante ensino e difusão das
 noções básicas de Educação para a saúde pública.
+
+---
 
 § 1º Sempre que os Municípios não tiverem condições de oferecer
 o atendimento previsto nos incisos IV e VI, cabe ao Estado suple-
@@ -4712,6 +7662,14 @@ orientação e pesquisa.
 § 3º O professor, em qualquer dos níveis, será aposentado com
 vencimentos integrais, satisfeito o requisito de tempo de serviço,
 independentemente da natureza de sua investidura.
+Art. 227. Os Municípios responsabilizar-se-ão, prioritariamente, pelo ensino
+fundamental, devendo manter e/ou expandir o atendimento às crianças de zero
+a seis anos, só podendo atuar no nível superior de ensino quando a demanda
+dos ensinos fundamental e médio estiver plena e satisfatoriamente atendida,
+quantitativa e qualitativamente.
+
+---
+
 Art. 227. Os Municípios responsabilizar-se-ão, prioritariamente,
 pelo ensino fundamental, devendo manter e expandir o atendi-
 mento às crianças de zero a cinco anos, só podendo atuar no nível
@@ -4737,6 +7695,9 @@ se apresentar.
 § 1º O Poder Público Estadual responsabilizar-se-á pela manu-
 tenção e expansão do ensino médio, público e gratuito, tomando
 providências para sua progressiva universalização.
+Art. 229. Fica assegurada às pessoas portadoras de deficiência educação em
+todos os graus escolares, quer em classes comuns, quer em classes especiais,
+quando se fizer necessário.
 Art. 229. Fica assegurada às pessoas com necessidades especiais
 educação em todos os graus escolares, quer em classes comuns,
 quer em classes especiais, quando isto se fizer necessário.
@@ -4769,9 +7730,15 @@ Art. 230. O Conselho de Educação do Ceará, órgão normativo, con-
 sultivo e deliberativo do sistema de ensino do Estado do Ceará, será
 entidade autônoma e constituir-se-á em unidade orçamentária
 e de despesa. 123
+§ 1º O Conselho de Educação do Ceará será integrado por educadores, indicados
+na seguinte proporção: um terço pelo Secretário de Educação do Ceará e dois
+terços pelo Legislativo. 124
+§ 1º (Revogado).
+
 § 2º Compete ao Conselho de Educação do Ceará, sem prejuízo de
 outras atribuições que lhe sejam conferidas em lei e observadas
 as diretrizes e bases estabelecidas pela União:
+I – baixar normas disciplinadoras dos sistemas estadual e municipal de ensino;
 I – baixar normas disciplinadoras do sistema estadual de ensino;
 
 II – interpretar a legislação de ensino;
@@ -4781,6 +7748,8 @@ IV – desconcentrar suas atribuições, por meio de comissões de
 âmbito municipal.
 § 3º A competência, a organização e as diretrizes do funcionamento
 do Conselho serão estabelecidas em lei.
+
+---
 
 Art. 231. Os recursos públicos serão destinados às escolas comuni-
 tárias, confessionais e filantrópicas, definidas em lei, que:
@@ -4822,18 +7791,26 @@ namental e histórica, assegurando o acesso aos interessados.
 125 Ver Lei nº 18.012, de 01 de abril de 2022, no Banco Eletrônico de Leis Temáticas (Belt) da Alece.
 Art. 232. Lei estadual disporá sobre os critérios para a municipa-
 lização do ensino.
+Parágrafo único . O Estado garantirá a municipalização do ensino de 1º grau,
+através de:
 Parágrafo único . O Estado garantirá a municipalização do ensino
 fundamental, por meio de:
 
 I – incentivo à criação de conselhos municipais de educação, onde
 houver condições;
+II – transferência da capacidade decisória e de ação aos Municípios, nas áreas
+de ensino de 1º grau;
 II – transferência da capacidade decisória e de ação aos Municípios,
 nas áreas de ensino fundamental;
 
+III – criação e fortalecimento de estruturas municipais de educação, e preparação
+destas para assumirem os encargos educacionais de 1º grau;
 III – criação e fortalecimento de estruturas municipais de educação,
 e preparação destas para assumirem os encargos educacionais do
 ensino fundamental;
 
+IV – transferência progressiva de encargos e serviços relativos ao ensino de 1º
+grau aos Municípios, na medida de suas reais disponibilidades;
 IV – transferência progressiva de encargos e serviços relativos
 ao ensino fundamental aos Municípios, na medida de suas reais
 disponibilidades; e
@@ -4844,6 +7821,8 @@ municipais e ampliação do repasse de recursos financeiros.
 #### CAPÍTULO III
 
 DA CULTURA
+Art. 233. Fica criado o Fundo Estadual de Cultura a ser administrado pela Secre-
+taria de Cultura, Turismo e Desporto, ouvido o Conselho Estadual de Cultura.
 Art. 233. O Estado do Ceará promoverá a valorização e a proteção
 das manifestações e expressões culturais, advindas dos diversos
 indivíduos, grupos e coletividades participantes do processo de
@@ -4851,6 +7830,10 @@ construção da cultura cearense, observados os seguintes princípios
 dos direitos culturais:
 
 I – defesa e valorização do patrimônio cultural;
+
+
+---
+
 
 III – respeito à diversidade e ao pluralismo cultural;
 
@@ -4866,6 +7849,8 @@ VIII – autonomia das entidades culturais; e
 
 IX – gestão democrática.
 
+Art. 234. Serão criados arquivos municipais integrados ao sistema estadual de
+arquivos, para a preservação de documentos.
 Art. 234. Constituem patrimônio cultural do Estado do Ceará os bens
 de natureza material e imaterial, considerados individualmente
 ou em conjunto, portadores de referência à identidade, à ação, à
@@ -4885,11 +7870,26 @@ V – os conjuntos urbanos e sítios de valor histórico, paisagístico,
 artístico, arqueológico, paleontológico, ecológico e científico.
 
 126 Ver Lei n° 18.310, de 17 de fevereiro de 2023, no Banco Eletrônico de Leis Temáticas (Belt) da Alece.
+§ 1º (Revogado).
+
+§ 2º O Arquivo Público, mediante solicitação, remeterá cópia de microfilmes
+dos documentos para os Municípios de origem.
+§ 2º (Revogado).
+
+Art. 235. Nenhuma repartição pública estadual ou municipal destruirá ou des-
+viará sua documentação, sem antes submetê-la ao setor de triagem, instituído
+pelo Estado, para fins de preservação de documentação de valor histórico,
+jurídico ou administrativo, assegurando amplo acesso aos interessados.
 Art. 235. O Poder Público, com a colaboração da comunidade,
 promoverá e protegerá o patrimônio cultural do Estado do Ceará,
 por meio de inventário, registros, vigilância, tombamento e desa-
 propriação, e de outras formas de acautelamento e preservação.
 
+Art. 236. O poder público assegurará os meios e as condições para o funciona-
+mento eficiente dos sistemas estaduais de biblioteca, documentação e arquivo,
+como órgãos executores da política de incentivo à leitura, à preservação do
+patrimônio bibliográfico e documental e ao intercâmbio com as instituições
+congêneres.
 Art. 236. A gestão pública da cultura no Estado do Ceará será feita
 por intermédio da Secretaria da Cultura, de forma sistêmica, com
 participação de órgãos colegiados, na forma da lei.
@@ -4903,9 +7903,16 @@ consultiva, deliberativa e normativa, de composição majoritária
 da sociedade civil, atendendo a critérios democráticos na escolha
 de seus membros, na forma da lei.
 
+Art. 237. Compete aos Municípios, mediante assessoria da Secretaria de Cultura,
+Turismo e Desporto e do Serviço do Patrimônio Histórico e Artístico Nacional,
+promover o levantamento, tombamento e preservação do seu patrimônio
+histórico e cultural.
 Art. 237. O Poder Público assegurará os meios e as condições para o
 funcionamento eficiente e democrático dos sistemas e subsistemas
 estaduais de cultura, na forma da lei. 126
+
+
+---
 
 Art. 237-A O Estado do Ceará incentivará a promoção da cultura
 no âmbito dos Municípios.
@@ -4933,6 +7940,11 @@ e elaboração de Plano Plurianual correspondente.
 plurianual, visando o desenvolvimento do Estado e à integração
 das ações do poder público, respeitados os princípios dos direitos
 culturais elencados neste capítulo.
+
+
+#### CAPÍTULO IV
+
+DO DESPORTO
 
 #### CAPÍTULO IV
 
@@ -4987,6 +7999,8 @@ condições necessárias para o desenvolvimento da atividade.
 da norma estatuída no caput deste artigo, será o plano diretor de
 turismo, estabelecido em lei, considerado o potencial turístico das
 
+---
+
 diferentes regiões, com a participação dos municípios envolvidos,
 direcionando as ações de planejamento, promoção e execução da
 política estadual de turismo.
@@ -5020,6 +8034,7 @@ de permanência do turista em território do Estado; e
 
 VII – construção de albergues populares, favorecendo o lazer das
 camadas pobres da população.
+
 
 #### CAPÍTULO V
 
@@ -5074,6 +8089,8 @@ II – municipalização dos recursos, serviços e ações de saúde de
 abrangência municipal, podendo os Municípios constituir consór-
 cios para desenvolver as ações de saúde que lhes correspondam;
 
+---
+
 III – integralidade na prestação das ações de saúde preventivas e
 curativas, adequadas às realidades epidemiológicas;
 IV – universalização da assistência, com acesso igualitário a todos,
@@ -5106,6 +8123,8 @@ outras atribuições:
 I – gerir, planejar, coordenar, controlar e avaliar a política estadual
 de saúde, estabelecida em consonância com os níveis federal e
 municipal;
+II – administrar o fundo estadual de saúde de acordo com o art. 5º, §§ 2º e 3º, da
+Constituição da República;
 II – administrar o Fundo Estadual de Saúde de acordo com o art.
 198 da Constituição da República;
 
@@ -5151,6 +8170,8 @@ XVIII – colaborar com a proteção do meio ambiente e do trabalho;
 XIX – atuar em relação ao processo produtivo, garantindo:
 a) medidas que visem à eliminação de riscos de acidentes,
 
+---
+
 doenças profissionais e do trabalho e que ordenem o processo
 produtivo, de modo a garantir a saúde dos trabalhadores e
 acionar os órgãos incumbidos da prevenção de acidente no
@@ -5192,6 +8213,8 @@ leitos equipados para tratamento dos portadores de deficiência.
 os transtornos mentais, bem como promover a saúde mental e o
 bem-estar da população.
 128 Ver ADI nº 4597, no Anexo II.
+Art. 249. Cabe ao Estado a coordenação e gerenciamento do Sistema Único de
+Saúde -SUDS-, no âmbito do seu território.
 Art. 249. Cabe ao Estado, no âmbito do seu território, a coordenação
 e gerenciamento do Sistema Único de Saúde SUS.
 
@@ -5203,21 +8226,34 @@ Art. 249-A. Fica instituído o Fundo Estadual de Atenção Secundária
 ção dos serviços de saúde de média complexidade, em urgência e
 emergência, em atendimentos móveis de urgência e emergência, de
 odontologia especializada e de rede ambulatorial especializada.
+(Inserido pela Emenda Constitucional nº 71, de 18 de janeiro de 2011).
 § 1º O Fundo previsto no caput é constituído:
+(Inserido pela Emenda Constitucional nº 71, de 18 de janeiro de 2011).
+I - por quinze por cento dos recursos a que se referem os incisos III e IV do art.
+158 da Constituição Federal e os incisos I e II do art. 198 desta Constituição; 128
+(Inserido pela Emenda Constitucional nº 71, de 18 de janeiro de 2011).
 I - (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 4597, no dia 21 de dezembro de 2020, publicada
 no dia 8 de março de 2021, do DJE e no DOU).
 II - por recursos depositados pelo Estado na conta específica do
 Fundo, correspondentes a dois terços do valor previsto no inciso I;
+(Inserido pela Emenda Constitucional nº 71, de 18 de janeiro de 2011).
 III - por outros recursos previstos em Lei específica.
+(Inserido pela Emenda Constitucional nº 71, de 18 de janeiro de 2011).
 § 2º O Fundo Estadual de Atenção Secundária à Saúde é subordi-
 nado à Secretaria da Saúde do Estado do Ceará.
+(Inserido pela Emenda Constitucional nº 71, de 18 de janeiro de 2011).
 § 3º O Conselho Estadual da Saúde estabelecerá a disciplina geral
 para a utilização dos recursos do Fundo, no atendimento de seus
 objetivos, a ser formalizada por Decreto do Governador do Estado.
+(Inserido pela Emenda Constitucional nº 71, de 18 de janeiro de 2011).
 § 4º Outros serviços de saúde de média complexidade, previstos
 em Decreto do Governador do Estado, poderão ser mantidos por
 recursos do Fundo Estadual de Atenção Secundária à Saúde.
+(Inserido pela Emenda Constitucional nº 71, de 18 de janeiro de 2011).
+
+---
 
 Art. 250. Toda informação ou publicidade, que atente contra a
 saúde ou induza a consumo nocivo, deverá incluir observação
@@ -5237,6 +8273,10 @@ ser adequados tanto ao meio físico quanto ao nível socioeconômico
 das comunidades, garantindo-se o mínimo de condições sanitárias.
 § 3º O Estado assegurará os recursos necessários aos programas
 de saneamento, com vistas à expansão e melhoramento do setor.
+
+#### CAPÍTULO VII
+
+DA CIÊNCIA E TECNOLOGIA
 
 #### CAPÍTULO VII
 
@@ -5279,6 +8319,18 @@ fixação de atividades econômicas no território do Estado, obje-
 tivando desenvolver-lhe as potencialidades e observadas as
 peculiaridades regionais.
 
+Art. 256. O Conselho Estadual de Ciência e Tecnologia, criado e mantido pelo
+Poder Público, será integrado por representantes das entidades da Sociedade
+Civil e de organismos governamentais envolvidos com a geração e aplicação
+do conhecimento científico e tecnológico, e com as consequências e impactos
+delas resultantes.
+Art. 256. O Conselho Estadual de Ciência e Tecnologia (CECT), integrante da
+Secretaria da Ciência e Tecnologia, será composto por representantes das
+entidades da sociedade civil e de organismos públicos e privados envolvidos
+com a educação superior, a geração e aplicação do conhecimento científico e
+tecnológico, e com as consequências e impactos delas resultantes, cuja estrutura,
+competência e composição serão disciplinados por Lei. (Redação dada pela
+Emenda Constitucional nº 19, de 13 de dezembro de 1994).
 Art. 256. O Conselho Estadual de Ciência, Tecnologia e Inovação,
 integrante da Secretaria da Ciência, Tecnologia e Ensino Superior,
 será composto por representantes das entidades da sociedade civil
@@ -5293,22 +8345,53 @@ Parágrafo único . Caberá ao Conselho Estadual de Ciência e Tec-
 nologia o desempenho das seguintes funções, entre outras que
 a lei dispuser:
 
+---
+
+I – – estabelecer as diretrizes para a formulação da política científica e tecno-
+lógica do Estado;
 I – dar apoio ao Governador do Estado sobre propostas, ideias e
 políticas da Ciência, Tecnologia e Inovação de relevância para o
 desenvolvimento da economia cearense;
+(Redação dada pela Emenda Constitucional nº 58, de 6 de abril de 2006).
+II – deliberar sobre o plano estadual de ciência e tecnologia;
 II – realizar estudos temáticos, setoriais e prospectivos, de curto e
 longo prazo, cujos resultados ajudem a formular as diretrizes de
 política e os planos estaduais de ciência, tecnologia e inovação;
+(Redação dada pela Emenda Constitucional nº 58, de 6 de abril de 2006).
+III – fiscalizar seu cumprimento pelo Poder Público;
+III – (revogado).
+
+IV – avaliar as atividades de pesquisa científica e tecnológica financiadas com
+recursos estaduais;
 IV – avaliar, quando solicitado, o resultado das políticas de ciência,
 tecnologia e inovação e as atividades delas decorrentes realizadas
 no território cearense;
+(Redação dada pela Emenda Constitucional nº 58, de 06 de abril de 2006).
+V – apreciar as atividades de órgãos situados no Ceará, mas não vinculados
+ao Governo Estadual.
 V – orientar as instituições de Pesquisa e Desenvolvimento (P&D),
 vinculadas ao Governo Estadual, e subsidiar as demais instituições
 dessa natureza situadas no território cearense, que apresentem
 propostas que contribuam para o desenvolvimento da política
 estadual de Ciência e Tecnologia.
+(Redação dada pela Emenda Constitucional nº 58, de 06 de abril de 2006).
+§ 2º . As atividades do Conselho serão realizadas por Secretaria Executiva, com
+assessoramento e recursos próprios.
 § 2º (Suprimido).
+(Redação dada pela Emenda Constitucional nº 19, de 13 de dezembro de 1994).
+§ 3º . Lei complementar definirá a composição e a competência do Conselho.
 § 3º (Suprimido).
+(Redação dada pela Emenda Constitucional nº 19, de 13 de dezembro de 1994).
+Art. 257. O plano estadual de ciência e tecnologia abrangerá os componentes da
+pesquisa científica e tecnológica e indicará com precisão as ações prioritárias
+a serem empreendidas, mediante a aplicação de recursos federais e estaduais
+no campo da pesquisa científica e tecnológica.
+Art. 257. O Conselho Estadual de Ciência e Tecnologia (CECT) contribuirá com
+os planos estaduais de ciência e tecnologia, abrangendo os componentes da
+pesquisa científica, da pesquisa tecnológica, do desenvolvimento e da inovação,
+e indicará com precisão as formas e ações prioritárias a serem empreendidas,
+mediante a aplicação de recursos federais, estaduais, municipais ou privados.
+(Redação dada pela Emenda Constitucional nº 58, de 6 de abril de 2006).
 Art. 257. O Conselho Estadual de Ciência, Tecnologia e Inovação
 contribuirá, com os planos estaduais de ciência e tecnologia,
 abrangendo os componentes da pesquisa científica, da pesquisa
@@ -5317,14 +8400,36 @@ precisão as formas e ações prioritárias a serem empreendidas,
 mediante a aplicação de recursos federais, estaduais, municipais
 ou privados.
 
+§ 1º Será assegurada a compatibilidade das ações da área tecnológica com as
+metas globais de desenvolvimento econômico e social do Estado e do País.
 § 1º Os trabalhos do Conselho deverão assegurar a compatibilidade
 das ações que resultem das pesquisas científicas, das atividades
 tecnológicas ou de inovação, com as metas globais de desenvol-
 vimento econômico e social do Estado e do País.
+(Redação dada pela Emenda Constitucional nº 58, de 06 de abril de 2006).
 § 2º A dotação orçamentária para execução das atividades das
 instituições estaduais de pesquisa será determinada de acordo
 com as diretrizes e prioridades estabelecidas no plano e constará
 do orçamento geral do Estado.
+§ 3º Caberá ao órgão executivo responsável pela implementação do plano
+estadual de ciência e tecnologia cumprir as deliberações do conselho e pro-
+mover a articulação entre os planos de ciência e tecnologia e os mecanismos e
+programas de fomento e demais ações promovidos em nível nacional e estadual.
+§ 3º Caberá à Secretaria da Ciência e Tecnologia a responsabilidade pela
+implementação dos planos estaduais de educação superior, ciência e tecnologia,
+conjuntamente com o Conselho Estadual de Ciência e Tecnologia, devendo
+promover a articulação entre os referidos planos e os Planos de Desenvolvimento
+socioeconômico, científico e tecnológico do Estado e do País, como também
+com os mecanismos de fomento e demais ações de incentivo promovidos a
+níveis estadual e nacional. (Redação dada pela Emenda Constitucional nº 19,
+de 13 de dezembro de 1994).
+§ 3º Compete à Secretaria da Ciência, Tecnologia e Educação Superior a
+responsabilidade pela captação das sugestões e propostas emanadas do
+Conselho, para inserção nos planos estaduais, cuidando para que estes se
+articulem com os planos de desenvolvimento socioeconômico, científico e
+tecnológico do Estado e do País, como também com os mecanismos de fomento
+e demais ações de incentivo promovidas pelos Governos Estadual e Federal.
+(Redação dada pela Emenda Constitucional nº 58, de 6 de abril de 2006).
 § 3º Compete à Secretaria da Ciência, Tecnologia e Ensino Superior
 responsabilidade pela captação das sugestões e propostas ema-
 nadas do Conselho, para inserção nos planos estaduais, cuidando
@@ -5335,6 +8440,8 @@ de incentivos promovidas pelos Governos Estadual e Federal.
 
 Art. 258. O Estado manterá uma fundação de amparo à pesquisa,
 para o fomento das atividades de pesquisa científica e tecnológica,
+
+---
 
 atribuindo-lhe dotação mínima, correspondente a dois por cento
 da receita tributária como renda de sua administração privada. 129
@@ -5414,6 +8521,8 @@ XVIII – desenvolver estudos e estimular projetos, visando à utiliza-
 atualmente utilizados em indústrias e veículos por outros menos
 poluentes;
 
+---
+
 XIX – embargar a instalação de reatores nucleares, com exceção
 daqueles destinados exclusivamente à pesquisa científica e ao uso
 terapêutico, cuja localização e especificação serão definidas em lei;
@@ -5440,15 +8549,36 @@ existentes no Estado, ou lançadas à atmosfera ou ao solo, se não
 causarem ou tenderem a causar poluição.
 Art. 262. Será prioritário o uso de gás natural por parte do sistema
 de transporte público.
+Art. 263. O Estado e os Municípios deverão promover educação ambiental em
+todos os níveis de ensino, com vistas à conscientização pública da preservação
+do meio ambiente.
 Art. 263. O Estado e os Municípios deverão promover educação
 ambiental em todos os níveis de ensino, com vistas à conscienti-
 zação pública da preservação e recuperação do meio ambiente.
 
+Art. 264. Para licitação, aprovação ou execução de qualquer obra ou atividade
+pública ou privada potencialmente causadora de significativa degradação do
+meio ambiente e/ou que comporte risco para a vida e a qualidade de vida, é
+obrigatório, nos termos da lei estadual, a realização de estudo prévio de impacto
+ambiental com a publicação do respectivo relatório conclusivo do estudo no
+Diário Oficial do Estado.
+131 Julgado parcialmente inconstitucional na ADI nº 2142-7, dando-lhe interpretação conforme para excluir de seu âmbito de incidência a supressão da competência
+dos Municípios para regular e executar o licenciamento ambiental de atividades e empreendimentos de impacto local, publicado no dia 26 de agosto de 2022, no
+DJE e no DOU. Tese de julgamento: é inconstitucional interpretação do art. 264 da Constituição do Estado do Ceará de que decorra a supressão da competência dos
+municípios para regular e executar o licenciamento ambiental de atividades e empreendimentos de impacto local. Ver ADI n° 2142-7 no Anexo II.
+132 Ver Lei Complementar nº 231, de 13 de janeiro de 2021, no Banco Eletrônico de Leis Temáticas (Belt) da Alece.
+Art. 264. Qualquer obra ou atividade pública ou privada, para as quais a Supe-
+rintendência Estadual do Meio Ambiente SEMACE, exigir Estudo de Impacto
+Ambiental, deverá ter o parecer técnico apreciado pelo Conselho Estadual
+do Meio Ambiente COEMA, com a publicação da resolução, aprovada ou não,
+publicada no Diário Oficial do Estado. (Redação dada pela Emenda Constitu-
+cional nº 22, de 14 de dezembro de 1991). 131
 Art. 264. Ao Estado do Ceará caberá promover o licenciamento
 ambiental de atividades ou empreendimentos utilizadores de
 recursos ambientais, efetiva ou potencialmente poluidores ou
 capazes, sob qualquer forma, de causar degradação ambiental,
 ressalvado aquelas de competência da União e dos Municípios.
+(Redação dada pela Emenda Constitucional nº 126, de 02 de abril de 2025)
 § 1º A lei estabelecerá os tipos de obra ou atividades que podem
 ser potencialmente causadoras de significante degradação do
 meio ambiente e/ou que comportem risco à vida e à qualidade
@@ -5466,19 +8596,27 @@ for favorável à licitação, aprovação ou execução.
 de atividades ou empreendimentos localizados ou desenvolvidos
 em unidades de conservação instituídas pelo Estado, exceto em
 Áreas de Proteção Ambiental (APAs).
+(Redação dada pela Emenda Constitucional nº 126, de 02 de abril de 2025)
 § 4.º Para exercer as atribuições concernentes ao licenciamento das
 intervenções de impacto local, o município deve dispor de órgão
 ambiental capacitado a executar as ações administrativas a serem
 delegadas e de conselho de meio ambiente, em conformidade
 com a legislação vigente.
+(Redação dada pela Emenda Constitucional nº 126, de 02 de abril de 2025)
 § 5.º Considera-se órgão ambiental capacitado, para os efeitos
 do disposto no § 4.º, aquele que possui técnicos próprios ou em
 consórcio, devidamente habilitados e em número compatível
 com a demanda das ações administrativas a serem delegadas.
+(Redação dada pela Emenda Constitucional nº 126, de 02 de abril de 2025)
+
+---
 
 Art. 265. A política de desenvolvimento urbano, executada pelos
 Poderes Públicos Estadual e Municipal, adotará, na forma da lei
 estadual, as seguintes providências:
+I – desapropriação de áreas destinadas à preservação dos mangues, lagoas, ria-
+chos e rios da Grande Fortaleza, vedadas nas áreas desapropriadas construções
+de qualquer espécie, exceção feita aos pólos de lazer, sem exploração comercial;
 I – desapropriação de áreas destinadas à preservação dos mangues,
 lagoas, riachos e rios da Região Metropolitana de Fortaleza e do
 Cariri e de outras que venham a ser criadas, vedadas nas áreas
@@ -5546,11 +8684,22 @@ Art. 271. Cabe ao Estado e aos Municípios promover programas
 que assegurem, progressivamente, os benefícios do saneamento
 à população urbana e rural.
 
+---
+
+#### CAPÍTULO IX
+
+DA FAMÍLIA, DA CRIANÇA, DO ADOLESCENTE,
+DO IDOSO E DA MULHER
+
 #### CAPÍTULO IX
 
 DA FAMÍLIA, DA CRIANÇA, DO ADOLESCENTE,
 DO IDOSO, DA MULHER E DO ÍNDIO
 
+Art. 272. É dever indelegável do Estado assegurar os direitos fundamentais
+da criança, garantida a participação da sociedade civil na alocação e fiscali-
+zação dos recursos destinados a esse fim, observados os princípios contidos
+na Constituição Federal.
 Art. 272. É dever da família, da sociedade e do Estado promover
 ações que visem assegurar à criança e ao adolescente, com priori-
 dade, o direito à vida, à saúde, à alimentação, à educação, ao lazer,
@@ -5568,8 +8717,12 @@ Art. 273. Toda entidade pública ou privada que inclua o atendi-
 mento à criança e ao adolescente, inclusive os órgãos de segu-
 rança, têm por finalidade prioritária assegurar-lhes os direitos
 fundamentais.
+Parágrafo único . As empresas privadas que absorvam contingentes de até cinco
+por cento de deficientes no seu quadro funcional gozarão de incentivos fiscais
+de redução de um por cento no ICMS.
 Parágrafo único . (Declarado inconstitucional, em controle con-
 centrado, pelo Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 429-8, no dia 20 de agosto de 2014, publicada
 no dia 30 de outubro de 2014 no DJE) . 133
 Art. 274. A criança e o adolescente têm o direito de viver e de ser
 educados na sua família natural e, excepcionalmente, em uma
@@ -5615,6 +8768,8 @@ político, econômico e cultural do Estado do Ceará, será consultado
 com prioridade e obrigatoriamente, quando da elaboração de
 políticas públicas, a ela referentes em todas as instâncias da
 administração estadual.
+
+---
 
 Parágrafo único . O Conselho Cearense dos Direitos da Mulher
 gozará de autonomia financeira e administrativa. 135
@@ -5671,8 +8826,10 @@ deficiência, o Estado concederá:
 I – subsídios financeiros à pesquisa;
 II – orientação técnica através de órgãos específicos do Estado ou
 por este indicado;
+III – isenção de cem por cento do ICMS;
 III – (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 429-8, no dia 20 de agosto de 2014, publicada
 no dia 30 de outubro de 2014 no DJE) . 138
 IV – apoio de planejamento técnico, implantação e acompanha-
 mento desses empreendimentos incentivados pelo Estado.
@@ -5681,6 +8838,8 @@ I – atendimento preferencial em seus postos de saúde, estabele-
 cimentos de crédito, e quaisquer órgãos da administração pública
 direta e indireta;
 II – assistência médica, odontológica e social;
+
+---
 
 III – proteção contra a violência, através de órgãos especializados
 da Secretaria de Segurança Pública 140 ;
@@ -5762,6 +8921,8 @@ carentes e idosos;
 VI – a eliminação das barreiras arquitetônicas em logradouros
 e edifícios de uso público extensivo aos terminais rodoviários,
 
+---
+
 ferroviários, metroviários, aeroviários e portuários, bem como
 aos veículos de transporte coletivo;
 VII – a exigência, para a liberação de toda e qualquer obra pública,
@@ -5794,6 +8955,10 @@ por lei, as restrições ao direito de construir e ao uso do solo urbano
 permitirão, no mínimo, a possibilidade de duas categorias de cons-
 trução no imóvel e de uso do solo urbano, estabelecidos no plano
 diretor da cidade de que trata o art. 182 da Constituição Federal.
+§ 2º A petição, para fins de aprovação de projetos de edificações
+e licenças de obras, somente será passível de indeferimento por
+infringência a dispositivos legais ou a decretos regulamentares,
+nos limites autorizados por lei e no prazo contemplado no art. 7º,
 § 2º desta Constituição, não servindo de fundamentação normas
 contidas em portarias, resoluções ou instruções administrativas.
 Art. 294. Para assegurar as funções sociais da propriedade, o Poder
@@ -5836,6 +9001,8 @@ Art. 299. A execução da política habitacional do Estado será rea-
 lizada por órgão estadual responsável pela:
 I – elaboração do programa de construção de moradias populares
 e saneamento básico;
+
+---
 
 II – avaliação e aprimoramento de soluções tecnológicas para
 problemas habitacionais.
@@ -5881,6 +9048,8 @@ gestão dos serviços públicos.
 #### CAPÍTULO XI
 
 DA POLÍTICA AGRÍCOLA E FUNDIÁRIA
+Art. 309. O Estado disporá, por lei, sobre o planejamento da política agrícola, ouvi-
+dos os proprietários, parceiros, posseiros, arrendatários e trabalhadores rurais.
 Art. 309. O Estado disporá, por lei, sobre o planejamento da política
 agrícola, ouvidos os proprietários, parceiros, posseiros, arrendatá-
 rios e trabalhadores rurais, com os seguintes objetivos principais:
@@ -5899,6 +9068,7 @@ verá a capacitação do produtor rural, visando à melhoria de suas
 condições de vida e das de suas famílias, observados:
 I – a difusão de tecnologia agrícola e de administração rural;
 II – o apoio à organização do produtor rural;
+III – a informação de medidas de caráter econômico, social e de política agrícola;
 III – a informação de medidas de caráter econômico, social, ambien-
 tal e de política agrícola;
 
@@ -5915,6 +9085,8 @@ Art. 311. O Estado apoiará as organizações dos produtores rurais,
 especialmente dos pequenos e médios, e disporá de um plano
 estadual de produção e abastecimento, que será elaborado na
 forma da lei pelo órgão estadual de planejamento agrícola.
+
+---
 
 § 1º O Poder Público Estadual prestará assistência obrigatória ao
 pequeno produtor, adotará medidas de valorização e defesa da
@@ -5975,6 +9147,9 @@ com os seguintes princípios:
 a) outorga de título de domínio, ou de concessão de uso aos
 beneficiários de terras devolutas, a uma ou mais pessoas ou
 grupos organizados;
+b) prévia autorização legislativa para concessão ou alienação de terras públicas,
+inclusive devolutas, estabelecido o limite máximo de cem hectares, ainda que
+parceladamente.
 b) as terras públicas, inclusive as devolutas, apuradas através
 de arrecadação sumária ou de processo discriminatório admi-
 nistrativo ou judicial, destinadas a projetos de assentamento ou
@@ -5984,14 +9159,22 @@ Pública Estadual, responsável pela política fundiária do Estado
 do Ceará, independentemente de prévia autorização legislativa,
 estabelecido o limite máximo de 200ha (duzentos hectares) de
 terras, por beneficiário, ainda que parceladamente;
+(Redação dada pela Emenda Constitucional nº 26, de 06 de agosto de 1996).
+c) garantia de simplificação dos procedimentos administrativos, quando a
+área em questão tiver dimensão igual ou inferior a cinquenta hectares, em se
+tratando de terras destinadas a assentamento de trabalhadores rurais, ligados
+a associação ou órgão de representação de classe.
 c) garantia de simplificação dos procedimentos administrativos,
 quando a área envolvida, adquirida para projetos de assenta-
 mento ou de reassentamento de trabalhadores rurais, ligados
 à associação ou à entidade de representação de classe, tiver
 dimensão igual ou inferior a quinze módulos fiscais.
+(Redação dada pela Emenda Constitucional nº 26, de 06 de agosto de 1996).
 Art. 317. A política agrícola do Estado será planejada e executada
 na forma da lei, com a participação efetiva dos setores de produ-
 ção, envolvendo produtores e trabalhadores rurais, e setores de
+
+---
 
 comercialização, armazenamento e de transportes, com base nos
 seguintes princípios:
@@ -6078,6 +9261,8 @@ atendam às recomendações para a preservação do meio ambiente;
 e) criação de mecanismos que proíbam a urbanização de lagoas,
 rios e mangues;
 
+---
+
 X – assistência creditícia às cooperativas, que detenham no seu
 quadro social, mais de cinquenta por cento de pequenos e mini-
 produtores rurais, com utilização do Fundo de Desenvolvimento
@@ -6163,6 +9348,8 @@ VI – do condicionamento e aprovação prévia, por organismos
 estaduais de controle ambiental e de gestão de recursos hídricos,
 dos atos de outorga, pelos Municípios, a terceiros, de direitos que
 
+---
+
 possam influir na qualidade ou quantidade das águas, superficiais
 e subterrâneas; e
 VII – da implantação de programas permanentes de racionalização
@@ -6196,6 +9383,12 @@ mente locais.
 Art. 325. As áreas de vazantes dos açudes públicos estaduais deve-
 rão ser cedidas em comodato pelo Estado para plantio por parte
 dos trabalhadores rurais sem terra da região.
+Parágrafo único . Os proprietários de terras contíguas aos espelhos d´água de
+açudes construídos com participação do Estado, ou totalmente públicos, ficarão
+obrigados a estabelecer servidões com a finalidade de coletivizar o uso da água.
+Parágrafo único . (Revogado).
+
+142 Ver Lei nº 18.310, de 17 de fevereiro de 2023, no Banco de Leis Temáticas (Belt) da Alece.
 § 1º A gestão dos recursos hídricos deve privilegiar a produção de
 alimentos para consumo interno, especialmente de pequenos
 produtores familiares e assentamentos rurais;
@@ -6229,6 +9422,13 @@ estabelecidas por lei.
 irrigadas, será obrigatoriedade do Governo do Estado subsidiar
 a energia elétrica consumida para tal atividade, de acordo com
 lei regulamentar.
+Art. 327. O Estado dispensará às microempresas e às empresas de pequeno
+porte rural, assim definidas em lei, tratamento jurídico diferenciado, redução
+ou eliminação, conforme o caso, de suas obrigações administrativas, tributárias
+previdenciárias e creditícias, nos termos da lei complementar.
+
+---
+
 Art. 327. O Estado dispensará às microempresas e às empresas de
 pequeno porte, assim definidas em lei, tratamento jurídico diferen-
 ciado, visando incentivá-las pela simplificação de suas obrigações
@@ -6250,11 +9450,17 @@ da mulher, inclusive às de planejamento familiar.
 DA ASSISTÊNCIA SOCIAL
 DA PREVIDÊNCIA E ASSISTÊNCIA SOCIAIS
 
+Art. 329. O Estado promoverá programa de prevenção, integração social e
+atendimento especializado para os portadores de deficiência física, sensorial
+ou mental, mediante treinamento para o trabalho e a convivência e a facilitação
+de acesso aos bens e serviços coletivos com a eliminação de preconceitos e
+obstáculos arquitetônicos.
 Art. 329. O Estado promoverá política pública de prevenção, inte-
 gração social e atendimento especializado para as pessoas com
 deficiência, mediante treinamento para o trabalho e a convivência
 e a facilitação de acesso aos bens e serviços coletivos, com a eli-
 minação de preconceitos e obstáculos arquitetônicos.
+(Redação dada pela Emenda Constitucional nº 116, de 03 de novembro de 2022).
 § 1º A lei reservará percentual de cargos e empregos públicos
 estaduais para as pessoas portadoras de deficiência e definirá
 os critérios de sua admissão.
@@ -6263,13 +9469,36 @@ portadora de deficiência, a previsão de rebaixamentos, rampas e
 outros meios adequados de acesso, em logradouros, edificações
 em geral e demais locais de uso público, bem como a adaptação
 das já existentes.
+§ 3º A prevenção da excepcionalidade mental será objeto da atenção máxima
+do Estado, observados seus aspectos de profilaxia (causas sociais, biológicas,
+nutricionais, acidentais, medicamentosas, radioativas); de diagnóstico precoce;
+de tratamento e de desenvolvimento da pesquisa especializada.
 § 3. º A prevenção e o tratamento das pessoas com deficiência será
 objeto da atenção máxima do Estado, observados seus aspectos
 de profilaxia (causas sociais, biológicas, nutricionais, acidentais,
 medicamentosas, radioativas), de diagnóstico precoce, de trata-
 mento e de desenvolvimento da pesquisa especializada.
+(Redação dada pela Emenda Constitucional nº 116, de 03 de novembro de 2022).
 § 4º Fica criado o Fundo de Atenção à Excepcionalidade Mental FAEM,
 para efeito do cumprimento do disposto no caput deste artigo.
+Art. 330. Os órgãos de direção da entidade estadual responsável pela previdência
+e assistência social serão constituídos preferencialmente por servidores públicos
+estaduais de carreira, dela contribuintes.
+Art. 330. A previdência social dos servidores públicos estaduais, civis e militares,
+agentes públicos e dos membros de Poder, ativos, inativos e pensionistas, dos
+Poderes Executivo, Legislativo e Judiciário e do Ministério Público é organizada
+em Sistema Único, administrado pelo Poder Executivo, através das Secretarias
+da Fazenda e da Administração, nos termos da Lei. (Redação dada pela Emenda
+Constitucional n° 52, de 29 de abril de 2003).
+Art. 330. A previdência social dos servidores estaduais, detentores de cargos
+efetivos, incluídas suas autarquias e fundações, dos membros do Poder, ati-
+vos, inativos e pensionistas dos Poderes Executivo, Legislativo e Judiciário e do
+Ministério Público, será organizada em sistema único e terá caráter contributivo
+e solidário, mediante contribuição do Estado do Ceará, dos servidores ativos e
+inativos e dos demais pensionistas, observadas as normas gerais de contabilidade
+e atuária e critérios que preservem o equilíbrio financeiro e atuarial, conforme
+disposto em Lei Complementar. (Redação dada pela Emenda Constitucional n°
+56, de 07 de janeiro de 2004).
 Art. 330. A previdência social dos servidores estaduais, detentores
 de cargos efetivos, dos militares, dos membros de Poder, ativos,
 inativos e pensionistas dos Poderes Executivo, incluídas suas autar-
@@ -6280,6 +9509,7 @@ contribuição do Estado do Ceará, dos segurados e dos pensionistas,
 observadas as normas gerais de contabilidade e atuária e critérios
 que preservem o equilíbrio financeiro e atuarial, conforme o art.
 40 da Constituição Federal e o disposto em lei complementar.
+(Redação dada pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
 § 1º Instituído o Sistema Único de que trata o caput deste artigo,
 ficam extintos, na Administração Pública Estadual, todos os Mon-
 tepios existentes, institutos de aposentadoria e pensão e a Pensão
@@ -6289,18 +9519,30 @@ diversos do disposto neste Capítulo, ressalvando-se a manutenção
 e o pagamento dos benefícios atualmente concedidos, os quais
 serão suportados pelo Sistema Único, nos termos da Lei, respeitado,
 em qualquer caso, o teto remuneratório aplicável.
+(Inserido pela Emenda Constitucional nº 39, de 05 de maio de 1999).
+§ 2º Os Deputados Estaduais não serão contribuintes do Sistema Único de
+que trata o caput deste artigo e poderão ter sistema próprio de previdência
+
+---
+
+social, mantido por contribuição dos segurados e pensionistas e por recursos
+do Estado, nos termos da Lei. (Inserido pela Emenda Constitucional nº 39, de
+05 de maio de 1999).
 § 2. º São segurados obrigatórios do Regime Geral de Previdência
 Social os titulares de mandato eletivo estadual ou municipal,
 salvo se vinculados a regime próprio de previdência social, na
 forma da legislação específica.
+(Redação dada pela Emenda Constitucional nº 127, de 07 de maio de 2025).
 § 3º Os Poderes Executivo, Legislativo e Judiciário disponibiliza-
 rão, mensalmente, a partir de noventa dias da publicação desta
 emenda, os dados, relativos aos seus servidores, necessários ao
 gerenciamento do Sistema Único de Previdência.
+(Inserido pela Emenda Constitucional nº 39, de 05 de maio de 1999).
 § 4° A contribuição previdenciária cobrada dos servidores públicos
 para o custeio, em benefício destes, do regime previdenciário de
 que trata o caput deste artigo, não poderá ter alíquotas inferiores à
 da contribuição dos servidores titulares de cargos efetivos da União.
+(Inserido pela Emenda Constitucional n° 56, de 07 de janeiro de 2004).
 § 5° São também alcançados pelo caput deste artigo, os servidores
 estáveis abrangidos pelo art. 39, caput da Constituição Federal,
 na redação original, c/c o art. 19 do Ato das Disposições Constitu-
@@ -6308,31 +9550,197 @@ cionais Transitórias da Constituição Federal, e o admitido até 5 de
 outubro de 1988, que não tenha cumprido, naquela data, o tempo
 previsto para aquisição da estabilidade no serviço público, desde
 que subordinados ao regime jurídico estatutário.
+(Inserido pela Emenda Constitucional n° 56, de 07 de janeiro de 2004).
 § 6º A idade mínima para aposentadoria no serviço público estadual
 corresponderá à prevista para o servidor público federal, no art.
 40, § 1.º, inciso III, da Constitucional Federal.
+(Inserido pela Emenda Constitucional n° 97, de 19 de dezembro de 2019).
+Art. 331. A contribuição previdenciária descontada de cada servidor público
+estadual e repassada ao Instituto de Previdência do Estado do Ceará - IPEC,
+será destinado ao custeio dos benefícios e auxílios previdenciários, conforme
+se dispuser em lei.
+Art. 331. O Sistema Único de Previdência Social de que trata o artigo anterior
+será organizado com base em normas gerais de contabilidade e atuária, de
+modo a garantir o seu equilíbrio financeiro e atuarial, e será mantido mediante
+contribuição previdenciária, dos ativos, inativos e pensionistas, na alíquota
+mínima de onze por cento sobre as respectivas remuneração, proventos e pen-
+sões, além de contribuição do próprio Estado do Ceará, conforme disposto em
+Lei. (Redação dada pela Emenda Constitucional nº 39, de 05 de maio de 1999).
 Art. 331. Fica vedada a existência de mais de um regime próprio de
 previdência social para os servidores titulares de cargos efetivos e
 de mais de uma unidade gestora do respectivo regime, ressalvado
 o disposto no art. 142, § 3° da Constituição Federal.
+(Redação dada pela Emenda Constitucional n° 56, de 07 de janeiro de 2004).
+§ 1º . O sistema Único de Previdência Social mantido por contribuição previden-
+ciária, atenderá, nos termos da Lei, a: (Inserido pela Emenda Constitucional nº
+39, de 05 de maio de 1999).
+§ 1º . O Sistema Único de Previdência Social mantido por contribuição previden-
+ciária, atenderá, nos termos da Lei, a: (Redação dada pela Emenda Constitucional
+nº 52, de 29 de abril de 2003).
+§ 1° . O Sistema Único de Previdência Social, mantido por contribuição previden-
+ciária, atenderá, nos termos da Lei, a: (Redação dada pela Emenda Constitucional
+nº 55 de 22 de dezembro de 2003)
 § 1° O Sistema Único de Previdência Social, mantido por contribui-
 ção previdenciária, atenderá, nos termos da Lei, a:
+(Redação dada pela Emenda Constitucional nº 69 de 18 de janeiro de 2011)
 I aposentadoria; (Inserido pela Emenda Constitucional nº 39, de 05 de maio
 de 1999).
 I – aposentadoria do segurado;
+(Redação dada pela Emenda Constitucional nº 52, de 29 de abril de 2003).
+II – pensão por morte do segurado ao cônjuge supérstite, companheiro ou com-
+panheira e demais dependentes do segurado, estes desde que devidamente
+inscritos; (Inserido pela Emenda Constitucional nº 39, de 05 de maio de 1999).
+II – pensão por morte do segurado em favor: (Redação dada pela Emenda
+Constitucional nº 52, de 29 de abril de 2003)
+II – pensão por morte do segurado em favor dos dependentes seguintes, provada
+a dependência econômica na forma definida em Lei: (Redação dada pela Emenda
+Constitucional nº 69, de 18 de janeiro de 2011).
+a) do cônjuge supérstite, companheiro ou companheira, e do cônjuge separado
+judicialmente ou do divorciado, estes quando, na data do falecimento do
+segurado, estejam percebendo pensão alimentícia, por força de decisão judicial
+definitiva ou acordo judicial homologado e transitado em julgado; (Inserido
+pela Emenda Constitucional nº 52, de 29 de abril de 2003).
+a) o cônjuge supérstite, o companheiro ou a companheira e o ex-cônjuge sepa-
+rado juridicamente ou divorciado, desde que, nos dois últimos casos, na data do
+falecimento do segurado, esteja percebendo pensão alimentícia devidamente
+comprovada, observado o percentual fixado, que incidirá sobre a cota que
+couber ao cônjuge ou companheiro no rateio da pensão com os beneficiários
+de outras classes; (Redação dada pela Emenda Constitucional nº 69, de 18 de
+janeiro de 2011).
+a) (revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+b) dos filhos menores; (Inserido pela Emenda Constitucional nº 52, de 29 de
+abril de 2003).
+b ) o filho até completar vinte e um anos de idade; (Redação dada pela Emenda
+Constitucional nº 69, de 18 de janeiro de 2011).
+b) (revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+c) dos filhos inválidos e dos tutelados, em ambas as hipóteses quando vivam sob
+dependência econômica do segurado; (Inserido pela Emenda Constitucional
+nº 52, de 29 de abril de 2003)
+
+---
+
+provação da dependência econômica em relação ao segurado; (Redação dada
+pela Emenda Constitucional n° 55 de 22 de dezembro de 2003).
+c) o filho inválido e o tutelado; (Redação dada pela Emenda Constitucional nº
+69, de 18 de janeiro de 2011).
+c) (revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
 II – pensão por morte do segurado, na forma definida em lei;
+(Redação dada pela Emenda Constitucional nº 85, de 10 de dezembro de
 2015).
+III – auxílio reclusão, no limite definido em Lei. (Inserido pela Emenda Consti-
+tucional nº 39, de 05 de maio de 1999).
+III – salário-família, na forma definida em lei. (Redação dada pela Emenda
+Constitucional nº 85, de 10 de dezembro de 2015).
+III – (revogado).
+(Revogado pela Emenda Constitucional n° 97, de 19 de dezembro de 2019).
+IV – salário-família; e (Inserido pela Emenda Constitucional n° 52, de 29 de
+abril de 2003).
+IV – (revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+V – salário-maternidade. (Inserido pela Emenda Constitucional n° 52, de 29
+de abril de 2003).
+V – (revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+§ 2º Os planos de Previdência Social a serem desenvolvidos pelo IPEC, mediante
+contribuição do segurado, atenderão, nos termos da lei, a:
 I – cobertura dos eventos de morte e reclusão;
 II – concessão de auxílios para segurados de baixa renda;
 III – pensão por morte do segurado, homem ou mulher, ao cônjuge ou compa-
 nheiro e dependentes, obedecido o disposto nos §§ 1º e 2º deste artigo.
+§ 2° Nenhuma aposentadoria ou pensão terá valor mensal inferior ao salário
+mínimo, ressalvados os casos de aposentadoria e pensões proporcionais.
+(Redação dada pela Emenda Constitucional nº 39, de 05 de maio de 1999).
 § 2º Nenhuma aposentadoria ou pensão terá valor mensal inferior
 ao salário mínimo.
+(Redação dada pela Emenda Constitucional n° 55 de 22 de dezembro de 2003).
+§ 3º Nenhum benefício que substitua o salário de contribuição ou rendimento
+do trabalho do segurado, terá valor mensal inferior ao salário mínimo.
+§ 3º Ressalvados os casos de aposentadoria proporcional, a pensão por morte
+corresponderá à totalidade do subsídio, vencimentos ou proventos do servidor
+falecido, independentemente do número de dependentes inscritos, respeitado,
+em qualquer caso, o teto remuneratório aplicável. (Redação dada pela Emenda
+Constitucional nº 39, de 05 de maio de 1999).
 § 3º A pensão por morte será calculada, na forma da lei, com base
 no subsidio, vencimentos ou proventos do segurado falecido,
 independentemente do número de dependentes inscritos, res-
 peitado, em qualquer caso, o teto remuneratório aplicável, e
 observado o disposto no § 7º do art 40, da Constituição Federal.
+(Redação dada pela Emenda Constitucional nº 85, de 10.12.2015).
+§ 4° O benefício da pensão por morte corresponderá à totalidade dos
+vencimentos ou proventos do servidor falecido, independentemente do número
+de dependentes e até o limite de setenta por cento do teto remuneratório
+atribuído aos servidores.
+§ 4º A pensão por morte, prevista no parágrafo anterior, será devida a partir:
+(Redação dada pela Emenda Constitucional nº 39, de 05 de maio de 1999).
+§ 4º . A pensão por morte, prevista no parágrafo anterior, será devida a partir:
+(Redação dada pela Emenda Constitucional n° 52, de 29 de abril de 2003).
+§ 4° A pensão por morte, prevista no parágrafo anterior, será devida a partir:
+(Redação dada pela Emenda Constitucional nº 69, de 18 de janeiro de 2011).
+§ 4° (Revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+I – do óbito, quando requerida até noventa dias depois deste; (Inserido pela
+Emenda Constitucional nº 39, de 05 de maio de 1999).
+I – do óbito; (Redação dada pela Emenda Constitucional n° 52, de 29 de abril
+de 2003).
+I – da data do óbito, se requerido o beneficio em até 90 (noventa) dias do faleci-
+mento; (Redação dada pela Emenda Constitucional nº 69, de 18 de janeiro de 2011).
+I – (revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+II – do requerimento, quando requerida após o prazo previsto no inciso anterior
+ou no caso de inclusão post mortem qualquer que seja o status do dependente;
+(Inserido pela Emenda Constitucional nº 39, de 05 de maio de 1999).
+II – do requerimento, no caso de inclusão post mortem qualquer que seja a
+condição do dependente; (Redação dada pela Emenda Constitucional n° 52,
+de 29 de abril de 2003).
+II – da data do requerimento, no caso de inclusão post-mortem, nos termos e
+situações definidos em lei; (Redação dada pela Emenda Constitucional nº 69,
+de 18 de janeiro de 2011).
+II – (revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+III – da sentença judicial, no caso de morte presumida ou ausência. (Inserido
+pela Emenda Constitucional nº 39, de 05 de maio de 1999).
+III – do trânsito em julgado da sentença judicial, no caso de morte presumida
+ou de ausência. (Redação dada pela Emenda Constitucional n° 52, de 29 de
+abril de 2003).
+III – da data do requerimento, se o benefício for requerido após noventa dias do
+óbito; (Redação dada pela Emenda Constitucional nº 69, de 18 de janeiro de 2011).
+III – (revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+
+---
+
+IV – da data do trânsito em julgado da sentença judicial, no caso de morte
+presumida ou ausência. (Inserido pela Emenda Constitucional nº 69, de 18
+de janeiro de 2011).
+IV – (revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+§ 4° (Revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+§ 5º Nenhum benefício da Previdência Social poderá ser criado, majorado ou
+estendido, sem a correspondente fonte de custeio total.
+§ 5º A pensão decorrente de contribuição paga por qualquer ocupante de cargo,
+função ou emprego público da administração direta, autárquica e fundacional, ou
+por membros de quaisquer dos Poderes do Estado, inclusive do Ministério Público,
+somente poderá ter como beneficiários o cônjuge supérstite, a companheira ou o
+companheiro, e os filhos menores do segurado, sendo vedada a designação legal
+ou indicação de quaisquer outros beneficiários, inclusive netos, ressalvados os
+casos de tutela judicial e de invalidez, sempre que demonstrada a dependência
+econômica. A pensão será paga metade ao cônjuge supérstite, companheira ou
+companheiro, e metade, em partes iguais, aos filhos menores. (Redação dada
+pela Emenda Constitucional nº 39, de 05 de maio de 1999).
+§ 5° A pensão por morte decorrente de contribuição paga por qualquer ocupante
+de cargo, função ou emprego público da administração direta, autárquica e
+fundacional, ou por membros de quaisquer dos Poderes do Estado, inclusive
+do Ministério Público, somente poderá ter como beneficiários as pessoas indi-
+cadas no § 1°, inciso II, deste artigo, vedada a designação legal ou indicação de
+quaisquer outros beneficiários, inclusive netos. A pensão será paga metade às
+pessoas indicadas na letra a do inciso II, observados os percentuais estabele-
+cidos na decisão judicial que fixou a pensão alimentícia, e metade, em partes
+iguais, aos indicados nas letras b e c do inciso II. (Redação dada pela Emenda
+Constitucional n° 52, de 29 de abril de 2003).
 § 5º A pensão por morte decorrente de contribuição paga por qualquer ocupante
 de cargo, função ou emprego público da administração direta, autárquica e
 fundacional, ou por membros de quaisquer dos Poderes do Estado, inclusive
@@ -6347,13 +9755,128 @@ janeiro de 2011).
 § 5º Lei definirá a forma de concessão, rateio e o marco inicial do
 benefício de pensão, inclusive as causas de sua cessação e o rol
 de dependentes.
+(Redação dada pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+§ 6º Os benefícios e auxílios previdenciários serão custeados com as fontes
+previstas neste capítulo.
+§ 6º Na falta dos filhos menores, ou quando por qualquer motivo cessar o
+pagamento a estes, a pensão será paga integralmente ao cônjuge supérstite,
+companheiro ou companheira, assim como na falta destes, a pensão será paga
+§ 6° Na falta dos beneficiários indicados na letra a do inciso II, do § 1°, ou quando
+por qualquer motivo cessar o pagamento a estes, a pensão por morte será
+paga integralmente aos beneficiários indicados nas letras b e c e vice-versa,
+observando-se sempre, na forma de rateio entre os concorrentes, o disposto
+no parágrafo anterior. (Redação dada pela Emenda Constitucional n° 52, de
+29 de abril de 2003).
+§ 6º Na falta dos beneficiários indicados na alínea “a” do inciso II, do § 1°, por
+qualquer motivo, inclusive a perda superveniente da condição de beneficiário,
+a pensão por morte será paga integralmente aos beneficiários indicados nas
+alíneas “b” e “c” e vice-versa, observando-se sempre, na forma de rateio entre os
+concorrentes, o disposto nos parágrafos anteriores, inclusive quanto à incidência
+do percentual de pensão alimentícia, se existente, não podendo a quota percebida
+pelo cônjuge separado juridicamente ou ex-cônjuge divorciado, em qualquer
+hipótese, superar o percentual fixado a título de pensão alimentícia. (Redação
+dada pela Emenda Constitucional nº 69, de 18 de janeiro de 2011).
+§ 6º (Revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+§ 7º - Cessa o pagamento da pensão: (Inserido pela Emenda Constitucional nº
+39, de 05 de maio de 1999).
+§ 7° Cessa o pagamento da pensão por morte; (Redação dada pela Emenda
+Constitucional n° 52, de 29 de abril de 2003).
+§ 7° . Cessa o pagamento da pensão: (Redação dada pela Emenda Constitucional
+n° 55, de 22 de dezembro de 2023).
+§ 7° Cessa o pagamento da pensão: (Redação dada pela Emenda Constitucional
+nº 69, de 18 de janeiro de 2011).
+§ 7° (Revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+I – em relação ao cônjuge supérstite, companheiro ou companheira, na data em
+que contrair núpcias, constituir nova união estável ou falecer; (Inserido pela
+Emenda Constitucional nº 39, de 05 de maio de 1999).
+I – em relação ao cônjuge supérstite, companheira ou companheiro, e ao cônjuge
+separado judicialmente ou divorciado, na data em que contraírem núpcias,
+constituírem nova união estável ou falecerem; (Redação dada pela Emenda
+Constitucional n° 52, de 29 de abril de 2003).
+I – em relação ao cônjuge supérstite, companheira ou companheiro e ao ex-côn-
+juge separado juridicamente ou divorciado, beneficiário de pensão alimentícia,
+na data em que contraírem novas núpcias ou constituírem nova união estável;
+(Redação dada pela Emenda Constitucional nº 69, de 18 de janeiro de 2011).
+I – (revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+II – em relação a filho, filha ou tutelado, na data em que atingir a maioridade
+ou quando de sua emancipação, salvo se inválido(a) totalmente para o traba-
+lho até o falecimento do segurado, comprovada, neste caso, a dependência
+econômica em relação ao segurado. (Inserido pela Emenda Constitucional nº
+39, de 05 de maio de 1999).
+
+---
+
+salvo se inválido(a) ou quando de sua emancipação. (Redação dada pela Emenda
+Constitucional n° 55, de 22 de dezembro de 2003).
+II – em relação ao filho ou filha, na data em que atingir vinte e um anos, salvo
+se inválido(a) totalmente para qualquer trabalho até o falecimento do segu-
+rado, comprovada, neste caso e a na forma da Lei, a dependência econômica
+em relação a este. (Redação dada pela Emenda Constitucional nº 69, de 18 de
+janeiro de 2011).
+II – (revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+III – em relação ao tutelado, na data em que atingir vinte e um anos, ainda que
+cessada a tutela com o óbito do segurado; (Inserido pela Emenda Constitucional
+nº 69, de 18 de janeiro de 2011).
+III – (revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+IV – com o falecimento dos beneficiários; (Inserido pela Emenda Constitucional
+nº 69, de 18 de janeiro de 2011).
+IV – (revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+V – em todos os demais casos definidos em lei. (Inserido pela Emenda Consti-
+tucional nº 69, de 18 de janeiro de 2011).
+V – (revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+§ 8º Os serventuários da Justiça, não remunerados pelos cofres públicos, não
+contribuirão para o Sistema Único de Previdência Social do Estado do Ceará
+de que trata este artigo, ressalvados os inscritos anteriormente ao advento
+da Lei Federal nº 8.935, de 18 de novembro de 1994. (Inserido pela Emenda
+Constitucional nº 39, de 05 de maio de 1999).
+§ 8º (Revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+§ 9º Observado o disposto no parágrafo anterior, a contribuição previdenciária a
+ser recolhida pelos serventuários da Justiça, ativos e inativos, não remunerados
+pelos cofres públicos e seus pensionistas, corresponderá, no mínimo, a vinte por
+cento, incidente sobre toda a remuneração, proventos ou pensão percebidos,
+conforme o caso, nos termos dispostos em Lei. (Inserido pela Emenda Consti-
+tucional nº 39, de 05 de maio de 1999).
+§ 9º (Revogado).
+(Revogado pela Emenda Constitucional nº 85, de 10 de dezembro de 2015).
+§ 10 Observado o disposto nos §§ 8º e 9º, os serventuários da Justiça, não remune-
+rados pelos cofres públicos terão os proventos de suas aposentadorias fixados
+de acordo com a média das remunerações que serviu de base de cálculo para as
+96 (noventa e seis) últimas contribuições efetivamente recolhidas à entidade
+estadual responsável pela previdência social, sendo tais proventos e pensões
+reajustados na mesma época e índice dos reajustes gerais dos servidores do
+Estado. (Inserido pela Emenda Constitucional nº 39, de 05 de maio de 1999).
+§ 10 (Revogado).
 § 11 Nenhum benefício de previdência social poderá ser criado
 majorado ou estendido, sem a correspondente fonte de custeio total.
+(Inserido pela Emenda Constitucional nº 39, de 05 de maio de 1999).
+§ 12 A contribuição previdenciária do Sistema Único de Previdência Social
+não incidirá sobre a parcela de até R$ 300,00 (trezentos reais) do provento ou
+pensão. (Inserido pela Emenda Constitucional nº 39, de 05 de maio de 1999).
+§ 12 (Revogado).
+(Revogado pela Emenda Constitucional n° 56, de 07 de janeiro de 2004).
+§ 13 O servidor público civil ativo, os agentes públicos ativos e os membros
+de Poder ativos do Estado do Ceará, que permanecerem em atividade após
+completar as exigências para a aposentadoria voluntária integral nas condições
+previstas no art. 40 da Constituição Federal, na redação dada pela Emenda
+Constitucional nº 20, de 15 de dezembro de 1998, ou nas condições previstas
+no art. 8º, da mesma Emenda, farão jus à não incidência da contribuição
+previdenciária até a data da publicação da concessão de sua aposentadoria,
+voluntária ou compulsória. (Inserido pela Emenda Constitucional nº 39, de 05
+de maio de 1999).
 § 13 . O servidor público civil ativo, os agentes públicos ativos e os
 membros de Poder ativos do Estado do Ceará, que permanecerem
 em atividade após completar as exigências para inativação, farão
 jus a abono de permanência nos termos e limites estabelecidos
 pela Constituição Federal e respectivas Emendas.
+(Redação dada pela Emenda Constitucional nº 69, de 18 de janeiro de 2011).
 § 14 º. Integram o Sistema Único de Previdência os servidores
 estaduais que, embora não estáveis, nem estabilizados excep-
 cionalmente pelo art. 19, do ADCT, da Constituição Federal, hajam
@@ -6366,12 +9889,31 @@ mento até seis anos de idade em creches e pré-escolas; e
 II – local apropriado, nos estabelecimentos públicos e privados em
 que trabalhem, pelo menos, trinta mulheres, para guardarem sob
 vigilância e assistência os seus filhos no período de amamentação.
+Art. 333. A prevenção da excepcionalidade física e sensorial será objeto de
+assistência do Estado, observados aspectos de profilaxia, de diagnóstico precoce,
+de tratamento e de desenvolvimento da pesquisa especializada.
+Art. 333. (Revogado).
+(Revogado pela Emenda Constitucional nº 116, de 03 de novembro de 2022).
+Parágrafo único . Fica criado o Fundo de Assistência à Excepcionalidade Física e
+Sensorial FAES, para efeito do cumprimento do disposto no caput deste artigo.
+Parágrafo único . (Revogado).
+(Revogado pela Emenda Constitucional nº 116, de 03 de novembro de 2022).
+
+---
+
 Art. 334. O Estado institucionalizará casas de abrigos e albergues
 para mulheres vítimas de violência.
+Art. 335. O pensionista do Instituto da Previdência do Ceará receberá no nível
+inicial pelo menos um salário mínimo.
 Art. 335. Nenhum provento ou pensão, pago pelo Sistema Único de
 Previdência Social do Estado do Ceará, poderá ser superior a cem
 por cento da totalidade do subsídio ou vencimento do segurado
 quando na atividade.
+(Redação dada pela Emenda Constitucional nº 39, de 05 de maio de 1999).
+Parágrafo único Os pensionistas terão seus benefícios atualizados ao nível do
+que percebia o funcionário, quando de seu falecimento. 143
+Parágrafo único . (Revogado).
+(Revogado pela Emenda Constitucional nº 39, de 05 de maio de 1999).
 Art. 336. São direitos sociais: a educação, a habitação, a saúde,
 o trabalho, o lazer, a segurança, a previdência social, a proteção
 à maternidade e à infância, a assistência aos desamparados, na
@@ -6379,7 +9921,10 @@ forma desta Constituição.
 143 Havia uma suspensão por medida cautelar deferida pelo STF na ADI nº 145-1. No entanto, a ação, em relação a esse parágrafo
 único, foi julgada prejudicada em virtude da revogação do dispositivo pela EC nº 39/1999. Ver ADI nº 145-1 no Anexo II.
 
+---
+
 #### ATO DAS DISPOSIÇÕES CONSTITUCIONAIS
+
 
 #### TRANSITÓRIAS
 
@@ -6394,6 +9939,9 @@ sanitário, limpeza pública e drenagem);
 – habitação;
 – transporte coletivo e sistema viário metropolitano;
 – proteção do meio ambiente.
+Art. 2º Em razão da construção do açude público do Castanhão, fica redefinido
+o espaço físico do Município de Jaguaribara, que passa a Ter as delimitações
+seguintes: 144
 I – ao Norte, confinando com os Municípios de Morada Nova, São João do Jagua-
 ribe e alto Santo, coincidindo com os limites do distrito de Castanhão descritos
 na Lei nº 3.814, de 13 de setembro de 1957, partindo desse limite em linha reta
@@ -6412,6 +9960,7 @@ de 1957, até então sujeito à jurisdição do Município de Alto Santo.
 Art. 2º Em razão da construção do Açude Público do Castanhão,
 deverá ser redefinido o espaço físico do Município de Juaguaribara,
 passando a ter as seguintes delimitações:
+(Redação dada pela Emenda Constitucional nº 25, de 15 de dezembro de 1995).
 A) ao Norte com o Município de Morada Nova:
 Começa na interseção da reta que liga a foz do riacho Junqueiro no Rio Jua-
 guaribe, à foz do riacho Mão Quebrada no riacho Desterro com a reta que liga o
@@ -6435,6 +9984,7 @@ ponto; daí segue por outra reta até o ponto de latitude 5° 23’
 o ponto de latitude 5° 24’ 40” S e longitude 38° 22’ 31” W, que
 incide com o divisor de águas entre o Rio Jaguaribe e o riacho
 do Livramento.
+(Redação dada pela Emenda Constitucional nº 30, de 13 de maio de 1997).
 B) Ao Leste com o município de Alto Santo:
 Começa na interseção da reta tirada entre o ponto de Latitude 5° 23’ 45” e
 Longitude 38° 26’ 26” e o ponto de Latitude 5° 21’ 05” e Longitude 38° 23’ 41”
@@ -6444,6 +9994,7 @@ vai em linha reta até o ponto de Latitude 5º 26’ 49” e Longitude 38° 25�
 rio Jaguaribe pelo qual sobe até a foz do riacho Junqueiro; sobe por este riacho
 até a foz do riacho do Meio, sobe pelo riacho do Meio até o seu cruzamento
 com a BR-116, de onde segue em linha reta até a ponta Norte da serra Micaela.
+(Redação dada pela Emenda Constitucional nº 25, de 15 de dezembro de 1995).
 B) Ao Leste com o município de Alto Santo:
 Começa na interseção da reta tirada entre o ponto de latitude
 5° 23’ 45” e longitude 38° 26’ 26” e o ponto de latitude 5° 24’ 40”
@@ -6458,14 +10009,19 @@ para o ponto de latitude 5° 26’ 08” S e longitude 38° 26’ 10” W,
 que incide na linha de divisa do Projeto Xique-Xique, daí segue
 pela mesma reta até o ponto de latitude 5° 26’ 40” S e longitude
 38° 25’ 27” W, situado na margem do Rio Jaguaribe.
+(Redação dada pela Emenda Constitucional nº 30, de 13 de maio de 1997).
 C) Ainda a Leste com o município de Iracema:
 Permanece a mesma divisa definida na Lei 3.814/57, alínea “e”. (Redação dada
 pela Emenda Constitucional nº 25, de 15 de dezembro de 1995).
 C) Ainda a Leste com o município de Iracema:
 Permanece a mesma divisa definida na alínea “C” da Lei 3.550
 de 9 de março de 1957.
+(Redação dada pela Emenda Constitucional nº 30, de 13 de maio de 1997).
+
+---
 
 Permanece a mesma divisa definida na Lei 3.550/57, alínea “d”.
+(Redação dada pela Emenda Constitucional nº 25, de 15 de dezembro de 1995).
 E) A Oeste com o município de Jaguaretama:
 Começa no cruzamento da estrada que liga as cidades de Jagua-
 ribe e Jaguaretama no riacho Manoel Lopes, daí em linha reta vai
@@ -6480,6 +10036,7 @@ daí por outra reta vai ao ponto de Latitude 5° 26’ 48” e Longitude
 07” e Longitude 38° 30’ 06” até sua interseção com a reta tirada
 da foz do riacho Junqueiro no Rio Jaguaribe para a foz do riacho
 Mão Quebrada no riacho Desterro.
+(Redação dada pela Emenda Constitucional nº 25, de 15 de dezembro de 1995).
 Parágrafo único . A área descrita passa a compor o novo espaço territorial do
 Município de Jaguaribara, para cumprimento da relocalização e reurbanização
 do distrito-sede de Jaguaribara e da sede do distrito de Poço Comprido.
@@ -6491,11 +10048,13 @@ de Jaguaribara e da sede do distrito de Poço Comprido.
 § 2º O disposto no “caput” deste Artigo fica a depender de con -
 sulta prévia, mediante plebiscito, às populações diretamente
 interessadas.
+(Inserido pela Emenda Constitucional nº 25, de 15 de dezembro de 1995).
 § 3º No caso de resultado desfavorável, na consulta prevista no
 parágrafo anterior, os limites municipais serão redefinidos, nos
 termos da Lei, observados os requisitos previstos em Lei Comple-
 mentar Estadual, e dependendo de nova consulta prévia, mediante
 plebiscito às populações diretamente interessadas.
+(Inserido pela Emenda Constitucional nº 25, de 15 de dezembro de 1995).
 Art. 3º Fica criado o Campus Industrial Avançado do Cariri, obri-
 gando-se o Governo Estadual a desapropriar área de cem hectares
 nos Municípios de Crato, Juazeiro do Norte ou Barbalha, para a
@@ -6543,6 +10102,8 @@ de 1964 a 31 de dezembro de 1970, tiveram no Estado do Ceará, os
 seus mandatos cassados por motivos políticos, embora a formali-
 zação dos atos tenha invocados outras fundamentações jurídicas.
 
+---
+
 Art. 10. Dentro de noventa dias, a contar da data de promulgação
 desta Constituição, o Governador enviará à Assembleia Legislativa
 a estrutura organizacional do Poder Executivo, na qual constarão
@@ -6561,11 +10122,21 @@ por concurso público de provas e títulos.
 § 4º Não se permitirá que qualquer cartório notarial, de registro e
 escrivania fique vago por mais de seis meses, sem a abertura de
 concurso público de provimento ou de remoção.
+§ 5º Fica assegurada aos substitutos das serventias extrajudiciais e judiciais na
+vacância a efetivação, no cargo de titular, desde que, investidos na forma da
+lei, na data da promulgação desta Constituição, contem ou venham a contar
+cinco anos de exercício, nessa condição e na mesma serventia.
 § 5º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 251-1, no dia 27 de agosto de 2014, publicada
 no dia 06 de novembro de 2014, no DJE). 148
+Art. 12. São considerados estáveis no serviço público todos os servidores das
+serventias judiciais, conforme a Emenda à Constituição nº 22, de vinte e nove
+de julho de 1982, que contem pelo menos cinco anos de serviço e até cinco de
+outubro de 1989.
 Art. 12. (Declarado inconstitucional, em controle concentrado,
 pelo Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 251-1, no dia 27 de agosto de 2014, publicada
 no dia 06 de novembro de 2014, no DJE). 149
 Art. 13. O Tribunal de Alçada a que se refere o art. 113 desta Cons-
 tituição deverá ser instalado no prazo máximo de seis meses, a
@@ -6595,18 +10166,43 @@ Parágrafo único . Não havendo, no prazo acima referido, lei comple-
 mentar regulamentando a atuação do Conselho, este será convocado
 pelo seu presidente dentro de trinta dias, passando a reger-se pelo
 regimento que adotar, até o advento da mencionada lei.
+Art. 16. Os atuais ocupantes dos cargos de Procurador junto ao Conselho de
+Contas dos Municípios neles permanecerão até quando se aposentarem, e
+passarão a se denominar Procuradores de Justiça, integrantes do Ministério
+Público Estadual.
+Art. 16. Os atuais ocupantes dos cargos de Procurador junto ao Tribunal de
+Contas dos Municípios neles permanecerão até quando se aposentarem, e
+passarão a se denominar Procuradores de Justiça, integrantes do Ministério
+Público Estadual. (Redação dada pela Emenda Constitucional nº 09, de 16 de
+dezembro de 1992).
 Art. 16. (Declarado inconstitucional, em controle concentrado,
 pelo Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 3315, no dia 6 de março de 2008, publicada no
 dia 14 de maio de 2008, no DJE e no DOU) . 151
+Parágrafo único . Aplica-se o disposto neste artigo aos Procuradores do Conselho
+de Contas dos Municípios com processo de aposentadoria em tramitação no
+Tribunal de Contas do Estado, bem como aos aposentados.
+Parágrafo único . Aplica-se o disposto neste artigo Procuradores do Tribunal
+de Contas dos Municípios com processo de aposentadoria em tramitação no
+Tribunal de Contas do Estado, bem como aos aposentados. (Redação dada pela
+Emenda Constitucional nº 9, de 16 de dezembro de 1992).
+
+---
+
 Parágrafo único . (Declarado inconstitucional, em controle con-
 centrado, pelo Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 3315, no dia 6 de março de 2008, publicada no
 dia 14 de maio de 2008, no DJE e no DOU) . 152
 Art. 17. Aos Conselheiros do Tribunal de Contas dos Municípios,
 nomeados antes da vigência da Constituição Federal de 1988,
 não se aplica o art. 79, § 3º, parte final.
+Parágrafo único . Para as duas vagas adicionais do Conselho de contas dos
+Municípios, de que trata o art. 79, os Conselheiros serão indicados pela Assem-
+bleia Legislativa.
 Parágrafo único . Para as duas vagas adicionais ao Tribunal de
 Contas dos Municípios, de que trata o art. 79, os Conselheiros serão
 indicados pela Assembleia Legislativa. 153
+(Redação dada pela Emenda Constitucional nº 09, de 16 de dezembro de 1992).
 Art. 18. Ficam criadas a Universidade Regional de Itapipoca URIT,
 a Universidade Vale do Poti UVAP com sede em Crateús, a Univer-
 sidade Regional de Quixadá UREQ e a Universidade Regional do
@@ -6668,32 +10264,102 @@ municípios que não disponham de previdência e assistência
 médica, odontológica, farmacêutica e hospitalar, o direito de
 filiar-se aos correspondentes órgãos do Estado, na forma da lei
 estadual complementar, que estabelecerá os critérios necessários.
+Art. 25. Os servidores públicos do Estado e dos Municípios, da administração
+direta, de autarquia, empresas públicas, sociedades de economia mista e
+das fundações públicas, na data da promulgação desta Constituição, há pelo
+menos cinco anos, e que não tenham sido admitidos mediante aprovação
+prévia em concursos públicos de provas e títulos, são considerados estáveis
+no serviço público.
+
+---
+
 Art. 25. (Declarado inconstitucional, em controle concentrado,
 pelo Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 289-9, no dia 09 de fevereiro de 2007, publicada
 no dia 30 de março de 2007, no DJE). 154
+§ 1º O tempo de serviço dos servidores será contado como titulo quando submetidos
+a concurso, para fins de efetivação, na forma da lei.
 § 1º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 289-9, no dia 09 de fevereiro de 2007, publicada
 no dia 30 de março de 2007, no DJE). 155
+§ 2º O disposto no caput deste artigo não se aplica aos ocupantes de cargos,
+funções e empregos de confiança ou em comissão, nem aos que a lei declare
+de livre exoneração, cujo tempo de serviço não será computado para os fins
+deste artigo, exceto se se tratar de servidor.
 § 2º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 289-9, no dia 09 de fevereiro de 2007, publicada
 no dia 30 de março de 2007, no DJE). 156
+§ 3º Com a estabilidade de que trata o caput deste artigo, as funções de cará-
+ter eventual dos servidores em geral passam a ser de natureza permanente,
+caracterizando-se como cargos, devendo como tais ser considerados, para
+todos os efeitos.
 § 3º (Declarado inconstitucional, em controle concentrado, pelo
 Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 289-9, no dia 09 de fevereiro de 2007, publicada
 no dia 30 de março de 2007, no DJE). 157
+Art. 26. Os servidores públicos civis do Estado e dos Municípios que ingressaram
+na administração direta por processo seletivo de caráter público e de provas
+eliminatórias, em exercício profissional, há pelo menos dois anos, são consi-
+derados efetivos de pleno direito.
 Art. 26. (Declarado inconstitucional, em controle concentrado,
 pelo Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 289-9, no dia 09 de fevereiro de 2007, publicada
 no dia 30 de março de 2007, no DJE). 158
+Art. 27. Fica extensiva aos Técnicos de Programação Educacional, a vantagem
+de que trata o art. 3º da Lei nº 9.375, de 10 de julho de 1970 com a alteração
+constante do art. 1º da Lei nº 10.165, de 21 de março de 1978, bem como os
+154 Ver ADI n° 289-9 no Anexo II.
+155 Ver ADI n° 289-9 no Anexo II.
+156 Ver ADI n° 289-9 no Anexo II.
+157 Ver ADI n° 289-9 no Anexo II.
+158 Ver ADI n° 289-9 no Anexo II.
+159 Ver ADI n° 145-1 no Anexo II.
+160 Ver ADI n° 145-1 no Anexo II.
+161 Ver ADI n° 289-9 no Anexo II.
+nos quadros da administração direta e indireta, a vantagem de que trata o artigo
+3º e parágrafo único da Lei nº 9.375, de 10 de julho de 1970, com a alteração
+constante do art. 1º e seu parágrafo da único da Lei nº 10.165, de 21 de março de
+1978 e com a alteração constante do art. 1º e seus parágrafos da Lei nº 11.243,
+de 12 de dezembro de 1986.
 Art. 27. (Declarado inconstitucional, em controle concentrado,
 pelo Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 145-1, no dia 20 de junho de 2018, publicada
 no dia 26 de junho de 2018, no DJE). 159
+Art. 28. Fica extensiva aos ocupantes dos cargos técnicos de programação
+educacional, de provimento efetivo de quadro de pessoal a que se refere a
+Lei nº 10.776, de 17 de dezembro de 1982, com a alteração do art. 7º da Lei nº
+11.463, de 17 de julho de 1988, bem como aos ocupantes dos cargos de assistente
+técnico de educação, auditor de educação e técnico de educação de que tratam
+as Leis nºs 10.703, de 13 de agosto de 1982 e 10.876, de 26 de dezembro de
+1983, a vantagem de que trata o art. 3º, da Lei nº 9.375, de 10 de julho de 1970
+com a alteração constante no art. 1º da Lei nº 10.165, de 21 de março de 1978.
 Art. 28. (Declarado inconstitucional, em controle concentrado,
 pelo Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 145-1, no dia 20 de junho de 2018, publicada
 no dia 26 de junho de 2018, no DJE). 160
+Art. 29. Ficam efetivados os servidores públicos civis do Estado e dos Municípios,
+da administração direta, de autarquias e das fundações públicas, em exercício na
+data da promulgação desta Constituição há pelo menos cinco anos continuados,
+e que não tenham sido admitidos na forma regulada no art. 37 da Constituição
+Federal, tornando-se estáveis no serviço público.
 Art. 29. (Declarado inconstitucional, em controle concentrado,
 pelo Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 289-9, no dia 09 de fevereiro de 2007, publicada
 no dia 30 de março de 2007, no DJE). 161
+Art. 30. Os servidores da administração direta e indireta, colocados à disposição,
+remanejados ou prestando serviço a qualquer órgão dos Poderes do Estado,
+passam a integrar o quadro no emprego ou cargo pertinente à respectiva pres-
+tação de serviço e ao regime jurídico correspondente, desde que façam opção
+até noventa dias após a promulgação desta Constituição, perante o órgão a
+que estão agregados.
+
+---
+
 Art. 30. (Declarado inconstitucional, em controle concentrado,
 pelo Supremo Tribunal Federal).
+(Decisão proferida na ADI nº 289-9, no dia 09 de fevereiro de 2007, publicada
 no dia 30 de março de 2007, no DJE). 162
 Art. 31. Será criado, dentro de trinta dias da promulgação da Consti-
 tuição, grupo de trabalho, com dez membros, sendo cinco indicados
@@ -6768,6 +10434,8 @@ Ceará, o bombeiro militar ocupará vaga no quadro de organização
 da corporação, na qualificação policial militar parcial correlata
 ou, na falta desta, na qualificação de combatente.
 
+---
+
 § 3º Inexistindo vaga nas qualificações citadas no parágrafo ante-
 rior, o bombeiro militar será incluído na qualificação de comba-
 tente na condição de excedente.
@@ -6782,26 +10450,44 @@ Art. 41. Os Municípios, no prazo de doze meses, adotarão providên-
 cias no sentido de dotar suas administrações públicas, de legislação
 específica suplementar à Lei Federal nº 4.320, de 17 de março de
 1964, nos termos do inciso II, do art. 30, da Constituição Federal.
+(Inserido pela Emenda Constitucional nº 35, de 30 de junho de 1998).
+Art. 42. Fica instituído o Novo Regime Fiscal no âmbito dos orçamentos Fiscal
+e da Seguridade Social do Estado, que vigorará por dez exercícios financeiros,
+nos termos dos arts.43 a 49 deste Ato das Disposições Constitucionais
+Transitórias. (Inserido pela Emenda Constitucional nº 88, de 21 de dezembro
+de 2016). 165
 Art. 42. Fica instituído o Novo Regime Fiscal no âmbito dos orça-
 mentos Fiscal e da Seguridade Social do Estado, que vigorará por
 15 (quinze) exercícios financeiros, nos termos dos arts. 43 a 49
 deste Ato das Disposições Constitucionais Transitórias.
+(Redação dada pela Emenda Constitucional nº 130, de 25 de setembro de
 2025).
+Art. 43. Ficam estabelecidos, para cada exercício, limites indivi-
+dualizados para as despesas primárias correntes:
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
 I – do Poder Executivo;
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
 II – do Poder Judiciário;
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
 III – da Assembleia Legislativa;
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
 IV – do Ministério Público do Estado;
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016). 166
 165 Arguida a inconstitucionalidade na ADI nº 6061, aguardando julgamento de mérito. Ver ADI nº 6061. Ver Anexo II.
 166 Arguida a inconstitucionalidade no Tribunal de Justiça do Estado do Ceará. Aguardando julgamento de mérito.
 Processo nº 0628158-47.2018.8.06.0000 (situação: suspensa). Ver anexo II.
 167 Arguida a inconstitucionalidade no Tribunal de Justiça do Estado do Ceará. Aguardando julgamento de mérito.
 Processo nº 0628428-71.2018.8.06.0000 (situação: suspensa). Ver anexo II.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016). 167
 VI – do Tribunal de Contas do Estado.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
 § 1º Cada um dos limites a que se refere o caput deste artigo
 equivalerá:
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
 I - para o exercício de 2017, à despesa primária corrente paga no
 exercício de 2016, incluídos os restos a pagar pagos, corrigida em
 7,0% (sete inteiros por cento);
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
 II – para os exercícios posteriores, segundo definido na Lei de
 Diretrizes Orçamentárias, ao valor do limite referente ao exer-
 cício imediatamente anterior, corrigido pela variação do Índice
@@ -6811,41 +10497,55 @@ que vier a substituí-lo, ou 90% (noventa por cento) da variação
 positiva da Receita Corrente Líquida, ambos para o período de
 12 (doze) meses, encerrado em junho do exercício anterior a que
 se refere à Lei Orçamentária.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
 § 2º Os limites estabelecidos na forma do art.46, do § 1º do art.
 99, alínea “e” do art.74, parágrafo único do art. 81, art. 136 e art.
 148-A da Constituição Estadual não poderão ser superiores aos
 estabelecidos nos termos deste artigo.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
 § 3º A mensagem que encaminhar o projeto de Lei Orçamentária
 demonstrará os valores máximos de programação compatíveis
 com os limites individualizados calculados na forma dos incisos
 I e II do § 1º deste artigo.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
 § 4º As despesas primárias correntes autorizadas na Lei Orça-
 mentária Anual sujeitas aos limites de que trata este artigo não
 poderão exceder os valores máximos demonstrados nos termos
 do § 3º deste artigo.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
+
+---
 
 § 5º É vedada a abertura de crédito suplementar ou especial que
 amplie o montante total autorizado da despesa primária corrente
 sujeita aos limites de que trata este artigo.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
 § 6º Não se incluem na base de cálculo e nos limites estabelecidos
 neste artigo:
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
 I – transferências constitucionais estabelecidas nos incisos III e IV
 do art.158 da Constituição Federal;
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
 II – créditos extraordinários a que se refere o § 3º do art.167 da
 Constituição Federal e a situação prevista no art. 88, inciso XIX
 da Constituição Estadual do Ceará;
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
 III – despesas com aumento de capital de empresas estatais não
 dependentes.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
 § 7º Para fins de verificação do cumprimento dos limites de que trata
 este artigo, serão consideradas as despesas primárias correntes
 pagas, incluídos os restos a pagar pagos.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
 § 8º O pagamento de restos a pagar inscritos até 31 de dezembro
 de 2015 poderá ser excluído da verificação do cumprimento dos
 limites de que trata este artigo, até o excesso de resultado primá-
 rio dos Orçamento Fiscal e da Seguridade Social do exercício em
 relação à meta fixada na Lei de Diretrizes Orçamentárias.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
 § 9º Não se incluem na base de cálculo e nos limites estabelecidos
 nesta Lei:
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
 I – despesas relativas à saúde, inclusive as aplicações mínimas de
 recursos, no caso do Estado do Ceará, do produto de arrecadação
 dos impostos a que se refere o art. 155 e dos recursos de que tratam
@@ -6855,17 +10555,21 @@ pectivos Municípios, bem como os critérios de rateio de recursos
 da União vinculados à saúde destinados ao Estado do Ceará, e do
 Estado aos seus respectivos Municípios, objetivando a progressiva
 redução das disparidades regionais;
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
 II – despesas relativas à Educação, inclusive as aplicações mínimas
 de recursos a que se refere o art. 212 da Constituição Federal e art.
 216 da Constituição Estadual do Ceará.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
 III – despesas relativas à Segurança Pública – correspondente a
 despesas da Função 06 – Segurança Pública, definida na Portaria
 SOF/SETO/ME n.º 42, de 14 de abril de 1999, referente aos exercícios
 financeiros de 2025 e 2026.
+(Inserido pela Emenda Constitucional nº 130, de 25 de setembro de 2025).
 § 10 . As limitações dispostas neste artigo não se aplicam a fundos
 cuja operacionalização aconteça com recursos exclusivamente pró-
 prios, sem suplementação com recursos do Tesouro Estadual, ainda
 que haja previsão de dotação orçamentária na lei que instituiu.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro de 2016).
 § 11. Em razão do disposto no inciso III do § 9.º deste artigo, o
 limite individualizado para o exercício de 2027 corresponderá
 ao limite de cada Poder ou instituição calculado para o exer-
@@ -6878,33 +10582,50 @@ corresponderá ao limite de cada Poder ou instituição calculado
 para o exercício anterior, considerando apenas o que dispõem os
 incisos I e II do § 9.º, e observando a regra de atualização do inciso
 II do § 1.º deste artigo.
+(Inserido pela Emenda Constitucional nº 130, de 25 de setembro de 2025).
 Art. 43 -A. Fica criado o Conselho de Governança Fiscal do Estado,
 com o objetivo precípuo de zelar pelo equilíbrio fiscal do Estado,
 composto pelos seguintes membros:
+(Inserido pela Emenda Constitucional nº 94 de 17 de dezembro de 2018).
 I - Governador do Estado;
+(Inserido pela Emenda Constitucional nº 94 de 17 de dezembro de 2018).
 II – Presidente da Assembleia Legislativa;
+(Inserido pela Emenda Constitucional nº 94 de 17 de dezembro de 2018).
 III – Presidente do Tribunal de Justiça;
+(Inserido pela Emenda Constitucional nº 94 de 17 de dezembro de 2018).
 IV – Procurador-Geral de Justiça;
+(Inserido pela Emenda Constitucional nº 94 de 17 de dezembro de 2018).
 V – Presidente do Tribunal de Contas do Estado;
+(Inserido pela Emenda Constitucional nº 94 de 17 de dezembro de 2018).
 VI – Defensor Público-Geral.
+(Inserido pela Emenda Constitucional nº 94 de 17 de dezembro de 2018).
 § 1º Compete ao Conselho de Governança Fiscal do Estado:
+(Inserido pela Emenda Constitucional nº 94 de 17 de dezembro de 2018).
+
+---
 
 I – promover a harmonização e coordenação de ações entre os
 Poderes e Órgãos representados por seus integrantes, no que se
 refere à Gestão Fiscal;
+(Inserido pela Emenda Constitucional nº 94 de 17 de dezembro de 2018).
 II – estabelecer diretrizes de distribuição equânime de esforços e
 medidas de eficiência fiscal;
+(Inserido pela Emenda Constitucional nº 94 de 17 de dezembro de 2018).
 III – acompanhar e avaliar os resultados do Novo Regime Fiscal,
 instituído nos termos do art. 43 deste Ato das Disposições Consti-
 tucionais Transitórias;
+(Inserido pela Emenda Constitucional nº 94 de 17 de dezembro de 2018).
 IV – propor alteração nos limites a que se refere o inciso II do § 1º
 do art. 43 deste Ato das Disposições Constitucionais Transitórias,
 caso se mostre necessário ao equilíbrio fiscal do Estado;
+(Inserido pela Emenda Constitucional nº 94 de 17 de dezembro de 2018).
 V – propor a prorrogação do Novo Regime Fiscal, caso se mostre
 necessário ao equilíbrio fiscal do Estado;
+(Inserido pela Emenda Constitucional nº 94 de 17 de dezembro de 2018).
 VI – disseminar práticas que resultem em maior eficiência na
 alocação e execução do gasto público, na arrecadação de receitas,
 no controle do endividamento e na transparência da gestão fiscal.
+(Inserido pela Emenda Constitucional nº 94 de 17 de dezembro de 2018).
 § 2º O Conselho de Governança Fiscal do Estado se reunirá, no
 mínimo, 3 (três) vezes ao ano, preferencialmente nos meses de
 maio, setembro e fevereiro, após a emissão dos Relatórios de
@@ -6913,12 +10634,14 @@ nº 101, de 4 de maio de 2000, ocasiões em que deverá dentre
 outras ações decorrentes de suas competências, proceder ao
 acompanhamento e a avaliação dos resultados do Novo Regime
 Fiscal, conforme o inciso III do § 1º do caput.
+(Inserido pela Emenda Constitucional nº 94 de 17 de dezembro de 2018).
 § 3º A alteração nos limites nos termos do inciso IV, § 1º, do caput,
 a prorrogação do Novo Regime Fiscal nos termos do inciso V, § 1º,
 do caput e a alteração do método de correção dos limites a que
 se refere o inciso II do § 1º do art. 43 deste Ato das Disposições
 Constitucionais Transitórias, deverão ser realizadas por meio de
 projeto de lei complementar.
+(Inserido pela Emenda Constitucional nº 94 de 17 de dezembro de 2018).
 § 4º Ouvido o Conselho de Governança Fiscal do Estado, o Governador
 do Estado poderá propor projeto de lei complementar para alteração
 do método de correção dos limites a que se refere o inciso II do § 1º do
@@ -6930,32 +10653,43 @@ tados da gestão fiscal, o Conselho de Governança Fiscal terá o
 assessoramento técnico dos responsáveis pelo órgão central do
 sistema de controle interno, de cada Poder e Órgão citados no
 art. 43-A do caput.
+(Inserido pela Emenda Constitucional nº 94 de 17 de dezembro de 2018).
 § 6º Ato do Conselho disporá sobre a sua composição e forma de fun-
 cionamento, respeitados os mandamentos desta Constituição.
+(Inserido pela Emenda Constitucional nº 94 de 17 de dezembro de 2018).
 Art. 43-B. Para fins de observância ao disposto no art. 43 deste Ato
 de Disposições Constitucionais Transitórias, ficam redefinidos, nos
 termos deste artigo, os limites individualizados para as despesas
 primárias correntes no âmbito da Defensoria Pública do Estado,
 observado o seguinte:
+(Inserido pela Emenda constitucional nº 102, de 03 de dezembro de 2020).
 I – para os exercícios de 2017, 2018 e 2019, fica reconhecido o atendi-
 mento, para todos os efeitos, inclusive de convalidação, dos limites de
 gastos pela Defensoria Pública do Estado, conforme previsão do art.
 43 deste Ato de Disposições Constitucionais Transitórias;
+(Inserido pela Emenda constitucional nº 102, de 03 de dezembro de 2020).
 II – a partir do exercício de 2020, o limite de gastos da Defensoria
 Pública do Estado equivalerá:
+(Inserido pela Emenda constitucional nº 102, de 03 de dezembro de 2020).
 a) para o exercício de 2020, à despesa primária corrente prevista
 na Lei orçamentária do respectivo ano, acrescida de seus créditos
 adicionais e dos restos a pagar pagos;
+(Inserido pela Emenda constitucional nº 102, de 03 de dezembro de 2020).
 b) para os exercícios subsequentes, segundo definido no inciso
 II do § 1.º do art. 43 deste Ato de Disposições Constitucionais
 Transitórias.
+(Inserido pela Emenda constitucional nº 102, de 03 de dezembro de 2020).
 Art. 44. O Governador do Estado poderá propor, a partir do sexto
 exercício da vigência do Novo Regime Fiscal, projeto de Lei Com-
 plementar para alteração do método de correção dos limites a
 que se refere o inciso II do § 1º do art.43 deste Ato das Disposições
 Constitucionais Transitórias. 168
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 Parágrafo único . Será admitida apenas uma alteração do método
 de correção dos limites por mandato governamental.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
+
+---
 
 Art. 45. No caso de descumprimento de limite individualizado,
 aplicam-se, até o final do exercício de retorno das despesas aos
@@ -6963,97 +10697,126 @@ respectivos limites, aos Poderes e Órgãos elencados nos incisos I
 a VII do caput do art. 43 deste Ato das Disposições Constitucionais
 Transitórias que o descumpriu, sem prejuízo de outras medidas,
 as seguintes vedações: 169
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 I – concessão, a qualquer título, de vantagem, aumento, reajuste
 ou adequação de remuneração de membros do Poder ou de órgão,
 de servidores e empregados públicos e militares, exceto dos deri-
 vados de sentença judicial ou de determinação legal decorrente de
 atos anteriores à entrada em vigor desta Emenda Constitucional;
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 II – criação de cargo, emprego ou função que implique aumento
 de despesa;
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 III – alteração de estrutura de carreira que implique aumento de
 despesa;
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 IV – admissão ou contratação de pessoal, a qualquer título, res-
 salvadas as reposições de cargos de chefia e de direção que não
 acarretem aumento de despesa e aquelas decorrentes de vacâncias
 de cargos efetivos ou vitalícios;
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 V – realização de concurso público, exceto para as reposições de
 vacâncias previstas no inciso IV;
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 VI – criação ou majoração de auxílios, vantagens, bônus, abonos,
 verbas de representação ou benefícios de qualquer natureza em
 favor de membros de Poder, do Ministério Público, da Defensoria
 Pública, do Tribunal de Contas do Estado, e de servidores e empre-
 gados públicos e militares;
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 VII – criação de despesa obrigatória;
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 VIII – adoção de medida que implique reajuste de despesa obri-
 gatória acima da variação da inflação, observada a preservação
 do poder aquisitivo referida no inciso IV do caput do art.7º da
 Constituição Federal.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 169 Arguida a inconstitucionalidade no Tribunal de Justiça do Estado do Ceará. Aguardando julgamento de mérito.
 Processo nº 0628158-47.2018.8.06.0000 (situação: suspensa). Ver anexo II.
 § 1º Adicionalmente ao disposto no caput, no caso de descumprimento
 do limite de que trata o inciso I do caput do art. 43 deste Ato das
 Disposições Constitucionais Transitórias, ficam vedadas:
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 I – a criação ou expansão de programas e linhas de financiamento,
 bem como a remissão, renegociação ou refinanciamento de dívi-
 das que impliquem ampliação das despesas com subsídios e
 subvenções;
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 II – a concessão ou ampliação de incentivos ou benefício de natu-
 reza tributária, excetuado aqueles que impactem positivamente
 a arrecadação.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 § 2º No caso de descumprimento de qualquer dos limites individua-
 lizados de que trata o caput do art. 43 deste Ato das Disposições
 Constitucionais Transitórias, fica vedada a concessão da revisão
 geral prevista no inciso X do caput do art.37 da Constituição Federal.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 § 3º As vedações previstas neste artigo aplicam-se também a pro-
 posições legislativas.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 Art. 46. As disposições introduzidas pelo Novo Regime Fiscal:
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 I – não constituirão obrigação de pagamento futuro pelo Estado
 ou direitos de outrem sobre o erário;
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 II – não revogam, dispensam ou suspendem o cumprimento de
 dispositivos constitucionais e legais que disponham sobre metas
 fiscais ou limites máximos de despesas.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 Art. 47. A proposta de lei que crie ou altere despesa obrigatória
 deverá ser acompanhada da estimativa do seu impacto orça-
 mentário e financeiro.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 Art. 48. A proposta de lei que crie ou amplie renúncia de receita deverá
 ser acompanhada da estimativa do seu impacto orçamentário e
 financeiro e de pelo menos uma das seguintes condições:
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
+
+---
 
 I – demonstração pelo proponente de que a renúncia foi conside-
 rada na estimativa de receita da Lei Orçamentária e de que não
 afetará as metas de resultados fiscais previstas no anexo próprio
 da Lei de Diretrizes Orçamentárias;
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 II – estar acompanhada de medidas de compensação, por meio
 do aumento de receita, proveniente da elevação de alíquotas,
 ampliação da base de cálculo, majoração ou criação de tributo ou
 contribuição, expansão da atividade econômica, modernização
 dos controles fiscais, implementação da substituição tributária,
 dentre outras.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 Parágrafo único . O disposto neste artigo não se aplica a anistia,
 remissão, subsídio, crédito presumido, concessão de isenção,
 alteração de alíquota ou modificação de base de cálculo que
 implique redução de tributos ou contribuições, e outros benefícios,
 quando concedidos em caráter geral.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 Art. 49. A tramitação de proposição elencada no caput do art. 58
 da Constituição Estadual, quando acarretar aumento de despesa
 ou renúncia de receita, será suspensa por até vinte dias, a requeri-
 mento de um quarto dos membros da Casa, nos termos regimentais,
 para análise de sua compatibilidade com o Novo Regime Fiscal.
+(Inserido pela Emenda Constitucional nº 88, de 21 de dezembro 2016).
 Art. 50. Excepcionalmente, no exercício de 2024, os Poderes ou
 os órgãos de que trata o caput do art. 43 deste Ato de Disposições
 Constitucionais Transitórias poderão remanejar entre si parte do
 saldo positivo do limite individualizado de despesas primárias
 correntes aplicável no correspondente exercício.
+(Inserido pela Emenda Constitucional nº 124, de 18 de dezembro 2024).
 § 1.º O remanejamento não poderá comprometer o atendimento
 integral dos limites estabelecidos para as despesas primárias
 correntes de cada Poder ou órgão.
+(Inserido pela Emenda Constitucional nº 124, de 18 de dezembro 2024).
 § 2.º O valor remanejado, nos termos deste artigo, passa a integrar
 o limite do Poder ou órgão que o recebeu, ficando sujeito a
 correções conforme previsão do inciso II do § 1.º o art. 43 deste
 Ato de Disposições Constitucionais Transitórias.
+(Inserido pela Emenda Constitucional nº 124, de 18 de dezembro 2024).
 § 3.º O remanejamento dependerá da aquiescência formal dos
 Poderes ou órgãos envolvidos e será formalizado por meio de
 decreto do Poder Executivo.
+(Inserido pela Emenda Constitucional nº 124, de 18 de dezembro 2024).
 Fortaleza, 5 de outubro de 1989. – Antônio Câmara, Presidente
 – Antônio dos Santos, 1º Vice-Presidente, – Macário de Brito,
 2º Vice-Presidente, – Narcélio Limaverde, 1º Secretário – Ilário
